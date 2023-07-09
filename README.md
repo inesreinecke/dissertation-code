@@ -70,7 +70,7 @@ Anschließend wird der Datensatz DS-Med wie folgt im Detail geprüft:
 
 ### Ordner 02_data_to_omop+terminology
 
-**Script 00_initiale-DS-Med-to-omop.ipynb beinhaltet**  
+**Script 00_initiale-DS-Med-to-omop.ipynb beinhaltet:**  
 * Laden des Datensatzes DS-Med und des ATC-DE nach ATC-WHO Mappings basierend auf dem Datensatz DS-Katalog (das Mapping wurde basierend auf diesem Datensatz bereitgestellt)
 * Ersetzen mit dem ATC-WHO Code aller ATC-DE Codes wo möglich und wo der ATC-WHO Code im Mapping vorhanden und anders als der ATC-DE Code ist
 * Laden von ATC Vokabulars aus OMOP (WHO und DE Version)
@@ -78,7 +78,7 @@ Anschließend wird der Datensatz DS-Med wie folgt im Detail geprüft:
 * Generieren eines OMOP konformen Datenformats des Datensatzes DS-Med für die OMOP Tabelle "drug_exposure" -> Datenbasis für den Schritt 1 der Bewertung mit dem OHDSI DQD Dashboard
 * Speicherung des OMOP konformen Datenformats von Datensatz DS-Med
 
-**Script 01_verbesserte-DS-Med-to-omop.ipynb beinhaltet**  
+**Script 01_verbesserte-DS-Med-to-omop.ipynb beinhaltet:**  
 * Laden des Datensatzes DS-Med (nach Durchführung der Maßnahmen zur Verbesserung der Datenstuktur) und des ATC-DE nach ATC-WHO Mappings basierend auf dem Datensatz DS-Katalog (das Mapping wurde basierend auf diesem Datensatz bereitgestellt)
 * Ersetzen mit dem ATC-WHO Code aller ATC-DE Codes wo möglich und wo der ATC-WHO Code im Mapping vorhanden und anders als der ATC-DE Code ist
 * Laden von ATC Vokabulars aus OMOP (WHO und DE Version)
@@ -86,7 +86,7 @@ Anschließend wird der Datensatz DS-Med wie folgt im Detail geprüft:
 * Generieren eines OMOP konformen Datenformats des Datensatzes DS-Med für die OMOP Tabelle "drug_exposure" -> Datenbasis für den Schritt 1 der Bewertung mit dem OHDSI DQD Dashboard
 * Speicherung des OMOP konformen Datenformats von Datensatz DS-Med - Schritt2: Verbesserte Datenstruktur der Medikationsverordnungen
 
-**Script 02_RxNorm-Transfer-DS-Med-omop.ipynb beinhaltet**  
+**Script 02_RxNorm-Transfer-DS-Med-omop.ipynb beinhaltet:**  
 * Laden des Datensatzes DS-Med (nach Durchführung der Maßnahmen zur Verbesserung der Datenstuktur) bereits im OMOP Format (Eingangsgröße hier das Ergebnis von Script 01_verbesserte-DS-Med-to-omop) 
 * Laden der ATC nach RxNorm Mappings
 * Zusammenführen der Medikationsverordnungen mit den Mappings
@@ -94,13 +94,13 @@ Anschließend wird der Datensatz DS-Med wie folgt im Detail geprüft:
 
 ### Ordner 03_data_transparency
 
-**Script 00_Streudiagramm-Struktur.ipynb beinhaltet**    
+**Script 00_Streudiagramm-Struktur.ipynb beinhaltet:**    
 * Einlesen der Daten DS-Med als Eingangsgröße (scatter_input)
 * Einlesen der ATC Codes Version 2022 - mit den entsprechenden ATC Beschreibungen in Deutsch
 * Zusammenführen der Medikationsverordnungen mit den ATC Codes und den Beschreibungen
 * Generieren eines Streudiagramms mit der Bibliothek Bokeh, interaktiv
 
-**Script 01_Streudiagramm-Überführbarkeit-RxNorm.ipynb beinhaltet**  
+**Script 01_Streudiagramm-Überführbarkeit-RxNorm.ipynb beinhaltet:**  
 * Einlesen der Daten DS-Med als Eingangsgröße, nach Durchführung der Maßnahmen zur Verbesserung der Datenstruktur, im OMOP Format
 * Einlesen der ATC Codes Version 2022 - mit den entsprechenden ATC Beschreibungen in Deutsch
 * Zusammenführen der Medikationsverordnungen mit den ATC Codes und den Beschreibungen
