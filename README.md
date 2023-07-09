@@ -1,6 +1,6 @@
 # dissertation-code
 
-Dieses Projekt ist Bestandteil der Dissertation von Ines Reinecke
+Dieses Projekt ist Bestandteil der Dissertation von Ines Reinecke,
 vorgelegt am 11.07.2023 an der Technischen Universität Dresden, Medizinische Fakultät
 
 ## Struktur des Projektes
