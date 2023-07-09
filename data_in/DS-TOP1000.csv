@@ -1,0 +1,1003 @@
+﻿MEDICATION;ATC_CODE;CAT_MATCH;size;PIPE;INGREDIENT;STEP1;STEP2;STEP31;STEP32;STEP33;LEV1;LEV2;LEV3;TRUE12;TRUE123;TRUE13;TRUE23;MATCH;ATC_JOS_LVL1;ATC_CODE_LVL1;eval1;eval2;eval31;eval32;eval33;correct;level;kommentar;Kommentar Apotheke
+PANTOPRAZOL HEXAL 20 mg magensaftres.Tabletten | (Pantoprazol);;No Match;24223;1;pantoprazol;A02BC02;A02BC02;A02BC02;;;95;;;1;1;1;1;0;A;;1;1;1;;;0;5;;
+PANTOPRAZOL HEXAL 40 mg magensaftres.Tabletten | (Pantoprazol);;No Match;23289;1;pantoprazol;A02BC02;A02BC02;A02BC02;;;95;;;1;1;1;1;0;A;;1;1;1;;;0;5;;
+METAMIZOL HEXAL Tropfen | (Metamizol);;No Match;21406;1;metamizol;N02BB02;;N02BB02;;;83;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+TOREM 10 Tabletten | (Torasemid);;No Match;13013;1;torasemid;C03CA04;;C03CA04;;;71;;;0;0;1;0;0;C;;1;;1;;;0;5;;
+INHIXA 4.000 I.E. 40 mg/0,4 ml ILO F.Sp.+Sich-Sys. | (Enoxaparin natrium);;No Match;12027;1;enoxaparin natrium;B01AB05;;B01AB05;;;39;;;0;0;1;0;0;B;;1;;1;;;0;5;;
+ZOPICLON HEXAL 7,5 mg Filmtabletten | (Zopiclon);;No Match;10473;1;zopiclon;N05CF01;;N05CF01;;;71;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+IBUHEXAL 600 Filmtabletten | (Ibuprofen);;No Match;10265;1;ibuprofen;;;M01AE01;;;48;;;0;0;0;0;0;M;;;;1;;;0;5;;
+MOVICOL V 13,81 g Pulver z.Herst.e.Lsg.z.Einnehm. | (Natrium-Ion, Kalium-Ion, Chlorid-Ion);;No Match;9571;1;natrium-ion, kalium-ion, chlorid-ion;;;A06AD65;J05AF01;;64;51.0;;0;0;0;0;0;A;;;;1;0;;0;5;;
+LASIX 20 mg Inj.-Lsg. Ampullen | (Furosemid);;No Match;8036;1;furosemid;C03CA01;;C03CA01;;;69;;;0;0;1;0;0;C;;1;;1;;;0;5;;
+Novalgin p.o./i.v. (bei Durchführung auswählen);;No Match;6429;0;;;;N02BB02;D01AC03;C01DX12;64;51.0;50.0;0;0;0;0;0;N;;;;1;0;0;0;5;;
+CEFTRIAXON Kabi 2,0 g Plv.z.Herst.e.Inf.Lsg. | (Ceftriaxon, Natrium-Ion);;No Match;6180;1;ceftriaxon, natrium-ion;;;J01DD04;L04AA18;;72;59.0;;0;0;0;0;0;J;;;;1;0;;0;5;;
+RAMIPRIL HEXAL 5 mg Tabletten | (Ramipril);;No Match;6084;1;ramipril;;C09AA05;C09AA05;;;94;;;0;0;0;1;0;C;;;1;1;;;0;5;;
+ATORVASTATIN ratiopharm 40 mg Filmtabletten | (Atorvastatin);;No Match;5326;1;atorvastatin;;;C10AA05;;;96;;;0;0;0;0;0;C;;;;1;;;0;5;;
+Zopiclon 7,5 mg;;No Match;5316;0;;;;N05CF01;;;80;;;0;0;0;0;0;N;;;;1;;;0;5;;
+E153;;No Match;4855;0;;;;N04BC05;A10BG03;;35;29.0;;0;0;0;0;0;N;;;;0;0;;B05BB01;5;;
+TAMSUNAR 0,4 mg Hartkaps.m.veränd.Wirkst.-Frs. | (Tamsulosin);;No Match;4399;1;tamsulosin;;;G04CA02;G04CA52;;57;50.0;;0;0;0;0;0;G;;;;1;0;;0;5;;
+E 153;;No Match;4317;0;;;;B05BB01;;;75;;;0;0;0;0;0;B;;;;1;;;0;5;;
+Paracetamol p.o./i.v. (bei Durchführung auswählen);;No Match;3879;0;;;;N02BE01;;;65;;;0;0;0;0;0;N;;;;1;;;0;5;;
+ALLOPURINOL HEXAL 300 Tabletten | (Allopurinol);;No Match;3799;1;allopurinol;;;M04AA01;M04AA51;;73;69.0;;0;0;0;0;0;M;;;;1;0;;0;5;;
+INHIXA 4.000 I.E. (40 mg) 0,4 ml Injektionslösung | (Enoxaparin) GFR > 30;;No Match;3592;1;enoxaparin) gfr > 3;;;B02BD09;B02BD36;;69;69.0;;0;0;0;0;0;B;;;;0;0;;B01AB05;5;;
+ELEKTROLYT Inf.-Lsg. 153 | (Natrium-Ion, Kalium-Ion, Calcium-Ion, Magnesium-Ion);;No Match;3509;1;natrium-ion, kalium-ion, calcium-ion, magnesium-ion;;;B05BB01;;;78;;;0;0;0;0;0;B;;;;1;;;0;5;;
+MONO EMBOLEX 3.000 I.E.Prophyl.Sicherh.Spr. | (Certoparin natrium);;No Match;3475;1;certoparin natrium;B01AB13;;B01AB13;;;80;;;0;0;1;0;0;B;;1;;1;;;0;5;;
+RAMIPRIL HEXAL 2,5 mg Tabletten | (Ramipril);;No Match;3141;1;ramipril;;C09AA05;C09AA05;C09BA25;;95;94.0;;0;0;0;1;0;C;;;1;1;1;;0;5;;
+ELEKTROLYT Inf.-Lsg. 153 PE-Flasche | (Natrium-Ion, Kalium-Ion, Calcium-Ion, Chlorid-Ion);;No Match;3118;1;natrium-ion, kalium-ion, calcium-ion, chlorid-ion;;;B05BB01;;;78;;;0;0;0;0;0;B;;;;1;;;0;5;;
+UNACID 3 g (ab Saal);;No Match;2929;0;;;;J01CR01;;;75;;;0;0;0;0;0;J;;;;1;;;0;5;;
+Lasix;;No Match;2834;0;;;C03CA01;C03CA01;D01AE15;;100;67.0;;0;0;0;1;0;C;;;1;1;0;;0;5;;
+Blutkulturen bei T > 38°C (bis 3/d);;No Match;2819;0;;;;A07DA03;R06AE07;B03AA07;52;47.0;47.0;0;0;0;0;0;A;;;;0;0;0;nomed;nomed;no_med;nomed
+PANTOPRAZOL NORMON 40 mg Plv.z.Herst.e.Injek.-Lsg. | (Pantoprazol);;No Match;2790;1;pantoprazol;A02BC02;;A02BC02;;;72;;;0;0;1;0;0;A;;1;;1;;;0;5;;
+ALLOPURINOL HEXAL 100 Tabletten | (Allopurinol);;No Match;2767;1;allopurinol;;;M04AA01;M04AA51;;73;69.0;;0;0;0;0;0;M;;;;1;0;;0;5;;
+MCP 10 mg p.o./i.v. (bei Durchführung auswählen);;No Match;2657;0;;;;A12CC02;A03FA01;;71;70.0;;0;0;0;0;0;A;;;;0;1;;0;5;;
+REKAWAN Filmtabletten 1000 mg | (Kalium-Ion, Kalium-Ion);;No Match;2634;1;kalium-ion, kalium-ion;;;N03AG01;;;75;;;0;0;0;0;0;N;;;;0;;;A12BA01;5;;
+LAXOBERAL Abführ Tropfen | (Natrium picosulfat);;No Match;2558;1;natrium picosulfat;;;A06AB08;V04CZ;;37;30.0;;0;0;0;0;0;A;;;;1;0;;0;5;;
+"Insulintherapie: AO auf UKD Inuslin-Anpassungsplan 9636Dokumentation: auf Diabteskurve";;No Match;2437;0;;;;V06CA50;S01AX02;D06BB03;55;54.0;51.0;0;0;0;0;0;V;;;;0;0;0;A10A;3;no_med;A10A
+FRAXIPARINE 0,8 ml Injektionslösg. i.e.Fertigspr. | (Nadroparin calcium);;No Match;2334;1;nadroparin calcium;;;L01BB02;D08AF01;L04AA10;63;61.0;61.0;0;0;0;0;0;L;;;;0;0;0;B01AB06;5;;
+TAVOR Tabletten | (Lorazepam);;No Match;2268;1;lorazepam;N05BA06;;N05BA06;;;62;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+Vomex 62 mg Amp;;No Match;2152;0;;;;A04AB02;C09CA08;;83;67.0;;0;0;0;0;0;A;;;;1;0;;0;5;;
+FRAXIPARIN 0,6 ml Injektionslösung i.e.Fertigspr. | (Nadroparin calcium);;No Match;2112;1;nadroparin calcium;;;D08AF01;L01BB02;A03FA01;62;59.0;58.0;0;0;0;0;0;D;;;;0;0;0;B01AB06;5;;
+NACL 0,9% CF Care Lock | (Natrium-Ion, Chlorid-Ion);;No Match;2019;1;natrium-ion, chlorid-ion;;;B05CB01;D08AF01;;84;54.0;;0;0;0;0;0;B;;;;1;0;;0;5;;
+Movicol Btl;;No Match;2017;0;;;;A06AD65;S01EB09;;78;60.0;;0;0;0;0;0;A;;;;1;0;;0;5;;
+LEVETIRACETAM STADA 500 mg Filmtabletten | (Levetiracetam);;No Match;2003;1;levetiracetam;N03AX14;;N03AX14;;;80;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+ASS RATIOPHARM 100 mg TAH Tabletten | (Acetylsalicylsäure);;No Match;1992;1;acetylsalicylsäure;;;N02BA01;B01AC06;;89;88.0;;0;0;0;0;0;N;;;;0;1;;0;5;;
+CANDESARTAN HEXAL 8 mg Tabletten | (Candesartan);;No Match;1910;1;candesartan;;;C09CA06;;;94;;;0;0;0;0;0;C;;;;1;;;0;5;;
+Bifiteral ml;;No Match;1879;0;;;;A06AD11;A06AD04;;86;56.0;;0;0;0;0;0;A;;;;1;0;;0;5;;
+MIRTAZAPIN HEXAL 15 mg Filmtabletten | (Mirtazapin);;No Match;1870;1;mirtazapin;N06AX11;;N06AX11;;;91;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+IBUPROFEN STADA 600 mg Filmtabletten | (Ibuprofen);;No Match;1766;1;ibuprofen;;M01AE01;M01AE01;;;90;;;0;0;0;1;0;M;;;1;1;;;0;5;;
+DUROGESIC SMAT 12 µg/h 2,1mg Fentanyl/Pfl. | (Fentanyl);;No Match;1711;1;fentanyl;;N02AB03;N02AB03;;;92;;;0;0;0;1;0;N;;;1;1;;;0;5;;
+Prednisolon;;No Match;1665;0;;;;S01CA53;H02AB06;;100;100.0;;0;0;0;0;0;S;;;;0;1;;0;5;;
+AMLODIPIN HEXAL 5 mg Tabletten | (Amlodipin);;No Match;1637;1;amlodipin;;C08CA01;C08CA01;;;94;;;0;0;0;1;0;C;;;1;1;;;0;5;;
+LEVETIRACETAM STADA 1.000 mg Filmtabletten | (Levetiracetam);;No Match;1636;1;levetiracetam;N03AX14;;N03AX14;;;75;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+RANITIC 150 Filmtabletten | (Ranitidin);;No Match;1611;1;ranitidin;;;N03AG01;A07EC01;;73;70.0;;0;0;0;0;0;N;;;;0;0;;A02BA02;5;;
+MACROGOL STADA 13,7 g Plv.z.Her.e.Lsg.z.Einnehmen | (Natrium-Ion, Kalium-Ion, Chlorid);A06AD15;Fuzzy Match;1603;1;natrium-ion, kalium-ion, chlorid;;;C07AB07;A06AD65;N04BC05;59;59.0;59.0;0;0;0;0;2;C;A;;;0;1;0;0;5;;
+Clexane 4.000 I. E. (40 mg) 0,4 ml Injektionslösung | (Enoxaparin) GFR > 30;;No Match;1513;1;enoxaparin) gfr > 3;;;B01AB05;;;75;;;0;0;0;0;0;B;;;;1;;;0;5;;
+NOVANOX Tabletten | (Nitrazepam);N05CD02;Fuzzy Match;1498;1;nitrazepam;N05CD02;;N05CD02;;;33;;;0;0;1;0;1;N;N;1;;1;;;0;5;;
+MEROPENEM Kabi 1 g Plv.z.Her.e.Inj.-/Inf.-L. | (Meropenem);;No Match;1477;1;meropenem;J01DH02;;J01DH02;;;74;;;0;0;1;0;0;J;;1;;1;;;0;5;;
+DUROGESIC SMAT 25 µg/h 4,2mg Fentanyl/Pfl. | (Fentanyl);;No Match;1462;1;fentanyl;;;N02AB03;;;90;;;0;0;0;0;0;N;;;;1;;;0;5;;
+INHIXA 4.000 I.E. (40 mg) 0,4 ml Injektionslösung !GFR > 30 | (Enoxaparin);;No Match;1453;1;enoxaparin;;;B02BD09;B02BD36;;69;69.0;;0;0;0;0;0;B;;;;0;0;;B01AB05;5;;
+XIPAMID HEXAL 10 mg Tabletten | (Xipamid);;No Match;1446;1;xipamid;C03BA10;;C03BA10;;;67;;;0;0;1;0;0;C;;1;;1;;;0;5;;
+PARACETAMOL Amneal 10 mg/ml 1g Inf.-L.100 ml Dsfl. | (Paracetamol);;No Match;1415;1;paracetamol;N02BE01;;N02BE01;;;69;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+LYRICA 75 mg Hartkapseln | (Pregabalin);;No Match;1400;1;pregabalin;N03AX16;;N03AX16;;;83;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+LYRICA 50 mg Hartkapseln | (Pregabalin);;No Match;1380;1;pregabalin;N03AX16;;N03AX16;;;83;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+RENVELA 800 mg Filmtabletten | (Sevelamer carbonat);;No Match;1375;1;sevelamer carbonat;V03AE02;;V03AE02;;;77;;;0;0;1;0;0;V;;1;;1;;;0;5;;
+LYRICA 25 mg Hartkapseln | (Pregabalin);;No Match;1370;1;pregabalin;N03AX16;;N03AX16;;;92;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+MAGNESIUM-DIASPORAL 300 mg Granulat | (Magnesium-Ion);;No Match;1350;1;magnesium-ion;;;A12CC05;A12CC11;A12CC02;75;67.0;59.0;0;0;0;0;0;A;;;;0;0;0;A12CC04;5;;
+CITALOPRAM HEXAL 20 mg Filmtabletten | (Citalopram);;No Match;1323;1;citalopram;N06AB04;N06AB04;N06AB04;;;95;;;1;1;1;1;0;N;;1;1;1;;;0;5;;
+ELEKTROLYT Inf.-Lsg.153 N Berlin Chemie Plastik | (Natrium-Ion, Kalium-Ion, Calcium-Ion);;No Match;1258;1;natrium-ion, kalium-ion, calcium-ion;;;B05BB01;;;74;;;0;0;0;0;0;B;;;;1;;;0;5;;
+ADENURIC 80 mg Filmtabletten | (Febuxostat);;No Match;1248;1;febuxostat;M04AA03;;M04AA03;;;86;;;0;0;1;0;0;M;;1;;1;;;0;5;;
+MIRTAZAPIN STADA 15 mg Filmtabletten | (Mirtazapin);;No Match;1229;1;mirtazapin;N06AX11;N06AX11;N06AX11;;;95;;;1;1;1;1;0;N;;1;1;1;;;0;5;;
+Inf. E153 (i.v.) 500 mL;;No Match;1229;0;;;;N02BA13;B06AC01;B02BD09;55;55.0;52.0;0;0;0;0;0;N;;;;0;0;0;B05BB01;5;;
+FRAXIPARIN 0,4 ml Injektionslösung i.e.Fertigspr. | (Nadroparin calcium);;No Match;1218;1;nadroparin calcium;;;D08AF01;G04CA02;;62;59.0;;0;0;0;0;0;D;;;;0;0;;B01AB06;5;;
+LEPONEX Tabletten | (Clozapin);;No Match;1216;1;clozapin;N05AH02;;N05AH02;;;74;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+VITAMIN B12 1000 µg Inject Jenapharm Ampullen | (Cyanocobalamin);;No Match;1208;1;cyanocobalamin;B03BA01;;B03BA01;;;81;;;0;0;1;0;0;B;;1;;1;;;0;5;;
+OXYGESIC 10 mg Retardtabletten | (Oxycodon) bei Schmerzen NRS>=4 (alle12h);;No Match;1201;1;oxycodon) bei schmerzen nrs>=4 (alle12h;;;N02AA05;;;96;;;0;0;0;0;0;N;;;;1;;;0;5;;
+Metamizol (i.v.) 1000 mg/2 mL Inf. 30min LM=TL:NaCl 0,9%;;No Match;1170;0;;;;A11CC05;N02BB02;B01AD12;67;67.0;63.0;0;0;0;0;0;A;;;;0;1;0;0;5;;
+CELLCEPT 500 mg Tabletten | (Mycophenolsäure);;No Match;1162;1;mycophenolsäure;L04AA06;;L04AA06;;;73;;;0;0;1;0;0;L;;1;;1;;;0;5;;
+Sevredol;;No Match;1144;0;;;N02AA01;N02AA01;G02CB05;;100;75.0;;0;0;0;1;0;N;;;1;1;0;;0;5;;
+Vitamin B1;;No Match;1130;0;;;;A11DA01;A11CC05;N07XB52;100;82.0;82.0;0;0;0;0;0;A;;;;1;0;0;0;5;;
+MAGNESIUM VERLA 300 Orange Granulat | (Magnesium-Ion);;No Match;1078;1;magnesium-ion;;;A12CC05;A12CC11;A12CC02;100;68.0;59.0;0;0;0;0;0;A;;;;0;0;0;V06XX02;5;;
+XIPAMID HEXAL 20 mg Tabletten | (Xipamid);;No Match;1052;1;xipamid;C03BA10;;C03BA10;;;62;;;0;0;1;0;0;C;;1;;1;;;0;5;;
+INNOHEP 20.000 Anti XA I.E./ml 0,7ml Fertigspr. | (Tinzaparin natrium);;No Match;1029;1;tinzaparin natrium;B01AB10;;B01AB10;;;77;;;0;0;1;0;0;B;;1;;1;;;0;5;;
+METOHEXAL Succ 47,5 mg Retardtabletten | (Metoprolol);;No Match;1018;1;metoprolol;;C07AB02;C07AB02;;;95;;;0;0;0;1;0;C;;;1;1;;;0;5;;
+UNACID 3 g z. Infusion Trockensubst.o.Lösungsm. | (Ampicillin, Sulbactam, Natrium-Ion);;No Match;1011;1;ampicillin, sulbactam, natrium-ion;;;J01CR01;;;75;;;0;0;0;0;0;J;;;;1;;;0;5;;
+PANTOPRAZOL Amneal 40 mg Plv.z.Herst.e.Injek.-Lsg. | (Pantoprazol);;No Match;995;1;pantoprazol;A02BC02;;A02BC02;;;84;;;0;0;1;0;0;A;;1;;1;;;0;5;;
+IBUHEXAL 400 Filmtabletten | (Ibuprofen);;No Match;987;1;ibuprofen;;;M01AE01;;;53;;;0;0;0;0;0;M;;;;1;;;0;5;;
+MONO EMBOLEX 3.000 I.E.Prophyl.Sicherh.Spr. | (Certoparin natrium) !GFR>30;;No Match;962;1;certoparin natrium) !gfr>3;;;B01AB13;B03AC;;80;58.0;;0;0;0;0;0;B;;;;1;0;;0;5;;
+NOVAMINSULFON ratioph.1 g/2 ml Inj.Lsg. Ampullen | (Metamizol);;No Match;942;1;metamizol;N02BB02;;N02BB02;;;81;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+Metamizol-Natrium (i.v.) 1000 mg/ 2 mL Inf. 30min LM=TL:NaCl 0,9%;;No Match;936;0;;;;V03AE01;B02BD17;B01AB01;67;60.0;60.0;0;0;0;0;0;V;;;;0;0;0;N02BB02;5;;
+INHIXA 8.000 I.E. 80 mg/0,8 ml ILO F.Sp.+Sich-Sys. | (Enoxaparin natrium);;No Match;931;1;enoxaparin natrium;B01AB05;;B01AB05;;;38;;;0;0;1;0;0;B;;1;;1;;;0;5;;
+TAVOR 0,5 Tabletten | (Lorazepam);;No Match;928;1;lorazepam;N05BA06;;N05BA06;;;78;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+Magnesium Diasporal;;No Match;915;0;;;;A12CC05;A12CC30;;75;68.0;;0;0;0;0;0;A;;;;0;0;;A12CC04;5;;
+CEFUROXIM Fresenius 1500 mg Plv.Inf.-Lsg.-Herst. | (ab Saal);;No Match;911;1;ab saal;;;J01DC02;;;90;;;0;0;0;0;0;J;;;;1;;;0;5;;
+TRYASOL Codein forte Tropfen zum Einnehmen | (Codein);;No Match;906;1;codein;;;R05DA04;N02AJ06;;50;47.0;;0;0;0;0;0;R;;;;1;0;;0;5;;
+peripherer Schmerzkatheter Naropin 0,2%;;No Match;898;0;;;;N01BB09;V06DB52;M02AA15;54;53.0;52.0;0;0;0;0;0;N;;;;1;0;0;0;5;;
+SIMVAHEXAL 40 mg Filmtabletten | (Simvastatin);;No Match;887;1;simvastatin;C10AA01;;C10AA01;;;97;;;0;0;1;0;0;C;;1;;1;;;0;5;;
+SCHWEDEN-TABLETTEN 0,25 | (Natriumchlorid);;No Match;873;1;natriumchlorid;;;S01KX02;B05XA16;;39;25.0;;0;0;0;0;0;S;;;;0;0;;V06XX02;5;Welcher ATC Code?;V06XX02
+INHIXA 6.000 I.E. 60 mg/0,6 ml ILO F.Sp.+Sich-Sys. | (Enoxaparin natrium);;No Match;867;1;enoxaparin natrium;B01AB05;;B01AB05;;;38;;;0;0;1;0;0;B;;1;;1;;;0;5;;
+CANDESARTAN HEXAL 4 mg Tabletten | (Candesartan);;No Match;858;1;candesartan;;C09CA06;C09CA06;;;95;;;0;0;0;1;0;C;;;1;1;;;0;5;;
+LOPERAMID-ratiopharm akut 2 mg Filmtabletten | (Loperamid);;No Match;853;1;loperamid;A07DA03;;A07DA03;;;91;;;0;0;1;0;0;A;;1;;1;;;0;5;;
+ARILIN 500 Filmtabletten | (Metronidazol);;No Match;853;1;metronidazol;;;G01AF01;D06BX01;J01XD01;100;38.0;35.0;0;0;0;0;0;G;;;;0;0;0;P01AB01;5;;
+Skinsan® scrub - Körper;;No Match;849;0;;;;A03AX13;;;55;;;0;0;0;0;0;A;;;;0;;;nomed;nomed;no_med?;nomed, Körperpflege
+CANDESARTAN HEXAL comp 16 mg/12,5 mg Tabletten | (Candesartan);;No Match;841;1;candesartan;;;C09CA06;C09DA26;;89;84.0;;0;0;0;0;0;C;;;;0;1;;0;5;;
+LEPONEX 25 Tabletten | (Clozapin);;No Match;834;1;clozapin;N05AH02;;N05AH02;;;74;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+UNACID 3 g z. Infusion in 100 ml NaCl über 1 h| (Ampicillin, Sulbactam, Natrium-Ion);;No Match;831;1;ampicillin, sulbactam, natrium-ion;;;J01CR01;;;75;;;0;0;0;0;0;J;;;;1;;;0;5;;
+DUROGESIC SMAT 50 µg/h 8,4mg Fentanyl/Pfl. | (Fentanyl);;No Match;781;1;fentanyl;;;N02AB03;;;90;;;0;0;0;0;0;N;;;;1;;;0;5;;
+PRAVASTATIN HEXAL 20 mg Tabletten | (Pravastatin);;No Match;780;1;pravastatin;C10AA03;;C10AA03;;;92;;;0;0;1;0;0;C;;1;;1;;;0;5;;
+Sultanol 2,5 mg;R03AC02;Fuzzy Match;764;0;;;;R03AC02;N06AA06;;100;74.0;;0;0;0;0;1;R;R;;;1;0;;0;5;;
+ARIXTRA 2,5 mg/0,5 ml Inj.-Lsg.i.e.Fertigspritze | (Fondaparinux natrium);;No Match;755;1;fondaparinux natrium;B01AX05;;B01AX05;;;81;;;0;0;1;0;0;B;;1;;1;;;0;5;;
+LOPERAMID akut Aristo 2 mg Tabletten | (Loperamid);;No Match;747;1;loperamid;A07DA03;;A07DA03;;;62;;;0;0;1;0;0;A;;1;;1;;;0;5;;
+CITALOPRAM HEXAL 10 mg Filmtabletten | (Citalopram);;No Match;744;1;citalopram;N06AB04;;N06AB04;;;95;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+GABAPENTIN HEXAL 300 mg Hartkapseln | (Gabapentin);;No Match;739;1;gabapentin;N03AX12;;N03AX12;;;90;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+Inf. E153 (i.v.) 1000 mL;;No Match;737;0;;;;N02BA13;B06AC01;B02BD09;55;55.0;52.0;0;0;0;0;0;N;;;;0;0;0;B05BB01;5;;
+CANDESARTAN-1A Pharma 16 mg Tabletten | (Candesartan);;No Match;726;1;candesartan;;;C09CA06;;;82;;;0;0;0;0;0;C;;;;1;;;0;5;;
+LOCOL 80 mg Retardtabletten | (Fluvastatin);;No Match;723;1;fluvastatin;C10AA04;;C10AA04;;;26;;;0;0;1;0;0;C;;1;;1;;;0;5;;
+DEKRISTOL 20.000 I.E. Weichkapseln | (Colecalciferol);;No Match;720;1;colecalciferol;;;A11CC05;;;92;;;0;0;0;0;0;A;;;;1;;;0;5;;
+ATROVENT (Ipratropiumbromid) 0,5 mg;;No Match;717;0;;;;R03BB01;S01ED01;G02CB03;89;59.0;56.0;0;0;0;0;0;R;;;;1;0;0;0;5;;
+BIFITERAL Sirup | (Lactulose);;No Match;714;1;lactulose;A06AD11;;A06AD11;;;75;;;0;0;1;0;0;A;;1;;1;;;0;5;;
+Heparin;;No Match;707;0;;;;C05BA03;B01AB01;;100;100.0;;0;0;0;0;0;C;;;;0;1;;0;5;Welcher ATC Code?;B01AB01
+PIPAMPERON HEXAL 40 mg Tabletten | (Pipamperon);;No Match;701;1;pipamperon;N05AD05;;N05AD05;;;91;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+CEFUROXIM 1500 mg Plv.Inf.-Lsg.-Herst. in 50mlNaCl über 1h (Cefuroxim, Natrium-Ion) GFR>50;;No Match;697;0;;;;J01DC02;;;84;;;0;0;0;0;0;J;;;;1;;;0;5;;
+MOTILIUM Filmtabletten | (Domperidon);;No Match;685;1;domperidon;A03FA03;;A03FA03;;;61;;;0;0;1;0;0;A;;1;;1;;;0;5;;
+Ibuprofen (p.o.) 40 mg/mL Suspension;;No Match;683;0;;;;M01AE01;;;81;;;0;0;0;0;0;M;;;;1;;;0;5;ATC Code M01AE01 korrekt?;M01AE01
+Actrapid;;No Match;683;0;;;A10AB01;A10AB01;;;100;;;0;0;0;1;0;A;;;1;1;;;0;5;;
+MIRTAZAPIN HEXAL 30 mg Filmtabletten | (Mirtazapin);;No Match;681;1;mirtazapin;N06AX11;;N06AX11;;;91;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+INNOHEP 20.000 Anti XA I.E./ml 0,5ml Fertigspr. | (Tinzaparin natrium);;No Match;680;1;tinzaparin natrium;B01AB10;;B01AB10;;;77;;;0;0;1;0;0;B;;1;;1;;;0;5;;
+PREDNISOLON;;No Match;671;0;;;;S01CA53;H02AB06;;100;100.0;;0;0;0;0;0;S;;;;0;1;;0;5;;
+KALINOR Brausetabletten | (Kalium-Ion, Kalium-Ion, Citrat-Trianion);A12BA30;Fuzzy Match;657;1;kalium-ion, kalium-ion, citrat-trianion;;;A12BA30;B05CB10;A12BA01;100;54.0;53.0;0;0;0;0;1;A;A;;;1;0;0;0;5;;
+IBUPROFEN Atid 600 mg Filmtabletten | (Ibuprofen);;No Match;653;1;ibuprofen;;;M01AE01;;;82;;;0;0;0;0;0;M;;;;1;;;0;5;;
+XIPAMID HEXAL 40 mg Tabletten | (Xipamid);;No Match;647;1;xipamid;C03BA10;;C03BA10;;;67;;;0;0;1;0;0;C;;1;;1;;;0;5;;
+Faustan (Diazepam);;No Match;641;0;;;;N05BA01;;;70;;;0;0;0;0;0;N;;;;1;;;0;5;;
+NOVAMINSULFON ratioph.500 mg Tabletten | (Metamizol);;No Match;641;1;metamizol;N02BB02;;N02BB02;;;93;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+Schmerzkatheter Naropin 0,2%;;No Match;636;0;;;;N02AJ06;N01BB09;M04AA51;54;54.0;52.0;0;0;0;0;0;N;;;;0;1;0;0;5;;
+SIMVAHEXAL 20 mg Filmtabletten | (Simvastatin);;No Match;630;1;simvastatin;C10AA01;;C10AA01;;;97;;;0;0;1;0;0;C;;1;;1;;;0;5;;
+METOHEXAL Succ 95 mg Retardtabletten | (Metoprolol);;No Match;614;1;metoprolol;;C07AB02;C07AB02;;;94;;;0;0;0;1;0;C;;;1;1;;;0;5;;
+Pantoprazol;;No Match;612;0;;;A02BC02;A02BC02;;;100;;;0;0;0;1;0;A;;;1;1;;;0;5;;
+RISPERIDON HEXAL Filmtabletten | (Risperidon);;No Match;612;1;risperidon;N05AX08;;N05AX08;;;89;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+UNACID 3 g;;No Match;611;0;;;;J01CR01;;;75;;;0;0;0;0;0;J;;;;1;;;0;5;;
+INHIXA 2.000 I.E. 20 mg/0,2 ml ILO F.Sp.+Sich-Sys. | (Enoxaparin natrium);;No Match;610;1;enoxaparin natrium;B01AB05;;B01AB05;;;39;;;0;0;1;0;0;B;;1;;1;;;0;5;;
+NOVAMINSULFON ratioph.1 g/2 ml Inj.Lsg. Ampullen | (Metamizol) in 100ml NaCl;;No Match;608;1;metamizol) in 100ml nac;;;N02BB02;;;81;;;0;0;0;0;0;N;;;;1;;;0;5;;
+E 154;;No Match;601;0;;;;B05BB11;L01EX09;;75;53.0;;0;0;0;0;0;B;;;;1;0;;0;5;;
+NOVAMINSULFON ratioph.1 g/2 ml Inj.Lsg. Ampullen | (Metamizol) Kurzinfusion;;No Match;593;1;metamizol) kurzinfusio;;;N02BB02;;;81;;;0;0;0;0;0;N;;;;1;;;0;5;;
+METRONIDAZOL B.Braun 5 mg/ml Infusionslösung | (ab Saal);;No Match;582;1;ab saal;;;J01XD01;P01AB01;A03BA01;95;71.0;62.0;0;0;0;0;0;J;;;;1;0;0;0;5;;
+ZYPREXA VELOTAB Schmelztabletten | (Olanzapin);;No Match;582;1;olanzapin;N05AH03;;N05AH03;;;88;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+PREDNISOLON Jenapharm Tabletten | (Prednisolon);;No Match;579;1;prednisolon;;;H02AB06;;;91;;;0;0;0;0;0;H;;;;1;;;0;5;;
+CEFUROXIM Fresenius 1500 mg Plv.Inf.-Lsg.-Herst. | (Cefuroxim, Natrium-Ion);;No Match;578;1;cefuroxim, natrium-ion;;;J01DC02;;;90;;;0;0;0;0;0;J;;;;1;;;0;5;;
+E154;;No Match;577;0;;;;A10BG03;A11DA01;;29;29.0;;0;0;0;0;0;A;;;;0;0;;B05BB11;5;;
+EXFORGE 5 mg/160 mg Filmtabletten | (Amlodipin);;No Match;575;1;amlodipin;;;C09DB01;;;91;;;0;0;0;0;0;C;;;;1;;;0;5;;
+MONO EMBOLEX 3.000 I.E.Prophyl.Sicherh.Spr. | (Certoparin natrium) !!!GFR>30;;No Match;574;1;certoparin natrium) !!!gfr>3;;;B01AB13;B03AC;;80;58.0;;0;0;0;0;0;B;;;;1;0;;0;5;;
+Dexamethason;;No Match;569;0;;;;H02AB02;;;100;;;0;0;0;0;0;H;;;;1;;;0;5;;
+ZYPREXA überzogene Tabletten | (Olanzapin);;No Match;569;1;olanzapin;N05AH03;;N05AH03;;;78;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+CEFUROXIM 1500 mg Plv.Inf.-Lsg.-Herst. in 50ml NaCl über 1h| (Cefuroxim, Natrium-Ion);;No Match;565;1;cefuroxim, natrium-ion;;;J01DC02;;;84;;;0;0;0;0;0;J;;;;1;;;0;5;;
+EZETROL 10 mg Tabletten | (Ezetimib);;No Match;559;1;ezetimib;;;C10AX09;;;50;;;0;0;0;0;0;C;;;;1;;;0;5;;
+INHIXA 4.000 I.E. 40 mg/0,4 bei GFR > 30;;No Match;558;0;;;;B02BD09;B02BD36;;69;69.0;;0;0;0;0;0;B;;;;0;0;;B01AB05;5;;
+HCT HEXAL 12,5 mg Tabletten | (Hydrochlorothiazid);;No Match;557;1;hydrochlorothiazid;C03AA03;C03AA03;C03AA03;;;93;;;1;1;1;1;0;C;;1;1;1;;;0;5;;
+Novalgin;;No Match;554;0;;;N02BB02;N02BB02;S02DA55;G01AF01;100;67.0;57.0;0;0;0;1;0;N;;;1;1;0;0;0;5;;
+CALCIUM SANDOZ forte Brausetabletten | (Calcium-Ion);;No Match;553;1;calcium-ion;;;A12AX02;V03AE01;;79;67.0;;0;0;0;0;0;A;;;;0;0;;A12AA20;5;;
+PIPERACILLIN+Tazobactam Teva 4g/500mg P.z.H.e.L. | (Piperacillin, Tazobactam, Natrium-Ion);;No Match;539;1;piperacillin, tazobactam, natrium-ion;;;J01CR05;;;93;;;0;0;0;0;0;J;;;;1;;;0;5;;
+LYRICA 150 mg Hartkapseln | (Pregabalin);;No Match;537;1;pregabalin;N03AX16;;N03AX16;;;80;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+SEROQUEL 25 mg Filmtabletten | (Quetiapin);;No Match;535;1;quetiapin;N05AH04;;N05AH04;;;73;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+NaCl;;No Match;535;0;;;B05CB01;B05CB01;N06AA12;;100;60.0;;0;0;0;1;0;B;;;0;0;0;;B05BB;4;mehrere ATC codes für NaCl möglich?;"B05BB11 = Physiologische Kochsalzlösung; die bezeihcnung Nacl ist aber nicht eindeutig- ist auch in anderen Elektrolytlösungen enthalten und auch diese könnten gemeint sein, daher vielleicht den Atc code B05BB verwenden?"
+Torem 10 mg;;No Match;534;0;;;;L04AC16;N05BA06;C03CA04;75;73.0;71.0;0;0;0;0;0;L;;;;0;0;1;0;5;;
+Kalinor BT;A12BA30;Fuzzy Match;530;0;;;;A12BA30;A12BA01;V03AE01;100;82.0;58.0;0;0;0;0;1;A;A;;;1;0;0;0;5;;
+DOLO-DOBENDAN 1,4 mg/10 mg Lutschtabletten | (Cetylpyridinium-Kation);R02AA56;Fuzzy Match;513;1;cetylpyridinium-kation;R02AA56;;R02AA56;;;94;;;0;0;1;0;1;R;R;1;;1;;;0;5;;
+PIPERACILLIN Tazobactam Kabi 4g/0,5g Plv.z.Hers. | (Piperacillin, Tazobactam, Natrium-Ion);;No Match;512;1;piperacillin, tazobactam, natrium-ion;;;J01CR05;;;100;;;0;0;0;0;0;J;;;;1;;;0;5;;
+VITAMIN B12 1.000 µg Lichtenstein Ampullen | (Cyanocobalamin);;No Match;505;1;cyanocobalamin;B03BA01;;B03BA01;;;79;;;0;0;1;0;0;B;;1;;1;;;0;5;;
+Tavor Expidet (Lorazepam);;No Match;499;0;;;;N05BA06;;;81;;;0;0;0;0;0;N;;;;1;;;0;5;;
+TAVOR Expidet Täfelchen | (Lorazepam);;No Match;497;1;lorazepam;N05BA06;;N05BA06;;;81;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+QUETIAPIN HEXAL Retardtabletten | (Quetiapin);;No Match;494;1;quetiapin;N05AH04;;N05AH04;;;86;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+"NOVAMINSULFON ratio.1 g/2 ml Inj.Lsg. | (Metamizol)KI in 100ml NATRIUMCHLORID Inf.Lsg.154";;No Match;491;1;metamizol) ki in 100ml natriumchlorid inf.lsg.15;;;N02BB02;;;76;;;0;0;0;0;0;N;;;;1;;;0;5;;
+L-THYROXIN 125 Henning Tabletten | (Levothyroxin);;No Match;491;1;levothyroxin;;;H03AA01;;;98;;;0;0;0;0;0;H;;;;1;;;0;5;;
+Inf. E153 + Glucose 5% (i.v.) 500 mL;;No Match;489;0;;;;N04BC05;G04BX21;L04AA44;57;53.0;53.0;0;0;0;0;0;N;;;;0;0;0;B05BB02;5;mehr als ein Medi?;B05BB02
+LEVODOPA ratioph.comp.100mg/25mg Tabletten | (Carbidopa);;No Match;481;1;carbidopa;;;N04BA10;;;78;;;0;0;0;0;0;N;;;;1;;;0;5;;
+FENISTIL Injektionslösung | (Dimetinden);;No Match;478;1;dimetinden;;;D04AA13;R06AB03;;100;77.0;;0;0;0;0;0;D;;;;0;1;;0;5;;
+NaCl 0,9% Ampullen | (Natrium-Ion, Chlorid);;No Match;473;1;natrium-ion, chlorid;;;J01EE01;B05CB01;;64;64.0;;0;0;0;0;0;J;;;;0;1;;0;5;;
+QUETIAPIN HEXAL Filmtabletten | (Quetiapin);;No Match;472;1;quetiapin;N05AH04;;N05AH04;;;86;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+Movicol Btl.;;No Match;468;0;;;;A06AD65;S01EB09;;78;60.0;;0;0;0;0;0;A;;;;1;0;;0;5;;
+Movicol;;No Match;468;0;;;A06AD65;A06AD65;S01EB09;;100;62.0;;0;0;0;1;0;A;;;1;1;0;;0;5;;
+VANCOMYCIN 1,0 g Plv.z.Her.e.Lsg.in 250 ml NaCl über 2 h| (Vancomycin-Standard);;No Match;467;1;vancomycin-standard;;;A07AA09;;;77;;;0;0;0;0;0;A;;;;0;;;J01XA01;5;;
+FALITHROM Filmtabletten | (Phenprocoumon);;No Match;465;1;phenprocoumon;B01AA04;;B01AA04;;;82;;;0;0;1;0;0;B;;1;;1;;;0;5;;
+JODID 100 HEXAL Tabletten | (Iodid-Ion);;No Match;463;1;iodid-ion;H03CA01;;H03CA01;;;67;;;0;0;1;0;0;H;;1;;1;;;0;5;;
+Zopiclon;;No Match;463;0;;;N05CF01;N05CF01;;;100;;;0;0;0;1;0;N;;;1;1;;;0;5;;
+NATRIUMCHLORID Inf.Lsg.154 | (Natrium-Ion, Chlorid-Ion);;No Match;462;1;natrium-ion, chlorid-ion;;;B05BB11;B05XA03;;82;70.0;;0;0;0;0;0;B;;;;1;0;;0;5;;
+HEPARIN NATRIUM 7 500 ratiopharm Fertigspritzen | (Heparin natrium (Schwein));;No Match;460;1;heparin natrium (schwein);;;B01AB01;;;94;;;0;0;0;0;0;B;;;;1;;;0;5;;
+"[1 - Wässerung vor / nach  CYP]NATRIUMCHLORID Inf.Lsg.154 über 4h";;No Match;459;0;;;;A01AB02;D07AC13;;51;50.0;;0;0;0;0;0;A;;;;0;0;;B05BB11;5;;
+Morphin;;No Match;456;0;;;;N02AA01;;;100;;;0;0;0;0;0;N;;;;1;;;0;5;;
+"[2 - Prä CYP, Granisetron]NATRIUMCHLORID Inf.Lsg.154";;No Match;455;0;;;;M01AX24;A02BC04;A07DA03;55;53.0;50.0;0;0;0;0;0;M;;;;0;0;0;B05BB11;5;;
+Dermatop® BC ans Bett - ges. Integument;;No Match;454;0;;;;D07AC18;;;70;;;0;0;0;0;0;D;;;;1;;;0;5;ATC Code D07AC18 korrekt?;V07AT
+BISOPROLOL ratiopharm 5 mg Tabletten | (Bisoprolol);;No Match;454;1;bisoprolol;;;C07AB07;;;96;;;0;0;0;0;0;C;;;;1;;;0;5;;
+AMBROXOL ratiopharm 15 mg/2 ml Inj.Lsg. Ampullen in 50ml NaCl 0,9%;;No Match;453;0;;;;R05CB06;;;93;;;0;0;0;0;0;R;;;;1;;;0;5;;
+INNOHEP 20.000 Anti XA I.E./ml 0,9ml Fertigspr. | (Tinzaparin natrium);;No Match;452;1;tinzaparin natrium;B01AB10;;B01AB10;;;77;;;0;0;1;0;0;B;;1;;1;;;0;5;;
+ELEKTROLYT Inf.-Lsg. 153 PE-Flasche;;No Match;447;0;;;;B05BB01;;;78;;;0;0;0;0;0;B;;;;1;;;0;5;;
+VANCOMYCIN CP 1,0 g Plv.z.Her.e.Lsg.z.Ein./Inf. | (Vancomycin-Standard);;No Match;444;1;vancomycin-standard;;;A07AA09;;;74;;;0;0;0;0;0;A;;;;0;;;J01XA01;5;;
+STILNOX Filmtabletten | (Zolpidem);N05CF02;Fuzzy Match;443;1;zolpidem;N05CF02;;N05CF02;;;27;;;0;0;1;0;1;N;N;1;;1;;;0;5;;
+PLAVIX 75 mg Filmtabletten | (Clopidogrel);;No Match;442;1;clopidogrel;;;B01AC04;B01AC34;;96;62.0;;0;0;0;0;0;B;;;;1;0;;0;5;;
+Cefuroxim (i.v.) 250 mg Inf. 30-60min LM:Aqua ad inj TM:NaCl 0,9%;;No Match;439;0;;;;J01DC02;;;71;;;0;0;0;0;0;J;;;;1;;;0;5;;
+TAVOR  Tabletten | (Lorazepam);;No Match;436;1;lorazepam;N05BA06;;N05BA06;;;62;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+Torem;;No Match;435;0;;;C03CA04;C03CA04;C01BC03;;100;57.0;;0;0;0;1;0;C;;;1;1;0;;0;5;;
+PYRILAX 10 mg Suppositorien | (Bisacodyl);;No Match;435;1;bisacodyl;A06AB02;;A06AB02;;;37;;;0;0;1;0;0;A;;1;;1;;;0;5;;
+PANTOPRAZOL Amneal 40 mg Plv.z.Herst.e.Injek.-Lsg. in 50ml NaCl 0,9%;;No Match;435;0;;;;A02BC02;;;84;;;0;0;0;0;0;A;;;;1;;;0;5;;
+Pantozol 40 mg;;No Match;431;0;;;;A02BC02;N06AF04;;72;67.0;;0;0;0;0;0;A;;;;1;0;;0;5;;
+SPIRONOLACTON ratiopharm 50 mg Tabletten | (Spironolacton);;No Match;430;1;spironolacton;;;C03DA01;C03ED01;;96;66.0;;0;0;0;0;0;C;;;;1;0;;0;5;;
+"[3 - Prä CYP, Uromitexan]
+NATRIUMCHLORID Inf.Lsg.154";;No Match;430;0;;;;J05AF05;H05BX01;C09CA04;50;50.0;47.0;0;0;0;0;0;J;;;;0;0;0;V03AF01;5;zwei Medis?;V03AF01
+FOLVERLAN 5 mg Tabletten | (Folsäure);;No Match;425;1;folsäure;B03BB01;;B03BB01;;;96;;;0;0;1;0;0;B;;1;;1;;;0;5;;
+TAVOR Expidet 1,0 Täfelchen | (Lorazepam);;No Match;421;1;lorazepam;N05BA06;;N05BA06;;;94;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+RISPERIDON ratiopharm 1 mg Schmelztabletten | (Risperidon);;No Match;420;1;risperidon;N05AX08;;N05AX08;;;95;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+PARACETAMOL ratiopharm 500 mg Tabletten | (Paracetamol);;No Match;417;1;paracetamol;N02BE01;;N02BE01;;;96;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+ABILIFY Tabletten | (Aripiprazol);;No Match;414;1;aripiprazol;N05AX12;;N05AX12;;;78;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+LIXIANA 30 mg Filmtabletten | (Edoxaban);;No Match;413;1;edoxaban;B01AF03;;B01AF03;;;96;;;0;0;1;0;0;B;;1;;1;;;0;5;;
+Femoralis peripherer Schmerzkatheter Naropin 0,2%;;No Match;404;0;;;;M02AA15;B01AB04;;51;50.0;;0;0;0;0;0;M;;;;0;0;;N01BB09;5;ATC Code N01BB09 korrekt?;N01BB09
+ACIC 250 PI Via Pulver z.Herst.e.Infusionslösg. | (Aciclovir);;No Match;399;1;aciclovir;;;D06BB03;J05AB01;;100;67.0;;0;0;0;0;0;D;;;;0;1;;0;5;;
+DIGITOXIN Philo Ampullen | (Digitoxin);;No Match;399;1;digitoxin;C01AA04;;C01AA04;;;77;;;0;0;1;0;0;C;;1;;1;;;0;5;;
+Inf. E148 + Glucose 1% (i.v.) 250 mL;;No Match;398;0;;;;J07CA09;A10BB01;;48;47.0;;0;0;0;0;0;J;;;;0;0;;B05BB02;5;ATC Code BB05BB02 korrekt?;B05BB02
+DECOSTRIOL 0,25 µg Weichkapseln | (Calcitriol);;No Match;395;1;calcitriol;;;A11CC04;;;74;;;0;0;0;0;0;A;;;;1;;;0;5;;
+BICANORM magensaftresistente Tabletten | (Natrium-Ion, Natrium-Ion, Hydrogencarbonat-Ion);A02AH01;Fuzzy Match;393;1;natrium-ion, natrium-ion, hydrogencarbonat-ion;;;A02AH01;A09AA02;;100;73.0;;0;0;0;0;1;A;A;;;1;0;;0;5;;
+NOVAMINSULFON ratioph.1 g/2 ml Inj.Lsg. Ampullen | (ab Saal);;No Match;393;1;ab saal;;;N02BB02;;;81;;;0;0;0;0;0;N;;;;1;;;0;5;;
+Paracetamol (i.v.) 10 mg/mL Inf. 30min LM=TL NaCl 0,9%;;No Match;391;0;;;;N02BE01;;;76;;;0;0;0;0;0;N;;;;1;;;0;5;;
+Ibuprofen;;No Match;388;0;;;M01AE01;M01AE01;;;100;;;0;0;0;1;0;M;;;1;1;;;0;5;;
+Amlodipin 5 mg;;No Match;387;0;;;;C08CA01;;;79;;;0;0;0;0;0;C;;;;1;;;0;5;;
+L-THYROXIN Henning Tabletten | (Levothyroxin);;No Match;387;1;levothyroxin;;;H03AA01;;;92;;;0;0;0;0;0;H;;;;1;;;0;5;;
+VALSARTAN HEXAL 80 mg Filmtabletten | (Valsartan);;No Match;380;1;valsartan;;C09CA03;C09CA03;;;95;;;0;0;0;1;0;C;;;1;1;;;0;5;;
+RANITIC Injekt Infusionslösungskonzentrat | (Ranitidin);;No Match;377;1;ranitidin;;;J01DH03;J01DI04;L01XC37;83;81.0;81.0;0;0;0;0;0;J;;;;0;0;0;A02BA02;5;ATC Code A02BA02 korrekt?;A02BA02
+BUSCOPAN Injektionslösung | (Butylscopolaminium-Kation);;No Match;376;1;butylscopolaminium-kation;;;A03BB01;A03DB04;;77;76.0;;0;0;0;0;0;A;;;;1;0;;0;5;;
+LIXIANA 60 mg Filmtabletten | (Edoxaban);;No Match;376;1;edoxaban;B01AF03;;B01AF03;;;96;;;0;0;1;0;0;B;;1;;1;;;0;5;;
+Ramipril;;No Match;372;0;;;;C09AA05;;;100;;;0;0;0;0;0;C;;;;1;;;0;5;;
+HYDROCORTISON 100 Trockensubstanz mit Lösungsm. | (Hydrocortison);;No Match;371;1;hydrocortison;;;S01BA02;H02AB09;;76;66.0;;0;0;0;0;0;S;;;;0;1;;0;5;;
+KREON 40.000 Hartkps.m.magensaftr.überz.Pellets | (Triacylglycerollipase, Amylase);;No Match;371;1;triacylglycerollipase, amylase;;;A09AA02;;;62;;;0;0;0;0;0;A;;;;1;;;0;5;;
+Lantus;;No Match;369;0;;;A10AE04;A10AE04;N05BP03;;100;55.0;;0;0;0;1;0;A;;;1;1;0;;0;5;;
+NaCl 0,9%;;No Match;365;0;;;B05CB01;B05CB01;H01BA02;;100;57.0;;0;0;0;1;0;B;;;0;0;0;;B05BB11;5;;
+Ischadicus peripherer Schmerzkatheter Naropin 0,2%;;No Match;365;0;;;;M02AA15;V06DB50;V06DB52;56;49.0;48.0;0;0;0;0;0;M;;;;0;0;0;N01BB09;5;ATC Code N01BB09 korrekt?;N01BB09
+MONO EMBOLEX 8.000 I.E.Prophyl.Sicherh.Spr. | (Certoparin natrium);;No Match;365;1;certoparin natrium;B01AB13;;B01AB13;;;80;;;0;0;1;0;0;B;;1;;1;;;0;5;;
+VALSARTAN HEXAL 160 mg Filmtabletten | (Valsartan);;No Match;364;1;valsartan;;C09CA03;C09CA03;;;95;;;0;0;0;1;0;C;;;1;1;;;0;5;;
+Paracetamol (i.v.) 10 mg/mL Inf. 30min LM=TL:NaCl 0,9%;;No Match;363;0;;;;N02BE01;;;76;;;0;0;0;0;0;N;;;;1;;;0;5;;
+METOHEXAL Succ 23,75 mg Retardtabletten | (Metoprolol);;No Match;362;1;metoprolol;;C07AB02;C07AB02;;;95;;;0;0;0;1;0;C;;;1;1;;;0;5;;
+VAGIMID 500 Filmtabletten | (Metronidazol);;No Match;362;1;metronidazol;;;P01AB01;J01XD01;D06BX01;41;34.0;32.0;0;0;0;0;0;P;;;;0;0;0;G01AF01;5;ATC Code J01XD01 korrekt?;G01AF01
+L-THYROXIN 100 Henning Tabletten | (Levothyroxin);;No Match;362;1;levothyroxin;;;H03AA01;;;100;;;0;0;0;0;0;H;;;;1;;;0;5;;
+AMOCLAV 875 mg+125 mg Filmtabletten | (Amoxicillin, Clavulansäure);;No Match;361;1;amoxicillin, clavulansäure;;;J01CR02;;;76;;;0;0;0;0;0;J;;;;1;;;0;5;;
+PREDNISOLON 20 mg Jenapharm Tabletten | (Prednisolon);;No Match;361;1;prednisolon;;;H02AB06;;;79;;;0;0;0;0;0;H;;;;1;;;0;5;;
+L-THYROXIN 50 Henning Tabletten | (Levothyroxin);;No Match;360;1;levothyroxin;;;H03AA01;;;100;;;0;0;0;0;0;H;;;;1;;;0;5;;
+SERTRALIN HEXAL Filmtabletten | (Sertralin);;No Match;356;1;sertralin;N06AB06;;N06AB06;;;86;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+ORFIRIL long 300 mg Retardkapseln | (Valproinsäure);;No Match;353;1;valproinsäure;N03AG01;N03AG01;N03AG01;;;94;;;1;1;1;1;0;N;;1;1;1;;;0;5;;
+Sole;;No Match;352;0;;;;P02CA03;D11AX18;;67;57.0;;0;0;0;0;0;P;;;;0;0;;B05BB;4;ist es möglich hier einen ATC code zu finden?; B05BB, 
+Kevatril;;No Match;349;0;;;;J07BK01;G01AF01;;62;57.0;;0;0;0;0;0;J;;;;0;0;;A04AA02;5;;
+Ern. i.v: zentral SMOFKABIVEN 1100 kcal - 18h;;No Match;348;0;;;;B05BA10;;;64;;;0;0;0;0;0;B;;;;1;;;0;5;;
+SEROQUEL Prolong 50 mg Retardtabletten | (Quetiapin);;No Match;347;1;quetiapin;N05AH04;N05AH04;N05AH04;;;95;;;1;1;1;1;0;N;;1;1;1;;;0;5;;
+"[4 - Cyclophosphamid EUVAS Schema]
+NATRIUMCHLORID Inf.Lsg.154 über 2h";;No Match;347;0;;;;L01AA01;D01AE14;J05AB01;94;55.0;51.0;0;0;0;0;0;L;;;;1;0;0;0;5;Trägerlösung weglasen und nur ATC Code L01AA01 erkennen?;L01AA01
+ASS 100 mg;;No Match;346;0;;;;A12CC02;N04BX01;A11CC02;64;64.0;62.0;0;0;0;0;0;A;;;;0;0;0;unspec;unspec;;
+VALSARTAN HEXAL comp.160mg/12,5mg Filmtabletten | (Valsartan);;No Match;345;1;valsartan;;;C09CA03;C09DA23;;100;97.0;;0;0;0;0;0;C;;;;0;1;;0;5;;
+RISPERIDON HEXAL 0,5 mg Filmtabletten | (Risperidon);;No Match;345;1;risperidon;N05AX08;N05AX08;N05AX08;;;95;;;1;1;1;1;0;N;;1;1;1;;;0;5;;
+PIPAMPERON HEXAL Saft 4 mg/ml | (Pipamperon);;No Match;345;1;pipamperon;N05AD05;;N05AD05;;;86;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+Pantoprazol 20 mg;;No Match;342;0;;;;A02BC02;;;82;;;0;0;0;0;0;A;;;;1;;;0;5;;
+PASPERTIN 10 mg/2 ml Ampullen | (Metoclopramid hydrochlorid, Metoclopramid);;No Match;339;1;metoclopramid hydrochlorid, metoclopramid;;;L04AA18;N06BA02;;69;67.0;;0;0;0;0;0;L;;;;0;0;;A03FA01;5;;
+ELEKTROLYT Inf.-Lsg. 153;;No Match;338;0;;;;B05BB01;;;78;;;0;0;0;0;0;B;;;;1;;;0;5;;
+GRANOCYTE 34;;No Match;336;0;;;L03AA10;L03AA10;C01DX12;;100;53.0;;0;0;0;1;0;L;;;1;1;0;;0;5;;
+Paracetamol;;No Match;333;0;;;N02BE01;N02BE01;;;100;;;0;0;0;1;0;N;;;1;1;;;0;5;;
+PANTOPRAZOL HEXAL magensaftres.Tabletten | (Pantoprazol);;No Match;332;1;pantoprazol;A02BC02;;A02BC02;;;87;;;0;0;1;0;0;A;;1;;1;;;0;5;;
+DIAZEPAM ratiopharm Tabletten | (Diazepam);;No Match;332;1;diazepam;N05BA01;;N05BA01;;;90;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+LEPONEX  Tabletten | (Clozapin);;No Match;329;1;clozapin;N05AH02;;N05AH02;;;74;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+THIAMAZOL 20 mg Henning Filmtabletten | (Thiamazol);;No Match;328;1;thiamazol;H03BB02;;H03BB02;;;76;;;0;0;1;0;0;H;;1;;1;;;0;5;;
+PROCORALAN 5 mg Filmtabletten | (Ivabradin);;No Match;327;1;ivabradin;C01EB17;;C01EB17;;;47;;;0;0;1;0;0;C;;1;;1;;;0;5;;
+PALLADON 2,6 mg Hartkapseln | (Hydromorphon);;No Match;326;1;hydromorphon;N02AA03;;N02AA03;;;97;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+ELEKTROLYT Inf.-Lsg. 153 PE-Flasche | (Natrium-Ion, Kalium-Ion, Calcium-Ion, Chlorid);;No Match;326;1;natrium-ion, kalium-ion, calcium-ion, chlorid;;;B05BB01;;;78;;;0;0;0;0;0;B;;;;1;;;0;5;;
+B) E154 250 ml;;No Match;326;0;;;;B02BD09;L04AB01;;56;48.0;;0;0;0;0;0;B;;;;0;0;;B05BB11;5;;
+CIPROHEXAL 500 mg Filmtabletten | (Ciprofloxacin);;No Match;325;1;ciprofloxacin;;;J01MA02;;;97;;;0;0;0;0;0;J;;;;1;;;0;5;;
+SERTRALIN HEXAL 50 mg Filmtabletten | (Sertralin);;No Match;324;1;sertralin;N06AB06;N06AB06;N06AB06;;;95;;;1;1;1;1;0;N;;1;1;1;;;0;5;;
+MIRTAZAPIN STADA 30 mg Filmtabletten | (Mirtazapin);;No Match;323;1;mirtazapin;N06AX11;;N06AX11;;;91;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+MELNEURIN 25 Filmtabletten | (Melperon);;No Match;322;1;melperon;N05AD03;;N05AD03;;;100;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+LEVETIRACETAM STADA 250 mg Filmtabletten | (Levetiracetam);;No Match;322;1;levetiracetam;N03AX14;;N03AX14;;;79;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+"URAPIDIL Stragen i.v. 50 mg Ampullen | (Urapidil)titrieren innerhalb des RR Zielbereichs";;No Match;321;1;urapidil) titrieren innerhalb des rr zielbereich;;C02CA06;C02CA06;;;100;;;0;0;0;1;0;C;;;1;1;;;0;5;;
+DUROGESIC SMAT 75 µg/h 12,6mg Fentanyl/Pfl. | (Fentanyl);;No Match;321;1;fentanyl;;;N02AB03;;;90;;;0;0;0;0;0;N;;;;1;;;0;5;;
+E 153 ml;;No Match;320;0;;;;A10AB01;A10AD01;;67;67.0;;0;0;0;0;0;A;;;;0;0;;B05BB01;5;;
+Pantozol;;No Match;319;0;;;;N05CM22;D01AC20;A07FA01;57;53.0;53.0;0;0;0;0;0;N;;;;0;0;0;A02BC02;5;;
+Sostril;;No Match;317;0;;;;C04AX21;N05CM22;C05AP01;67;62.0;62.0;0;0;0;0;0;C;;;;0;0;0;A02BA02;5;;
+A) Wässerung mit NaCl 0,45% + Glucose 2,5% (3 Liter Beutel) ab 5:00 Uhr;;No Match;316;0;;;;A03HH10;V07AV;A03PP01;52;50.0;50.0;0;0;0;0;0;A;;;;0;0;0;B05BB02;5;Welcher ATC Code?;B05BB02
+ACC LONG Brausetabletten | (Acetylcystein);;No Match;315;1;acetylcystein;;;R05CB01;;;73;;;0;0;0;0;0;R;;;;1;;;0;5;;
+LEVETIRACETAM HEXAL 500 mg Filmtabletten | (Levetiracetam);;No Match;314;1;levetiracetam;N03AX14;N03AX14;N03AX14;;;96;;;1;1;1;1;0;N;;1;1;1;;;0;5;;
+ALA;;No Match;313;0;;;;V06CX50;V06DB50;L01XB01;67;60.0;60.0;0;0;0;0;0;V;;;;0;0;0;unspec;unspec;Welcher ATC Code?;Alpha-Linolensäure (ALA) gehört zur Gruppe der Omega-3-Fettsäuren. Nahrunsgergänzung, präparat nicht eindeutig
+Kevatril 3mg;;No Match;313;0;;;;C02CA06;N05AX15;;72;70.0;;0;0;0;0;0;C;;;;0;0;;A04AA02;5;;
+FLUOXETIN STADA 20 mg Tabletten | (Fluoxetin);;No Match;312;1;fluoxetin;N06AB03;;N06AB03;;;80;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+SANDIMMUN | (Ciclosporin);;No Match;310;1;ciclosporin;;L04AD01;L04AD01;;;100;;;0;0;0;1;0;L;;;1;1;;;0;5;;
+Trazodon;;No Match;308;0;;;N06AX05;N06AX05;D08AG02;;100;63.0;;0;0;0;1;0;N;;;1;1;0;;0;5;;
+INSPRA 25 mg Filmtabletten | (Eplerenon);;No Match;307;1;eplerenon;C03DA04;;C03DA04;;;87;;;0;0;1;0;0;C;;1;;1;;;0;5;;
+Lasix 20 mg;;No Match;307;0;;;;C03CA01;V04BA20;;69;62.0;;0;0;0;0;0;C;;;;1;0;;0;5;;
+SALBUTAMOL STADA Inhalat 5 mg/ml Lsg.f.e.Verneb. | (Salbutamol);;No Match;306;1;salbutamol;;;R03AC02;;;65;;;0;0;0;0;0;R;;;;1;;;0;5;;
+Prednisolon mg;;No Match;305;0;;;;S01CA53;H02AB06;;88;88.0;;0;0;0;0;0;S;;;;0;1;;0;5;;
+SPIRONOLACTON ratiopharm 25 mg Tabletten | (Spironolacton);;No Match;305;1;spironolacton;;;C03DA01;C03ED01;;94;66.0;;0;0;0;0;0;C;;;;1;0;;0;5;;
+D) Wässerung mit NaCl 0,45% + Glucose 2,5% (Rest 3 Liter Beutel);;No Match;304;0;;;;A03HH10;V04BA20;C05CA01;52;48.0;47.0;0;0;0;0;0;A;;;;0;0;0;B05BB02;5;Welcher ATC Code?;B05BB02
+BAYOTENSIN akut Phiolen Lösung zum Einnehmen | (Nitrendipin);;No Match;302;1;nitrendipin;C08CA08;;C08CA08;;;79;;;0;0;1;0;0;C;;1;;1;;;0;5;;
+CALCIUM RATIOPHARM 500 mg Kautabletten | (Calcium-Ion);;No Match;301;1;calcium-ion;;;A12AA04;V03AE01;A12AX02;81;67.0;67.0;0;0;0;0;0;A;;;;1;0;0;0;5;;
+FRAXIPARINE 0,7 ml Injektionslösg. i.e.Fertigspr. | (Nadroparin calcium);;No Match;300;1;nadroparin calcium;;;L01BB02;D08AF01;L04AA10;63;61.0;61.0;0;0;0;0;0;L;;;;0;0;0;B01AB06;5;;
+Tazobac (Piperacillin/Tazobactam) in [g];;No Match;300;0;;;;J01CR05;;;81;;;0;0;0;0;0;J;;;;1;;;0;5;ATC Code J01CR05 korrekt?;J01CR05
+Ern. i.v: peri OLIMEL 2,5% E - 1050 kcal - 18h;;No Match;299;0;;;;B06AC01;N02BA13;S01GA02;57;55.0;55.0;0;0;0;0;0;B;;;;0;0;0;B05BA10;5;;
+Pantoprazol 40 mg;;No Match;298;0;;;;A02BC02;;;82;;;0;0;0;0;0;A;;;;1;;;0;5;;
+AMPHO MORONAL Suspension 100 mg/1 ml | (Amphotericin B);;No Match;296;1;amphotericin b;;;A07AA07;;;100;;;0;0;0;0;0;A;;;;1;;;0;5;;
+Lasix mg;;No Match;296;0;;;;C03CA01;D01AE15;;77;53.0;;0;0;0;0;0;C;;;;1;0;;0;5;;
+TRAMAGIT 100 mg Retardtabletten | (Tramadol);;No Match;296;1;tramadol;;;N02AX02;;;81;;;0;0;0;0;0;N;;;;1;;;0;5;;
+L-THYROXIN 75 Henning Tabletten | (Levothyroxin);;No Match;295;1;levothyroxin;;;H03AA01;;;100;;;0;0;0;0;0;H;;;;1;;;0;5;;
+INHIXA 10.000 I.E. 100 mg/1 ml ILO F.Sp.+Sich-Sys. | (Enoxaparin natrium);;No Match;294;1;enoxaparin natrium;B01AB05;;B01AB05;;;41;;;0;0;1;0;0;B;;1;;1;;;0;5;;
+Amlodipin;;No Match;294;0;;;C08CA01;C08CA01;;;100;;;0;0;0;1;0;C;;;1;1;;;0;5;;
+Faustan;;No Match;293;0;;;;J02AC01;L01XB01;A07AA11;57;57.0;57.0;0;0;0;0;0;J;;;;0;0;0;N05BA01;5;Welcher ATC Code?;N05BA01
+DUROGESIC SMAT 100 µg/h 16,8mg Fentanyl/Pfl. | (Fentanyl);;No Match;291;1;fentanyl;;;N02AB03;;;88;;;0;0;0;0;0;N;;;;1;;;0;5;;
+Fenistil;;No Match;291;0;;;;R06AB03;D04AA13;;100;100.0;;0;0;0;0;0;R;;;;0;0;;unspec;unspec;derma oder zum einnehmen?;nicht eindeutig, könnten Dragees oder Gel sein, unterschiedliche ATCcodes
+Methotrexat;;No Match;290;0;;;;L04AX03;L01BA01;M01CX01;100;100.0;100.0;0;0;0;0;0;L;;;;0;0;1;0;5;kann man den ATC Code hier genau bestimmen?;M01CX01
+MAGNESIUM DIASPORAL 300 mg Granulat | (Magnesium-Ion);;No Match;290;1;magnesium-ion;;;A12CC05;A12CC11;A12CC02;75;67.0;62.0;0;0;0;0;0;A;;;;0;0;0;A12CC04;5;;
+DIGITOXIN 0,07 mg Tabletten | (Digitoxin);;No Match;287;1;digitoxin;C01AA04;;C01AA04;;;86;;;0;0;1;0;0;C;;1;;1;;;0;5;;
+OTRIVEN 0,1% Dosierspray ohne Konserv.Stoffe | (Xylometazolin);;No Match;287;1;xylometazolin;R01AA07;;R01AA07;;;95;;;0;0;1;0;0;R;;1;;1;;;0;5;;
+Aciclovir;;No Match;286;0;;;J05AB01;J05AB01;;;100;;;0;0;0;1;0;J;;;0;0;;;unspec;unspec;;
+PREDNISOLON 5 mg Jenapharm Tabletten | (Prednisolon);;No Match;285;1;prednisolon;;;H02AB06;;;81;;;0;0;0;0;0;H;;;;1;;;0;5;;
+NACL 0,9%;;No Match;283;0;;;B05CB01;B05CB01;H01BA02;;100;57.0;;0;0;0;1;0;B;;;0;0;0;;B05BB11;5;ist B05CB01 korrekt?;B05BB11 
+Penicillin G 5 Mega;;No Match;281;0;;;;J01CE01;;;100;;;0;0;0;0;0;J;;;;1;;;0;5;;
+AMLODIPIN HEXAL Tabletten | (Amlodipin);;No Match;281;1;amlodipin;;;C08CA01;;;88;;;0;0;0;0;0;C;;;;1;;;0;5;;
+TAVOR 1,0 Tabletten | (Lorazepam);;No Match;280;1;lorazepam;N05BA06;;N05BA06;;;78;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+Tavor;;No Match;279;0;;;N05BA06;N05BA06;;;100;;;0;0;0;1;0;N;;;1;1;;;0;5;;
+Torasemid;;No Match;277;0;;;C03CA04;C03CA04;;;100;;;0;0;0;1;0;C;;;1;1;;;0;5;;
+LEVOFLOXACIN HEXAL 500 mg Filmtabletten | (Levofloxacin);;No Match;275;1;levofloxacin;J01MA12;J01MA12;J01MA12;;;96;;;1;1;1;1;0;J;;1;1;1;;;0;5;;
+Melperon 25 mg;;No Match;275;0;;;;N05AD03;;;73;;;0;0;0;0;0;N;;;;1;;;0;5;;
+Protaphane;;No Match;272;0;;;A10AC01;A10AC01;S02DA55;;100;59.0;;0;0;0;1;0;A;;;1;1;0;;0;5;;
+ELIQUIS 5 mg Filmtabletten | (Apixaban);;No Match;271;1;apixaban;B01AF02;;B01AF02;;;96;;;0;0;1;0;0;B;;1;;1;;;0;5;;
+BISOPROLOL ratiopharm 2,5 mg Filmtabletten | (Bisoprolol);;No Match;271;1;bisoprolol;;;C07AB07;;;96;;;0;0;0;0;0;C;;;;1;;;0;5;;
+[4 - Rtx Vaskulitis Induktion] PARACETAMOL ratiopharm 500 mg Tabletten | (Paracetamol);;No Match;269;1;paracetamol;N02BE01;;N02BE01;;;21;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+FRAXIPARIN 0,7 ml Injektionslösung i.e.Fertigspr. | (Nadroparin calcium);;No Match;269;1;nadroparin calcium;;;D08AF01;L01BB02;A03FA01;62;59.0;58.0;0;0;0;0;0;D;;;;0;0;0;B01AB06;5;;
+Torasemid 10 mg;;No Match;268;0;;;;C03CA04;;;88;;;0;0;0;0;0;C;;;;1;;;0;5;;
+COTRIM ratiopharm 480 mg Tabletten | (Trimethoprim, Sulfamethoxazol);;No Match;266;1;trimethoprim, sulfamethoxazol;;;J01EE01;;;100;;;0;0;0;0;0;J;;;;1;;;0;5;;
+PIPERACILLIN Tazobactam 4g/0,5g in 20ml NaCl üb.2h| (Piperacillin,Tazobactam, Natrium-Ion);;No Match;265;1;piperacillin,tazobactam, natrium-ion;;;J01CR05;;;100;;;0;0;0;0;0;J;;;;1;;;0;5;;
+TOREM Tabletten | (Torasemid);;No Match;265;1;torasemid;C03CA04;;C03CA04;;;71;;;0;0;1;0;0;C;;1;;1;;;0;5;;
+FERRO SANOL duodenal Hartkaps.m.msr.überz.Pell. | (Eisen(II)-Ion);;No Match;264;1;eisen(ii)-ion;;B03AA01;B03AA01;;;100;;;0;0;0;1;0;B;;;1;1;;;0;5;;
+MELNEURIN Filmtabletten | (Melperon);;No Match;263;1;melperon;N05AD03;;N05AD03;;;86;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+Pantozol 20 mg;;No Match;262;0;;;;A02BC02;N06AF04;;72;67.0;;0;0;0;0;0;A;;;;1;0;;0;5;;
+E153 ml;;No Match;261;0;;;;N01BB20;G04BD10;A10BB01;55;53.0;53.0;0;0;0;0;0;N;;;;0;0;0;B05BB01;5;;
+EMEND 125 mg/80 mg Hartkapseln | (Aprepitant, Aprepitant);;No Match;259;1;aprepitant, aprepitant;;;B02BD06;B05BA01;V08AB10;57;56.0;56.0;0;0;0;0;0;B;;;;0;0;0;A04AD12;5;;
+Ern. i.v: zentral SMOFKABIVEN 1600 kcal - 18h;;No Match;258;0;;;;B05BA10;;;64;;;0;0;0;0;0;B;;;;1;;;0;5;;
+FLUCLOX Stragen 2 g Injektionsfl. in 40 ml Aqua über 2 h| (Flucloxacillin, Natrium-Ion);;No Match;258;1;flucloxacillin, natrium-ion;;;C02CA06;;;58;;;0;0;0;0;0;C;;;;0;;;J01CF05;5;;
+COLCHICUM DISPERT überzogene Tabletten | (Colchicin);;No Match;258;1;colchicin;M04AC01;;M04AC01;;;51;;;0;0;1;0;0;M;;1;;1;;;0;5;;
+CALCIUM-CT 500 mg Kautabletten | (Calcium-Ion);;No Match;257;1;calcium-ion;;;A12AA04;A12AX02;;81;79.0;;0;0;0;0;0;A;;;;1;0;;0;5;;
+Fluoxetin;;No Match;253;0;;;N06AB03;N06AB03;;;100;;;0;0;0;1;0;N;;;1;1;;;0;5;;
+Torem mg;;No Match;250;0;;;;C03CA04;;;77;;;0;0;0;0;0;C;;;;1;;;0;5;;
+Dermatop® BS ans Bett - ges. Integument;;No Match;248;0;;;;D07AC18;;;70;;;0;0;0;0;0;D;;;;1;;;0;5;;
+KCL;;No Match;248;0;;;;A01AD11;V06DB52;B01AC05;44;44.0;44.0;0;0;0;0;0;A;;;;0;0;0;B05XA01;5;Welcher ATC Code?;B05XA01
+Paracetamol 500 mg;;No Match;248;0;;;;N02BE01;;;76;;;0;0;0;0;0;N;;;;1;;;0;5;;
+Lasix 40 mg;;No Match;247;0;;;;C03CA01;V04BA20;;69;62.0;;0;0;0;0;0;C;;;;1;0;;0;5;;
+ELUTIT Natrium Granulat | (Poly(styrol-co-divinylbenzol)sulfonsäure (92:8), Natriumsalz);;No Match;247;1;poly(styrol-co-divinylbenzol)sulfonsäure (92:8), natriumsalz;;;V03AE01;;;100;;;0;0;0;0;0;V;;;;1;;;0;5;;
+L-THYROXIN 25 Henning Tabletten | (Levothyroxin);;No Match;246;1;levothyroxin;;;H03AA01;;;100;;;0;0;0;0;0;H;;;;1;;;0;5;;
+CANDESARTAN HEXAL 16 mg Tabletten | (Candesartan);;No Match;246;1;candesartan;;;C09CA06;;;92;;;0;0;0;0;0;C;;;;1;;;0;5;;
+DONEPEZIL HCL HEXAL 5 mg Filmtabletten | (Donepezil);;No Match;245;1;donepezil;N06DA02;;N06DA02;;;81;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+INEGY 10 mg/40 mg Tabletten | (Ezetimib);;No Match;245;1;ezetimib;;;C10BA02;;;83;;;0;0;0;0;0;C;;;;1;;;0;5;;
+periphere Schmerzkatheter Naropin 0,2%;;No Match;245;0;;;;N01BB09;M02AA15;N02AJ06;54;53.0;52.0;0;0;0;0;0;N;;;;1;0;0;0;5;;
+INHIXA 4.000 I.E. (40 mg) 0,4 ml Injektionslösung | (Enoxaparin) !GFR > 30;;No Match;244;1;enoxaparin) !gfr > 3;;;B02BD09;B02BD36;;69;69.0;;0;0;0;0;0;B;;;;0;0;;B01AB05;5;;
+KCl;;No Match;244;0;;;;A01AD11;V06DB52;B01AC05;44;44.0;44.0;0;0;0;0;0;A;;;;0;0;0;B05XA01;5;Welcher ATC Code?;B05XA01
+JANUVIA 50 mg Filmtabletten | (Sitagliptin);;No Match;243;1;sitagliptin;;;A10BH01;;;96;;;0;0;0;0;0;A;;;;1;;;0;5;;
+ISDN ratiopharm 20 mg Retardkapseln | (Isosorbid dinitrat);;No Match;242;1;isosorbid dinitrat;C01DA08;;C01DA08;;;69;;;0;0;1;0;0;C;;1;;1;;;0;5;;
+A/S;;No Match;241;0;;;;M02AP01;A11CC02;;50;50.0;;0;0;0;0;0;M;;;;0;0;;R03AL02;5;no_med?;kombinierte Inhalation von Salbutamol/Ipratropium = Sultanol/Atrovent, R03AL02
+CALCILAC Kautabletten | (Calcium-Ion, Colecalciferol);;No Match;240;1;calcium-ion, colecalciferol;;;A07EC01;N05BB01;N02AJ06;58;57.0;57.0;0;0;0;0;0;A;;;;0;0;0;A12AX01;5;;
+OTRIVEN 0,1% Nasentropfen f.Erw.u.Schulkdr. | (Xylometazolin);;No Match;240;1;xylometazolin;R01AA07;;R01AA07;;;75;;;0;0;1;0;0;R;;1;;1;;;0;5;;
+ACIC 200 Tabletten | (Aciclovir);;No Match;238;1;aciclovir;;;D06BB03;J05AB01;;100;57.0;;0;0;0;0;0;D;;;;0;1;;0;5;;
+Atrovent 20 gtt;;No Match;234;0;;;;R03BB01;;;89;;;0;0;0;0;0;R;;;;1;;;0;5;;
+Novalgin Tropfen;;No Match;233;0;;;;A09AH20;N02BB02;R05DA04;70;67.0;61.0;0;0;0;0;0;A;;;;0;1;0;0;5;;
+METRONIDAZOL 500 mg;;No Match;232;0;;;;J01XD01;P01AB01;N05CD08;77;77.0;60.0;0;0;0;0;0;J;;;;1;0;0;0;5;;
+Ern. i.v: peri OLIMEL 2,5% E - 1400 kcal - 18h;;No Match;230;0;;;;B06AC01;N02BA13;S01GA02;57;55.0;55.0;0;0;0;0;0;B;;;;0;0;0;B05BA10;5;;
+TAVOR (Lorazepam);;No Match;230;0;;;;N05BA06;;;75;;;0;0;0;0;0;N;;;;1;;;0;5;;
+Antra;;No Match;229;0;;;A02BC01;A02BC01;N06AA12;;100;55.0;;0;0;0;1;0;A;;;1;1;0;;0;5;;
+ASS 100;;No Match;229;0;;;;L01XX05;N04BX01;A11CC02;63;63.0;62.0;0;0;0;0;0;L;;;;0;0;0;N02BA01;5;;
+Enoxaparin 4.000 I.E. 40 mg/0,4 bei GFR > 30;;No Match;228;0;;;;B01AD12;B02BD34;;70;65.0;;0;0;0;0;0;B;;;;0;0;;B01AB05;5;;
+OPIPRAM 50 mg Filmtabletten | (Opipramol);;No Match;227;1;opipramol;N06AA05;;N06AA05;;;62;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+PALLADON retard 8 mg Kapseln | (Hydromorphon);;No Match;227;1;hydromorphon;N02AA03;N02AA03;N02AA03;;;94;;;1;1;1;1;0;N;;1;1;1;;;0;5;;
+MELNEURIN Lösung | (Melperon);;No Match;227;1;melperon;N05AD03;;N05AD03;;;100;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+DIAZEPAM ratiopharm 5 mg Tabletten | (Diazepam);;No Match;225;1;diazepam;N05BA01;;N05BA01;;;95;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+L-Thyroxin;;No Match;225;0;;;H03AA01;H03AA01;;;100;;;0;0;0;1;0;H;;;1;1;;;0;5;;
+Wasser;;No Match;224;0;;;;N05BP03;G04BD04;A09AA57;55;46.0;46.0;0;0;0;0;0;N;;;;0;0;0;V07AB01;5;no_med?;V07AB01
+Sultanol 10 gtt;R03AC02;Fuzzy Match;224;0;;;;R03AC02;;;100;;;0;0;0;0;1;R;R;;;1;;;0;5;;
+HCT HEXAL 25 mg Tabletten | (Hydrochlorothiazid);;No Match;223;1;hydrochlorothiazid;C03AA03;C03AA03;C03AA03;;;92;;;1;1;1;1;0;C;;1;1;1;;;0;5;;
+Ramipril 5 mg;;No Match;223;0;;;;C09AA05;;;77;;;0;0;0;0;0;C;;;;1;;;0;5;;
+MIRTAZAPIN HEXAL Filmtabletten | (Mirtazapin);;No Match;223;1;mirtazapin;N06AX11;;N06AX11;;;86;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+FRAXIPARINE 0,9 ml Injektionslösg. i.e.Fertigspr. | (Nadroparin calcium);;No Match;222;1;nadroparin calcium;;;L01BB02;D08AF01;L04AA10;63;61.0;61.0;0;0;0;0;0;L;;;;0;0;0;B01AB06;5;;
+AMLODIPIN HEXAL 10 mg Tabletten | (Amlodipin);;No Match;222;1;amlodipin;;C08CA01;C08CA01;;;95;;;0;0;0;1;0;C;;;1;1;;;0;5;;
+ANE: Lidocain-Perfusor 10mG / 1mL, Siehe USC Visitenprotokoll;;No Match;221;0;;;;N05BE01;C08CA02;L04AA13;62;58.0;57.0;0;0;0;0;0;N;;;;0;0;0;N01BB02;5;ATC Code N01BB02 korrekt?;N01BB02
+PARACETAMOL 10 mg/ml 1.000 mg Infusionslsg. | (Paracetamol);;No Match;221;1;paracetamol;N02BE01;;N02BE01;;;82;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+INNOHEP 20.000 Anti XA I.E./ml 0,6ml Fertigspr. | (Tinzaparin natrium);;No Match;220;1;tinzaparin natrium;B01AB10;;B01AB10;;;77;;;0;0;1;0;0;B;;1;;1;;;0;5;;
+FRAXIPARIN 0,5 ml Injektionslösung i.e.Fertigspr. | (Nadroparin calcium);;No Match;220;1;nadroparin calcium;;;D08AF01;L01XA03;N03AX22;62;62.0;61.0;0;0;0;0;0;D;;;;0;0;0;B01AB06;5;;
+"Lyse Perfusor: ACTILYSE (Alteplase)Trägerlösung: NaCl Inf.Lsg. 154 | (Na, Cl)";;No Match;219;1;na, cl;;;B01AD02;;;76;;;0;0;0;0;0;B;;;;1;;;0;5;kann man ie Trägerlösung hier weglassen?;B01AD02
+"Lyse Bolus: ACTILYSE (Alteplase)Trägerlösung: NaCl Inf.Lsg. 154 | (Na, Cl)";;No Match;218;1;na, cl;;;B01AD02;;;76;;;0;0;0;0;0;B;;;;1;;;0;5;kann man ie Trägerlösung hier weglassen?;B01AD02
+ELIQUIS 2,5 mg Filmtabletten | (Apixaban);;No Match;218;1;apixaban;B01AF02;;B01AF02;;;96;;;0;0;1;0;0;B;;1;;1;;;0;5;;
+EXFORGE 10 mg/160 mg Filmtabletten | (Amlodipin);;No Match;218;1;amlodipin;;;C09DB01;C09DX01;;91;78.0;;0;0;0;0;0;C;;;;1;0;;0;5;;
+CELLCEPT 250 mg Kapseln | (Mycophenolsäure);;No Match;217;1;mycophenolsäure;L04AA06;;L04AA06;;;73;;;0;0;1;0;0;L;;1;;1;;;0;5;;
+ASS;;No Match;217;0;;;;B01AC06;N02BA01;;100;100.0;;0;0;0;0;0;B;;;;0;0;;unspec;unspec;Dosis fehlt, eigentlich nicht klassifizierbar oder?;"nicht eindeutig, ASS 100mg TBL = Blutverdünner; ASS 500mg TBL = Schmerzmittel -> untersch. ATC codes, meist am Klinikum nur ASS 100mg aber 500mg auch gelistet"
+REKAWAN Filmtabletten 600 mg | (Kalium-Ion, Kalium-Ion);;No Match;217;1;kalium-ion, kalium-ion;;;N03AG01;;;77;;;0;0;0;0;0;N;;;;0;;;A12BA01;5;;
+HALOPERIDOL ratiopharm 2 mg Tabletten | (Haloperidol);;No Match;217;1;haloperidol;N05AD01;;N05AD01;;;96;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+DERMATOP Basissalbe | (Glycerolmonooleat);;No Match;217;1;glycerolmonooleat;;;D07AC18;;;67;;;0;0;0;0;0;D;;;;1;;;0;5;;
+Bonbons/Kaugummi;;No Match;216;0;;;;A03AP02;N03AA02;;46;46.0;;0;0;0;0;0;A;;;;0;0;;nomed;nomed;no_med;no med :)
+Mirtazapin;;No Match;216;0;;;N06AX11;N06AX11;;;100;;;0;0;0;1;0;N;;;1;1;;;0;5;;
+URBASON 4 mg Tabletten | (Methylprednisolon);;No Match;215;1;methylprednisolon;;;H02AB04;;;96;;;0;0;0;0;0;H;;;;1;;;0;5;;
+XARELTO 20 mg Filmtabletten | (Rivaroxaban);;No Match;214;1;rivaroxaban;B01AF01;;B01AF01;;;96;;;0;0;1;0;0;B;;1;;1;;;0;5;;
+"Ern. i.v.: Mischbeutel (wasserlsl.); individ. Herstellung durch APO UKD nach Anforderung";;No Match;214;0;;;;D07AC01;V06DB50;A11CC05;55;52.0;50.0;0;0;0;0;0;D;;;;0;0;0;unspec;unspec;Welcher ATC Code?;nicht eindeutig
+C) Cisplatin (30 mg/m² KOF) als KI über 1h;;No Match;212;0;;;;L01XA01;V60AA;;78;56.0;;0;0;0;0;0;L;;;;1;0;;0;5;ATC Code L01XA04 korrekt?;L01XA01
+Movicol Beutel;;No Match;212;0;;;;A06AD65;S01EB09;;67;61.0;;0;0;0;0;0;A;;;;1;0;;0;5;;
+INSUMAN Rapid 40 I.E./ml Durchstechflaschen | (Insulin, normal (human));A10AB01;Fuzzy Match;212;1;insulin, normal (human);;;A10AB01;;;90;;;0;0;0;0;1;A;A;;;1;;;0;5;;
+ACIC 500 PI Via Pulver z.Herst.e.Infusionslösg. | (Aciclovir);;No Match;211;1;aciclovir;;;D06BB03;J05AB01;;100;67.0;;0;0;0;0;0;D;;;;0;1;;0;5;;
+LYRICA Hartkapseln | (Pregabalin);;No Match;210;1;pregabalin;N03AX16;;N03AX16;;;67;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+E153 500ml;;No Match;209;0;;;;V08AB02;B05BA01;;67;67.0;;0;0;0;0;0;V;;;;0;0;;B05BB01;5;;
+KONAKION MM 10 mg Lösung | (Phytomenadion);;No Match;208;1;phytomenadion;B02BA01;B02BA01;B02BA01;;;93;;;1;1;1;1;0;B;;1;1;1;;;0;5;;
+Ibuprofen (p.o.) 400 mg Tbl.;;No Match;208;0;;;;M01AE01;;;90;;;0;0;0;0;0;M;;;;1;;;0;5;;
+Emend;;No Match;208;0;;;A04AD12;A04AD12;B03BA51;G02CP03;100;60.0;57.0;0;0;0;1;0;A;;;1;1;0;0;0;5;;
+SMOFKABIVEN zentral 1100 kcal;;No Match;207;0;;;;B05BA10;;;88;;;0;0;0;0;0;B;;;;1;;;0;5;;
+LANTUS 100 E/ml SoloStar Fertigpen | (Insulin glargin);;No Match;206;1;insulin glargin;A10AE04;;A10AE04;;;93;;;0;0;1;0;0;A;;1;;1;;;0;5;;
+Melatonin;;No Match;206;0;;;;A07AA06;D06BX01;C01EH20;62;60.0;59.0;0;0;0;0;0;A;;;;0;0;0;N05CH01;5;ATC Code N05CH01 korrekt?;N05CH01
+Antra 40 mg;;No Match;205;0;;;;A12CC02;A02BC01;A09AA02;70;69.0;62.0;0;0;0;0;0;A;;;;0;1;0;0;5;;
+"[3 - Rtx Vaskulitis Induktion, Fenistil]NATRIUMCHLORID Inf.Lsg.154";;No Match;205;0;;;;N06AG02;M01AH05;C01EB18;50;47.0;47.0;0;0;0;0;0;N;;;;0;0;0; R06AB03;5;Ist das hier Fenistil mit dem ATC Code R06AB03? ; R06AB03
+LASIX 40 mg Inj.-Lsg. Ampullen | (Furosemid);;No Match;204;1;furosemid;C03CA01;;C03CA01;;;69;;;0;0;1;0;0;C;;1;;1;;;0;5;;
+XARELTO 15 mg Filmtabletten | (Rivaroxaban);;No Match;204;1;rivaroxaban;B01AF01;;B01AF01;;;96;;;0;0;1;0;0;B;;1;;1;;;0;5;;
+Fraxiparin;;No Match;203;0;;;;A07AA11;P01BD01;R03AC13;59;56.0;53.0;0;0;0;0;0;A;;;;0;0;0;B01AB06;5;;
+Bifiteral;;No Match;203;0;;;A06AD11;A06AD11;N03AF01;;100;59.0;;0;0;0;1;0;A;;;1;1;0;;0;5;;
+Simvastatin 20 mg;;No Match;203;0;;;;C10BA02;;;79;;;0;0;0;0;0;C;;;;0;;;C10AA01;5;;
+Metamizol;;No Match;203;0;;;N02BB02;N02BB02;P02CA03;;100;59.0;;0;0;0;1;0;N;;;1;1;0;;0;5;;
+MOXONIDIN STADA 0,2 mg Filmtabletten | (Moxonidin);;No Match;202;1;moxonidin;C02AC05;C02AC05;C02AC05;;;95;;;1;1;1;1;0;C;;1;1;1;;;0;5;;
+Melperon;;No Match;202;0;;;N05AD03;N05AD03;;;100;;;0;0;0;1;0;N;;;1;1;;;0;5;;
+MOXONIDIN HEXAL 0,3 mg Filmtabletten | (Moxonidin);;No Match;201;1;moxonidin;C02AC05;C02AC05;C02AC05;;;95;;;1;1;1;1;0;C;;1;1;1;;;0;5;;
+Piperacillin/ Tazobactam (i.v.) 2000 mg/250 mg Inf. 30min LM=TL:NaCl 0,9%;;No Match;201;0;;;;J01CR05;;;92;;;0;0;0;0;0;J;;;;1;;;0;5;;
+Ampicillin/ Sulbactam (i.v.) 1000 mg/ 500 mg Inf. 15-30min LM:NaCl 0,9% TL:NaCl 0,9%;;No Match;200;0;;;;J01CA01;;;59;;;0;0;0;0;0;J;;;;0;;;J01CR01;5;Kann man hier die Trägerlösung weglassen?;J01CR01
+OLIMEL Peripher 2,5% 1050 kcal;;No Match;200;0;;;;B05BA10;;;69;;;0;0;0;0;0;B;;;;1;;;0;5;;
+Naropin über DIK;;No Match;199;0;;;;N01BB09;V06DB50;G02AD02;64;58.0;57.0;0;0;0;0;0;N;;;;1;0;0;0;5;;
+"[2 - Prä CYP, Uromitexan]NATRIUMCHLORID Inf.Lsg.154";;No Match;199;0;;;;M01AX24;A02BC04;A07DA03;55;53.0;50.0;0;0;0;0;0;M;;;;0;0;0;V03AF01;5;Ist hier das Uromitexan mit V03AF01 der korrekte Code?;V03AF01
+METOHEXAL Succ Retardtabletten | (Metoprolol);;No Match;199;1;metoprolol;;;C07AB02;;;85;;;0;0;0;0;0;C;;;;1;;;0;5;;
+Omeprazol 20 mg;;No Match;199;0;;;;A02BC01;A02BC05;V04CD01;75;68.0;67.0;0;0;0;0;0;A;;;;1;0;0;0;5;;
+Simvastatin;;No Match;198;0;;;;C10BA02;;;100;;;0;0;0;0;0;C;;;;0;;;C10AA01;5;;
+Noxafil;;No Match;198;0;;;J02AC04;J02AC04;L01AA01;N05AL01;100;57.0;53.0;0;0;0;1;0;J;;;1;1;0;0;0;5;;
+Cetirizin;;No Match;197;0;;;R06AE07;R06AE07;G01AF01;;100;53.0;;0;0;0;1;0;R;;;1;1;0;;0;5;;
+Unacid;;No Match;197;0;;;;J01CR01;;;100;;;0;0;0;0;0;J;;;;1;;;0;5;;
+PIRITRAMID hameln 7,5 mg/ml Injektionslsg. Amp. | (Piritramid);;No Match;196;1;piritramid;N02AC03;;N02AC03;;;95;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+TOREM Cor Tabletten | (Torasemid);;No Match;195;1;torasemid;C03CA04;;C03CA04;;;71;;;0;0;1;0;0;C;;1;;1;;;0;5;;
+LANTUS 100 E/ml Patrone Zylinderampullen | (Insulin glargin);;No Match;195;1;insulin glargin;A10AE04;;A10AE04;;;93;;;0;0;1;0;0;A;;1;;1;;;0;5;;
+Metoprolol;;No Match;195;0;;;C07AB02;C07AB02;D06BX01;;100;67.0;;0;0;0;1;0;C;;;1;1;0;;0;5;;
+Polidocanol-Harnstoff-Creme ans Bett - Körper;;No Match;195;0;;;;D06BB10;D07AA03;D04AX07;53;52.0;51.0;0;0;0;0;0;D;;;;0;0;0;D04AB61;5;Welcher ATC Code?;D04AB61
+Amlodipin 5mg;;No Match;194;0;;;;C08CA01;;;100;;;0;0;0;0;0;C;;;;1;;;0;5;;
+L-THYROXIN 150 Henning Tabletten | (Levothyroxin);;No Match;194;1;levothyroxin;;;H03AA01;;;100;;;0;0;0;0;0;H;;;;1;;;0;5;;
+"[5 - Rtx Vaskulitis Induktion] Rituximab inNATRIUMCHLORID Inf.Lsg.154 über 10h";;No Match;194;0;;;;A10BK01;M01CX01;L01EX10;50;50.0;50.0;0;0;0;0;0;A;;;;0;0;0;L01XC02;5;Ist der ATC Code L01XC02 für Rituximab korrekt?;L01FA01
+Folsan 5 mg;;No Match;194;0;;;;N02AB02;N05AF01;B03BB01;59;59.0;58.0;0;0;0;0;0;N;;;;0;0;1;0;5;ATC Code B03BB01 korrekt?;B03BB01
+MADOPAR LT Tabletten | (Benserazid);;No Match;191;1;benserazid;N04BA11;;N04BA11;;;70;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+HUMINSULIN Normal KwikPen Injektionslösung | (Insulin, normal (human));;No Match;191;1;insulin, normal (human);;A10AB01;A10AB01;A10AD01;;100;84.0;;0;0;0;1;0;A;;;1;1;0;;0;5;;
+Enoxaparin-Natrium (s.c.) 2.000 I.E. (20 mg)/0,2 mL Fertigspritze;;No Match;191;0;;;;V03AE01;B01AB01;;67;64.0;;0;0;0;0;0;V;;;;0;1;;0;5;;
+Clexane 40mg;;No Match;190;0;;;;B01AB05;N06BA12;;100;75.0;;0;0;0;0;0;B;;;;1;0;;0;5;;
+QUILONUM retard Tabl. | (Lithium-Ion);;No Match;190;1;lithium-ion;N05AN01;;N05AN01;;;100;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+PANTOPRAZOL HEXAL i.v.40 mg Plv.z.Hers.e.Inj.L. | (Pantoprazol);;No Match;190;1;pantoprazol;A02BC02;;A02BC02;;;87;;;0;0;1;0;0;A;;1;;1;;;0;5;;
+LEVODOPA ratioph.comp.100mg/25mg Retardtabletten | (Carbidopa);;No Match;189;1;carbidopa;;;N04BA10;;;77;;;0;0;0;0;0;N;;;;1;;;0;5;;
+"NOVAMINSULFON ratioph.1 g/2 ml Inj.Lsg. Ampullen | (Metamizol; 9-50Kg 12mg/kg KG)";;No Match;188;1;"metamizol; 9-50kg 12mg/kg kg";;;N02BB02;;;81;;;0;0;0;0;0;N;;;;1;;;0;5;;
+VOMEX A i.v. Injektionslösung | (Dimenhydrinat);A04AB02;Fuzzy Match;188;1;dimenhydrinat;A04AB02;;A04AB02;;;100;;;0;0;1;0;1;A;A;1;;1;;;0;5;;
+CORDAREX Tabletten | (Amiodaron);;No Match;188;1;amiodaron;C01BD01;;C01BD01;;;36;;;0;0;1;0;0;C;;1;;1;;;0;5;;
+METFORMIN HEXAL 1000 mg Filmtabletten | (Metformin);;No Match;187;1;metformin;A10BA02;A10BA02;A10BA02;;;95;;;1;1;1;1;0;A;;1;1;1;;;0;5;;
+"[1 - Rtx Vaskulitis Induktion, Prednisolon]NATRIUMCHLORID Inf.Lsg.154";;No Match;185;0;;;;A11CC02;M01CX01;D08AC05;55;53.0;53.0;0;0;0;0;0;A;;;;0;0;0;H02AB06;5;Was wäre hier für Prednisolon korrekt als i.v., Trägerlösung weglassen mit ATC Code?;H02AB06
+RISPERIDON HEXAL 1 mg/ml Lösung z.Einn. | (Risperidon);;No Match;184;1;risperidon;N05AX08;N05AX08;N05AX08;;;95;;;1;1;1;1;0;N;;1;1;1;;;0;5;;
+PREDNISOLON mg Jenapharm Tabletten | (Prednisolon);;No Match;184;1;prednisolon;;;H02AB06;;;98;;;0;0;0;0;0;H;;;;1;;;0;5;;
+Vitamin D3 (p.o.) 500 I.E. Tbl.;;No Match;183;0;;;;A11CC05;N07XB52;A11DA01;83;67.0;67.0;0;0;0;0;0;A;;;;1;0;0;0;5;;
+DYNASTAT 40 mg Plv.z.Herst.e.Injektionslsg | (Parecoxib);M01AH04;Fuzzy Match;183;1;parecoxib;M01AH04;;M01AH04;;;96;;;0;0;1;0;1;M;M;1;;1;;;0;5;;
+DERMATOP Basiscreme | (Myristylalkohol);;No Match;183;1;myristylalkohol;;;D07AC18;;;67;;;0;0;0;0;0;D;;;;1;;;0;5;;
+Tavor exp.;;No Match;182;0;;;;N05BA06;;;71;;;0;0;0;0;0;N;;;;1;;;0;5;;
+ARIXTRA 2,5 mg/0,5 ml Inj.-Lsg.i.e.Fertigspritze | ab OP-Tag;;No Match;182;1;b op-ta;;;B01AX05;;;81;;;0;0;0;0;0;B;;;;1;;;0;5;;
+Atarax 25 mg;;No Match;182;0;;;;N05BB01;A01AB09;N02CC02;67;64.0;64.0;0;0;0;0;0;N;;;;1;0;0;0;5;;
+Bisoprolol 5 mg;;No Match;182;0;;;;C07AB07;;;80;;;0;0;0;0;0;C;;;;1;;;0;5;;
+PALLADON retard 4 mg Kapseln | (Hydromorphon);;No Match;181;1;hydromorphon;N02AA03;N02AA03;N02AA03;;;94;;;1;1;1;1;0;N;;1;1;1;;;0;5;;
+PREDNISOLON 40 mg Jenapharm Tabletten | (Prednisolon);;No Match;181;1;prednisolon;;;H02AB06;;;79;;;0;0;0;0;0;H;;;;1;;;0;5;;
+DREISAVIT N Filmtabletten | (Thiaminium-Kation, Pyridoxin, Pantothensäure);A11EB01;Fuzzy Match;181;1;thiaminium-kation, pyridoxin, pantothensäure;;;A07EC01;N03AG01;;70;68.0;;0;0;0;0;2;A;A;;;0;0;;A11EB01;5;;
+CARMEN 10 mg Filmtabletten | (Lercanidipin);;No Match;181;1;lercanidipin;C08CA13;;C08CA13;;;96;;;0;0;1;0;0;C;;1;;1;;;0;5;;
+ACC 600 mg;;No Match;181;0;;;;R05CB01;J05AB01;;75;60.0;;0;0;0;0;0;R;;;;1;0;;0;5;;
+STALEVO 100 mg/25 mg/200 mg Filmtabletten | (Levodopa);;No Match;180;1;levodopa;N04BA13;;N04BA13;;;80;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+SMOFKABIVEN zentral 1600 kcal;;No Match;180;0;;;;B05BA10;;;88;;;0;0;0;0;0;B;;;;1;;;0;5;;
+Methylprednisolon;;No Match;179;0;;;;H02AB04;;;77;;;0;0;0;0;0;H;;;;1;;;0;5;;
+ALENDRONSÄURE ratiopharm 70 mg Tabletten | (Alendronsäure);;No Match;179;1;alendronsäure;M05BA04;;M05BA04;;;79;;;0;0;1;0;0;M;;1;;1;;;0;5;;
+RAMIPRIL HEXAL 10 mg Tabletten | (Ramipril);;No Match;178;1;ramipril;;C09AA05;C09AA05;;;94;;;0;0;0;1;0;C;;;1;1;;;0;5;;
+1 CELLCEPT 500 mg Tabletten | (Mycophenolsäure);;No Match;178;1;mycophenolsäure;L04AA06;;L04AA06;;;83;;;0;0;1;0;0;L;;1;;1;;;0;5;;
+VORICONAZOL HEXAL 200 mg Filmtabletten | (Voriconazol);;No Match;178;1;voriconazol;J02AC03;J02AC03;J02AC03;;;95;;;1;1;1;1;0;J;;1;1;1;;;0;5;;
+Lyrica 25 mg;;No Match;178;0;;;;N03AX16;V03AH01;;92;58.0;;0;0;0;0;0;N;;;;1;1;;0;5;;
+CANDESARTAN-ratiopharm 4 mg Tabletten | (Candesartan);;No Match;176;1;candesartan;;;C09CA06;;;98;;;0;0;0;0;0;C;;;;1;;;0;5;;
+Vergentan 100mg;;No Match;176;0;;;;A03FA05;C04AD03;;90;71.0;;0;0;0;0;0;A;;;;1;0;;0;5;;
+Arixtra 2,5 mg;;No Match;175;0;;;;B01AX05;;;78;;;0;0;0;0;0;B;;;;1;;;0;5;;
+INNOHEP 20.000 Anti XA I.E./ml 0,8ml Fertigspr. | (Tinzaparin natrium);;No Match;175;1;tinzaparin natrium;B01AB10;;B01AB10;;;77;;;0;0;1;0;0;B;;1;;1;;;0;5;;
+INHIXA 7.000 I.E. 70 mg/0,7 ml ILO F.Sp.+Sich-Sys. | (Enoxaparin natrium);;No Match;175;1;enoxaparin natrium;B01AB05;;B01AB05;;;36;;;0;0;1;0;0;B;;1;;1;;;0;5;;
+B) KEVATRIL 3 mg als KI | (Granisetron);;No Match;174;1;granisetron;A04AA02;;A04AA02;;;29;;;0;0;1;0;0;A;;1;;1;;;0;5;;
+FLUCONAZOL HEXAL 200 mg Hartkapseln | (Fluconazol);;No Match;173;1;fluconazol;J02AC01;J02AC01;J02AC01;;;95;;;1;1;1;1;0;J;;1;1;1;;;0;5;;
+CLARITHROMYCIN HEXAL 500 mg Filmtabletten | (Clarithromycin);;No Match;173;1;clarithromycin;J01FA09;J01FA09;J01FA09;;;96;;;1;1;1;1;0;J;;1;1;1;;;0;5;;
+LEVETIRACETAM STADA 750 mg Filmtabletten | (Levetiracetam);;No Match;173;1;levetiracetam;N03AX14;;N03AX14;;;79;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+INSUMAN Basal 40 I.E./ml Durchstechflaschen | (Insulin-Isophan (human));;No Match;173;1;insulin-isophan (human);A10AC01;;A10AC01;;;90;;;0;0;1;0;0;A;;1;;1;;;0;5;;
+Insulin nach UKD-Plan;;No Match;173;0;;;;A10AC01;A10AB01;;53;53.0;;0;0;0;0;0;A;;;;0;0;;A10A;3;ATC Code A10AC01 korrekt?; A10A
+LASIX Inj.-Lsg. Ampullen | (Furosemid);;No Match;171;1;furosemid;C03CA01;;C03CA01;;;54;;;0;0;1;0;0;C;;1;;1;;;0;5;;
+NEXIUM Mups 20 mg magensaftresistente Tabletten | (Esomeprazol);;No Match;171;1;esomeprazol;A02BC05;A02BC05;A02BC05;;;93;;;1;1;1;1;0;A;;1;1;1;;;0;5;;
+Clopidogrel 75 mg;;No Match;171;0;;;;B01AC04;M03BX01;C02AC01;62;59.0;56.0;0;0;0;0;0;B;;;;1;0;0;0;5;;
+TAVOR;;No Match;171;0;;;N05BA06;N05BA06;;;100;;;0;0;0;1;0;N;;;1;1;;;0;5;;
+METFORMIN HEXAL 500 mg Filmtabletten | (Metformin);;No Match;171;1;metformin;A10BA02;A10BA02;A10BA02;;;95;;;1;1;1;1;0;A;;1;1;1;;;0;5;;
+CEFUROXIM Fresenius 1500 mg in 50 ml NaCL 0,9% über 1 h;;No Match;170;0;;;;J01DC02;;;90;;;0;0;0;0;0;J;;;;1;;;0;5;;
+Tazobac 4,5 g;;No Match;169;0;;;;N05BA06;N03AX10;G04CB02;58;55.0;54.0;0;0;0;0;0;N;;;;0;0;0;J01CR05;5;;
+Vergentan 50mg;A03FA05;Fuzzy Match;169;0;;;A03FA05;A03FA05;C01DA05;;100;71.0;;0;0;0;1;1;A;A;;1;1;0;;0;5;;
+MonoEmbolex 3000 IE;;No Match;169;0;;;;B03XA01;B02BD16;;62;59.0;;0;0;0;0;0;B;;;;0;0;;B01AB13;5;;
+FUROSEMID 40 mg;;No Match;169;0;;;;C03CA01;;;75;;;0;0;0;0;0;C;;;;1;;;0;5;;
+HD Vitamine;;No Match;168;0;;;;A11CC05;A11HA02;;64;64.0;;0;0;0;0;0;A;;;;0;0;;nomed;nomed;was ist das hier?;Diätetikum, no med
+BGA;;No Match;168;0;;;;A03FP30;B02AA03;;50;50.0;;0;0;0;0;0;A;;;;0;0;;nomed;nomed;no_med;Anordnung Blutgasanalyse, no med
+ORFIRIL long Retardkapseln | (Valproinsäure);;No Match;168;1;valproinsäure;N03AG01;;N03AG01;;;80;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+DEXAMETHASON;;No Match;167;0;;;;H02AB02;;;100;;;0;0;0;0;0;H;;;;1;;;0;5;;
+"[2 - Rtx Vaskulitis Induktion, Ranitidin]NATRIUMCHLORID Inf.Lsg.154";;No Match;167;0;;;;D08AC05;A02BC04;;53;50.0;;0;0;0;0;0;D;;;;0;0;;A02BA02;5;Wäre hier nur Ranitidin der Wirkstoff mit ATC Code A02BA02?;A02BA02
+Naltrexon;N07BB04;Fuzzy Match;167;0;;;;N03AA02;M01AB05;J05AB11;57;56.0;55.0;0;0;0;0;2;N;N;;;0;0;0;unspec;unspec;Ist für Naltrexon der ATC Code N07BB04 korrekt?;nicht eindeutig, gibt je nach Präparat 2 verschiedene ATCcodes- bei Opiatabh oder bei Alkoholabhängigkeit
+Omeprazol 20mg;;No Match;167;0;;;;A02BC01;A02BC05;V04CD01;100;70.0;69.0;0;0;0;0;0;A;;;;1;0;0;0;5;;
+A) DEXA 16 mg als KI | (Dexamethason 21-dihydrogenphosphat, Dexamethason);;No Match;167;1;dexamethason 21-dihydrogenphosphat, dexamethason;;;S01BA01;H02AB02;;67;62.0;;0;0;0;0;0;S;;;;0;1;;0;5;;
+Torem 10mg;;No Match;166;0;;;;L04AC16;C03CA04;;78;74.0;;0;0;0;0;0;L;;;;0;1;;0;5;;
+METRONIDAZOL 500mg;;No Match;166;0;;;;J01XD01;P01AB01;N03AD01;80;80.0;71.0;0;0;0;0;0;J;;;;1;0;0;0;5;;
+SEROQUEL 100 mg Filmtabletten | (Quetiapin);;No Match;165;1;quetiapin;N05AH04;;N05AH04;;;70;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+TILIDIN comp. STADA 50 mg/4 mg Retardtabletten | (Tilidin hydrochlorid);;No Match;165;1;tilidin hydrochlorid;N02AX51;N02AX51;N02AX51;;;100;;;1;1;1;1;0;N;;1;1;1;;;0;5;;
+Pantozol 40mg;;No Match;165;0;;;;A02BC02;N06AF04;;74;69.0;;0;0;0;0;0;A;;;;1;0;;0;5;;
+Folsäure 5 mg;;No Match;164;0;;;;B03BB01;;;74;;;0;0;0;0;0;B;;;;1;;;0;5;;
+ZYPREXA  überzogene Tabletten | (Olanzapin);;No Match;164;1;olanzapin;N05AH03;;N05AH03;;;78;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+NOVAMINSULFON;;No Match;164;0;;;N02BB02;N02BB02;;;100;;;0;0;0;1;0;N;;;1;1;;;0;5;;
+Cefuroxim (p.o.) 125 mg/5 mL Suspension;;No Match;164;0;;;;J01DC02;;;69;;;0;0;0;0;0;J;;;;1;;;0;5;;
+"Ern. i.v.: Fettlösung Mischbeutel; individuelle Herstellung durch APO UKD nach Anforderung";;No Match;163;0;;;;V04CZ08;C09AA02;B05XC30;56;54.0;53.0;0;0;0;0;0;V;;;;0;0;0;unspec;unspec;Was ist das?;nicht eindeutig
+RAMIPRIL HEXAL Tabletten | (Ramipril);;No Match;162;1;ramipril;;;C09AA05;;;88;;;0;0;0;0;0;C;;;;1;;;0;5;;
+PREDNISOLON Tabletten | (Prednisolon);;No Match;162;1;prednisolon;;;H02AB06;;;69;;;0;0;0;0;0;H;;;;1;;;0;5;;
+METRONIDAZOL B.Braun 5 mg/ml Infusionslösung | (Metronidazol);;No Match;161;1;metronidazol;;;J01XD01;P01AB01;D06BX01;95;71.0;46.0;0;0;0;0;0;J;;;;1;0;0;0;5;;
+FLUVASTATIN AL 40 mg Hartkapseln | (Fluvastatin);;No Match;161;1;fluvastatin;C10AA04;;C10AA04;;;82;;;0;0;1;0;0;C;;1;;1;;;0;5;;
+Circadin;;No Match;161;0;;;N05CH01;N05CH01;C01EH20;R05DA14;100;62.0;59.0;0;0;0;1;0;N;;;1;1;0;0;0;5;;
+Leponex;;No Match;161;0;;;N05AH02;N05AH02;S01BA14;J07CA02;100;57.0;57.0;0;0;0;1;0;N;;;1;1;0;0;0;5;;
+MULTIBIONTA Nutrition Tropfen | (Thiamin, Riboflavin, Nicotinsäure, Pantothensäure);;No Match;160;1;thiamin, riboflavin, nicotinsäure, pantothensäure;;;A09AH20;V06DB50;R05DA04;70;56.0;53.0;0;0;0;0;0;A;;;;0;0;0;A11BA01;5;;
+FUROSEMID ratiopharm 40 mg Tabletten | (Furosemid);;No Match;160;1;furosemid;C03CA01;;C03CA01;;;96;;;0;0;1;0;0;C;;1;;1;;;0;5;;
+HEPARIN NATRIUM 5.000 ratiopharm Ampullen | (Heparin natrium (Schwein));;No Match;159;1;heparin natrium (schwein);;;B01AB01;;;83;;;0;0;0;0;0;B;;;;1;;;0;5;;
+Tazobac 4,5g;;No Match;159;0;;;;N05BA06;G04CB02;J01DC02;61;56.0;56.0;0;0;0;0;0;N;;;;0;0;0;J01CR05;5;;
+ARANESP 80 µg Inj.-Lsg.i.e.Fert.S.autom.Nadels. | (Darbepoetin alfa);;No Match;159;1;darbepoetin alfa;B03XA02;;B03XA02;;;91;;;0;0;1;0;0;B;;1;;1;;;0;5;;
+Milax/Pyrilax;;No Match;159;0;;;;A06AX01;V08BA01;J06BB05;71;50.0;50.0;0;0;0;0;0;A;;;;1;0;0;0;5;zwei Wirkstoffe?;A06AX01
+MAGNESIUM 100 mg Jenapharm Tabletten | (Magnesium-Ion);;No Match;158;1;magnesium-ion;;;A12CC05;A12CC11;A12CC02;75;73.0;64.0;0;0;0;0;0;A;;;;0;1;0;0;5;;
+NEBIVOLOL STADA 5 mg Tabletten | (Nebivolol);;No Match;158;1;nebivolol;C07AB12;C07AB12;C07AB12;;;94;;;1;1;1;1;0;C;;1;1;1;;;0;5;;
+Arixtra;;No Match;158;0;;;B01AX05;B01AX05;;;100;;;0;0;0;1;0;B;;;1;1;;;0;5;;
+Metronidazol 500 mg;;No Match;157;0;;;;J01XD01;P01AB01;N05CD08;77;77.0;60.0;0;0;0;0;0;J;;;;1;0;0;0;5;;
+GLUCOSE Inf.-Lösung 5 | (Glucose, wasserfrei zur parenteralen Anwendung);;No Match;157;1;glucose, wasserfrei zur parenteralen anwendung;;;V07AB10;B05BB02;;67;64.0;;0;0;0;0;0;V;;;;1;0;;0;5;Welcher ATC Code?;V07AB10
+Rituximab;;No Match;157;0;;;;V08BA01;H02CA02;D11AF55;50;48.0;47.0;0;0;0;0;0;V;;;;0;0;0;L01FA01;5;Welcher ATC Code?;L01FA01
+BELOC i.v. Injektionslösung | (Metoprolol);;No Match;157;1;metoprolol;;;C07AB02;C07BB22;;75;53.0;;0;0;0;0;0;C;;;;1;0;;0;5;;
+FORMOTOP 12 µg 1x60 ED Pulverinhalator+Patrone | (Formoterol);;No Match;157;1;formoterol;;;R03AK08;;;44;;;0;0;0;0;0;R;;;;0;;;R03AC13;5;Welcher ATC Code?;R03AC13
+Wasser über PEG;;No Match;156;0;;;;J07BC01;A03FP30;;53;52.0;;0;0;0;0;0;J;;;;0;0;;V07AB01;5;no_med?;V07AB01
+APONAL 50 Filmtabletten | (Doxepin);;No Match;156;1;doxepin;N06AA12;;N06AA12;;;100;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+Nalbufin-hydrochlorid (i.v.) 10 mg/mL Infusion 15-20 min LM=TL:NaCl 0,9%;N02AF02;Fuzzy Match;156;0;;;;B05XB01;S01BA02;H02AB09;71;57.0;54.0;0;0;0;0;2;B;N;;;0;0;0;N02AF02;5;;
+Cytarabin;;No Match;156;0;;;L01BC01;L01BC01;;;100;;;0;0;0;1;0;L;;;1;1;;;0;5;;
+ZOLEDRONSÄURE HEXAL 4 mg/100 ml Infusionslösung | (Zoledronsäure);;No Match;155;1;zoledronsäure;M05BA08;;M05BA08;;;77;;;0;0;1;0;0;M;;1;;1;;;0;5;;
+DEXAMETHASON 4 mg JENAPHARM Tabletten | (Dexamethason);;No Match;155;1;dexamethason;;;H02AB02;;;83;;;0;0;0;0;0;H;;;;1;;;0;5;;
+DONEPEZIL HCL HEXAL 10 mg Filmtabletten | (Donepezil);;No Match;155;1;donepezil;N06DA02;;N06DA02;;;81;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+NEXIUM Mups 40 mg magensaftresistente Tabletten | (Esomeprazol);;No Match;154;1;esomeprazol;A02BC05;A02BC05;A02BC05;;;93;;;1;1;1;1;0;A;;1;1;1;;;0;5;;
+Bisoprolol;;No Match;154;0;;;C07AB07;C07AB07;;;100;;;0;0;0;1;0;C;;;1;1;;;0;5;;
+Valsartan 160 mg;;No Match;153;0;;;;C09CA03;;;81;;;0;0;0;0;0;C;;;;1;;;0;5;;
+Metronidazol;;No Match;152;0;;;;J01XD01;P01AB01;D06BX01;100;100.0;61.0;0;0;0;0;0;J;;;;1;0;0;0;5;;
+Metamizol 500 mg;;No Match;152;0;;;;N02BB02;L02AB02;;81;58.0;;0;0;0;0;0;N;;;;1;0;;0;5;;
+"AMPHO MORONAL Suspension 100 mg/1 ml | (Amphotericin B)[Stoß Vaskulitis]";;No Match;152;1;amphotericin b) [stoß vaskulitis;;;A07AA07;;;100;;;0;0;0;0;0;A;;;;1;;;0;5;;
+EBRANTIL 30 Retardkapseln | (Urapidil);;No Match;151;1;urapidil;C02CA06;;C02CA06;;;76;;;0;0;1;0;0;C;;1;;1;;;0;5;;
+Unacid 3g;;No Match;151;0;;;;J01CR01;;;80;;;0;0;0;0;0;J;;;;1;;;0;5;;
+Spironolacton;;No Match;150;0;;;C03DA01;C03DA01;R05DA14;;100;55.0;;0;0;0;1;0;C;;;1;1;0;;0;5;;
+Folsan 5mg;;No Match;149;0;;;;B03BB01;N05AF01;C07AA05;78;73.0;73.0;0;0;0;0;0;B;;;;1;0;0;0;5;;
+LEVETIRACETAM HEXAL 1.000 mg Filmtabletten | (Levetiracetam);;No Match;149;1;levetiracetam;N03AX14;;N03AX14;;;90;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+HALOPERIDOL ratiopharm 1 mg Tabletten | (Haloperidol);;No Match;149;1;haloperidol;N05AD01;;N05AD01;;;96;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+TRAMAGIT 50 mg Tabletten | (Tramadol);;No Match;148;1;tramadol;;;N02AX02;;;80;;;0;0;0;0;0;N;;;;1;;;0;5;;
+"NATRIUMCHLORID Inf.Lsg.154 | (Natrium-Ion, Chlorid-Ion)d1-d5; über Infusomat 200ml/h";;No Match;148;1;"natrium-ion, chlorid-ion) d1-d5; über infusomat 200ml/";;;B05BB11;B05XA03;;82;70.0;;0;0;0;0;0;B;;;;1;0;;0;5;;
+ZOFRAN 4 mg Zydis lingual Schmelztabletten | (Ondansetron);;No Match;148;1;ondansetron;A04AA01;;A04AA01;;;95;;;0;0;1;0;0;A;;1;;1;;;0;5;;
+Rekawan;;No Match;147;0;;;;B01AB09;D06AX17;;57;50.0;;0;0;0;0;0;B;;;;0;0;;A12BA01;5;ATC Code A12BA01 korrekt?;A12BA01
+PROTHAZIN Filmtabletten | (Promethazin);;No Match;147;1;promethazin;;;N05CM22;;;47;;;0;0;0;0;0;N;;;;1;;;0;5;;
+Furosemid;;No Match;146;0;;;C03CA01;C03CA01;;;100;;;0;0;0;1;0;C;;;1;1;;;0;5;;
+Ern. i.v: peri OLIMEL 2,5% E - 700 kcal - 18h;;No Match;145;0;;;;B06AC01;N02BA13;S01GA02;57;55.0;55.0;0;0;0;0;0;B;;;;0;0;0;B05BA10;5;;
+"URBASON 1000 mg | (Methylprednisolon)d1-d3; Prämedikation Alemtuzumab als Kurzinfusion";;No Match;145;1;"methylprednisolon) d1-d3; prämedikation alemtuzumab als kurzinfusio";;;H02AB04;;;81;;;0;0;0;0;0;H;;;;1;;;0;5;;
+JANUVIA 100 mg Filmtabletten | (Sitagliptin);;No Match;145;1;sitagliptin;;;A10BH01;;;96;;;0;0;0;0;0;A;;;;1;;;0;5;;
+NITREPRESS 10 Tabletten | (Nitrendipin);;No Match;144;1;nitrendipin;C08CA08;;C08CA08;;;48;;;0;0;1;0;0;C;;1;;1;;;0;5;;
+B) E154 250 ml als KI;;No Match;144;0;;;;B02BD09;L04AB01;;56;48.0;;0;0;0;0;0;B;;;;0;0;;B05BB11;5;;
+0 Dexamethason 8 mg;;No Match;144;0;;;;H02AB02;;;93;;;0;0;0;0;0;H;;;;1;;;0;5;;
+ATORVASTATIN ratiopharm 20 mg Filmtabletten | (Atorvastatin);;No Match;144;1;atorvastatin;;;C10AA05;;;96;;;0;0;0;0;0;C;;;;1;;;0;5;;
+OXYGESIC 10 mg Retardtabletten | (Oxycodon);;No Match;144;1;oxycodon;;;N02AA05;;;96;;;0;0;0;0;0;N;;;;1;;;0;5;;
+Ern. i.v: zentral SMOFKABIVEN 2200 kcal - 18h;;No Match;143;0;;;;B05BA10;;;64;;;0;0;0;0;0;B;;;;1;;;0;5;;
+Rocephin;;No Match;143;0;;;;L01DC03;N02AA01;L02BG06;53;52.0;50.0;0;0;0;0;0;L;;;;0;0;0;J01DD04;5;ATC Code J01DD04 korrekt?;J01DD04
+COTRIM forte ratiopharm 960 mg Tabletten | (Trimethoprim, Sulfamethoxazol);;No Match;143;1;trimethoprim, sulfamethoxazol;;;J01EE01;;;100;;;0;0;0;0;0;J;;;;1;;;0;5;;
+Unacid (Ampicillin/Sulbactam) i.v. in [g];;No Match;142;0;;;;J01CG01;J01CE02;J01CR05;56;51.0;51.0;0;0;0;0;0;J;;;;0;0;0;J01CR21;5;ATC Code J01CR21 korrekt?;J01CR01
+"AMPHO MORONAL Suspension 100 mg/1 ml | (Amphotericin B)[Stoß Rejektion]";;No Match;142;1;amphotericin b) [stoß rejektion;;;A07AA07;;;100;;;0;0;0;0;0;A;;;;1;;;0;5;;
+Neulasta 6 mg;;No Match;140;0;;;;L03AA13;M05BA08;;76;67.0;;0;0;0;0;0;L;;;;1;0;;0;5;;
+Falithrom;;No Match;140;0;;;B01AA04;B01AA04;;;100;;;0;0;0;1;0;B;;;1;1;;;0;5;;
+Entresto 24/26 mg;;No Match;140;0;;;;C09DX04;;;91;;;0;0;0;0;0;C;;;;1;;;0;5;;
+KREON 25.000 Hartkps.m.magensaftr.überz.Pellets | (Triacylglycerollipase, Amylase);;No Match;140;1;triacylglycerollipase, amylase;;;A09AA02;;;62;;;0;0;0;0;0;A;;;;1;;;0;5;;
+Emend 80 mg;;No Match;139;0;;;;A04AD12;N07BB04;N03AG01;62;52.0;52.0;0;0;0;0;0;A;;;;1;0;0;0;5;;
+Ibuprofen 600 mg;;No Match;138;0;;;;M01AE01;;;81;;;0;0;0;0;0;M;;;;1;;;0;5;;
+A) 1500 ml des 3 Liter-Beutels NaCl 0,45% + Glucose 2,5%;;No Match;138;0;;;;A11CC02;N05AL05;N02AX02;67;67.0;67.0;0;0;0;0;0;A;;;;0;0;0;B05BB02;5;Welcher ATC Code?;B05BB02
+OXYGESIC 5 mg Retardtabletten | (Oxycodon) bei Schmerzen NRS>=4 und KG<50kg (alle12h);;No Match;137;1;oxycodon) bei schmerzen nrs>=4 und kg<50kg (alle12h;;;N02AA05;;;96;;;0;0;0;0;0;N;;;;1;;;0;5;;
+Metamizol-Natrium (p.o.) 500 mg/mL Tropfen;;No Match;137;0;;;;V03AE01;N02BB02;B01AB01;67;65.0;64.0;0;0;0;0;0;V;;;;0;0;0;N02BB02;5;;
+2 METOHEXAL Succ 47,5 mg Retardtabletten | (Metoprolol);;No Match;137;1;metoprolol;;;C07AB02;;;93;;;0;0;0;0;0;C;;;;1;;;0;5;;
+Ranitidin;;No Match;136;0;;;;C01EH20;N03AA03;;59;56.0;;0;0;0;0;0;C;;;;0;0;;A02BA02;5;ATC Code A02BA02 korrekt?;A02BA02
+"[Kombi-Inhalation - Trägerlösung für Kombi Atrovent + Sultanol]NACL 0,9%";R03AC02;Fuzzy Match;136;0;;;;R04AX01;R03AC02;R03AL01;61;58.0;55.0;0;0;0;0;2;R;R;;;0;0;0;R03AL02;5;Welcher ATC Code?;R03AL02
+Quensyl 200 mg;;No Match;136;0;;;;P01BA02;J05AR17;;96;62.0;;0;0;0;0;0;P;;;;1;0;;0;5;;
+Simvastatin 40 mg;;No Match;135;0;;;;C10BA02;;;79;;;0;0;0;0;0;C;;;;0;;;C10AA01;5;;
+FUROSEMID ratiopharm 40 mg;;No Match;135;0;;;;C03CA01;;;96;;;0;0;0;0;0;C;;;;1;;;0;5;;
+Ramipril 2,5 mg;;No Match;135;0;;;;C09AA05;C09BA25;;80;80.0;;0;0;0;0;0;C;;;;1;0;;0;5;;
+Soleinhalation;;No Match;133;0;;;;R04AX01;R03AL01;N03AA02;67;57.0;54.0;0;0;0;0;0;R;;;;0;0;0;B05BB11;5;Welcher ATC Code?;B05BB11 
+PREDNISOLON 10 mg Jenapharm Tabletten | (Prednisolon);;No Match;133;1;prednisolon;;;H02AB06;;;79;;;0;0;0;0;0;H;;;;1;;;0;5;;
+Cyclophosphamid;;No Match;133;0;;;L01AA01;L01AA01;N02AC06;D01AE14;100;54.0;53.0;0;0;0;1;0;L;;;1;1;0;0;0;5;;
+NOVORAPID FlexPen 100 E/ml Inj.Lsg i.e. Fertigpen | (Insulin aspart);;No Match;133;1;insulin aspart;;A10AB05;A10AB05;;;100;;;0;0;0;1;0;A;;;1;1;;;0;5;;
+VITAMIN B Duo Filmtabletten | (Thiaminium-Kation, Pyridoxin);;No Match;132;1;thiaminium-kation, pyridoxin;;N07XB52;N07XB52;A11CC05;A11DA01;100;70.0;70.0;0;0;0;1;0;N;;;1;1;0;0;0;5;;
+Lorano® akut;;No Match;132;0;;;;C05AD01;L01XB01;V06CA50;58;56.0;55.0;0;0;0;0;0;C;;;;0;0;0;R06AX13;5;;
+Lercanidipin 10mg;;No Match;132;0;;;;N06DX18;C08CA05;L01XF01;70;69.0;67.0;0;0;0;0;0;N;;;;0;0;0;C08CA13;5;;
+MELPERON Sandoz 50 mg Filmtabletten | (Melperon);;No Match;132;1;melperon;N05AD03;;N05AD03;;;67;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+Folsäure 5mg;;No Match;132;0;;;;B03BB01;;;100;;;0;0;0;0;0;B;;;;1;;;0;5;;
+E 153 Infusion;;No Match;131;0;;;;N04BB01;G03AA07;B02BD17;73;58.0;57.0;0;0;0;0;0;N;;;;0;0;0;B05BB01;5;;
+SIMVAHEXAL 10 mg Filmtabletten | (Simvastatin);;No Match;131;1;simvastatin;C10AA01;;C10AA01;;;97;;;0;0;1;0;0;C;;1;;1;;;0;5;;
+Lavanid® Gel - nicht behaarter Bereich;;No Match;131;0;;;;D03AX20;A06AB02;D10AF54;78;60.0;58.0;0;0;0;0;0;D;;;;0;0;0;nomed;nomed;Welcher ATC Code?;nicht apothekenpflichtig -> no med
+CANDESARTAN HEXAL comp 8 mg/12,5 mg Tabletten | (Candesartan);;No Match;131;1;candesartan;;;C09CA06;C09DA26;;89;84.0;;0;0;0;0;0;C;;;;0;1;;0;5;;
+RISPERIDON Filmtabletten | (Risperidon);;No Match;131;1;risperidon;N05AX08;;N05AX08;;;67;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+"Insulin human, Anpassung nach BZ - s. Feld ""Indikation""";;No Match;131;0;;;;N05AD03;N03AA02;A10AB01;53;52.0;50.0;0;0;0;0;0;N;;;;1;0;0;0;5;;
+"Insulin human fest u./o. Anpassung nach BZ, s. Feld ""nach Schema""";;No Match;130;0;;;;A07AA06;A10AB01;G04BX;56;56.0;55.0;0;0;0;0;0;A;;;;0;0;0;A10AD01;5;ATC Code A10AB01 korrekt?;A10AD01
+NACL 0,9% | (Natrium-Ion, Chlorid);;No Match;130;1;natrium-ion, chlorid;;B05CB01;B05CB01;H01BA02;;100;57.0;;0;0;0;1;0;B;;;0;0;;;B05BB11;5;;
+Quensyl 200mg;;No Match;130;0;;;P01BA02;P01BA02;J05AB01;;100;67.0;;0;0;0;1;0;P;;;1;1;0;;0;5;;
+Cetirizin 10 mg;;No Match;129;0;;;;R06AE07;A12CC02;;75;59.0;;0;0;0;0;0;R;;;;1;0;;0;5;;
+DEXAMETHASON 8 mg JENAPHARM Tabletten | (Dexamethason);;No Match;129;1;dexamethason;;;H02AB02;;;83;;;0;0;0;0;0;H;;;;1;;;0;5;;
+Valsartan 80 mg;;No Match;129;0;;;;C09CA03;;;80;;;0;0;0;0;0;C;;;;1;;;0;5;;
+PROGRAF Hartkapseln | (Tacrolimus);;No Match;129;1;tacrolimus;;;L04AD02;;;78;;;0;0;0;0;0;L;;;;1;;;0;5;;
+Sertralin;;No Match;128;0;;;N06AB06;N06AB06;;;100;;;0;0;0;1;0;N;;;1;1;;;0;5;;
+ELEKTROLYT Inf.-Lsg. 153 PE-Flasche 1000ml;;No Match;128;0;;;;B05BB01;;;78;;;0;0;0;0;0;B;;;;1;;;0;5;;
+APONAL 25 überzogene Tabletten | (Doxepin);;No Match;128;1;doxepin;N06AA12;;N06AA12;;;100;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+FOSTER 200/6 µg 120 Hub Dosieraerosol | (Formoterol);;No Match;128;1;formoterol;;;R03AK08;;;92;;;0;0;0;0;0;R;;;;1;;;0;5;;
+E154 1000ml 150ul/h;;No Match;128;0;;;;J06BA02;A10BD07;R07AX31;55;53.0;53.0;0;0;0;0;0;J;;;;0;0;0;B05BB11;5;;
+MCP HEXAL 10 Tabletten | (Metoclopramid hydrochlorid, Metoclopramid);;No Match;128;1;metoclopramid hydrochlorid, metoclopramid;;A03FA01;A03FA01;H01BB02;M01CX01;92;80.0;77.0;0;0;0;1;0;A;;;1;1;0;0;0;5;;
+Risperdal 0,5 mg;;No Match;128;0;;;;N05AX08;;;97;;;0;0;0;0;0;N;;;;1;;;0;5;;
+TELMISARTAN Plus HCT AL 40 mg/12,5 mg Tabletten | (Telmisartan);;No Match;127;1;telmisartan;C09CA07;;C09CA07;;;71;;;0;0;1;0;0;C;;0;;0;;;C09DA07;5;;
+Clexane 4.000 I. E. (40 mg) 0,4 ml Injektionslösung | (Enoxaparin) !GFR > 30;;No Match;127;1;enoxaparin) !gfr > 3;;;B01AB05;;;75;;;0;0;0;0;0;B;;;;1;;;0;5;;
+ERGENYL Chrono Retardtabletten | (Valproat natrium, Valproinsäure);;No Match;127;1;valproat natrium, valproinsäure;;;N03AG01;;;82;;;0;0;0;0;0;N;;;;1;;;0;5;;
+SPIRIVA 18 µg Kapseln m.Inhalationsplv.Nachfüll | (Tiotropium-Kation);A07DA02;Fuzzy Match;127;1;tiotropium-kation;;;R03BB04;;;91;;;0;0;0;0;2;R;A;;;1;;;0;5;;
+Rocephin 2g;;No Match;127;0;;;;L01DC03;N02AA01;N05CH01;73;62.0;61.0;0;0;0;0;0;L;;;;0;0;0;J01DD04;5;;
+Pantoprazol 20mg;;No Match;126;0;;;;A02BC02;;;100;;;0;0;0;0;0;A;;;;1;;;0;5;;
+OLIMEL Peripher 2,5% 1400 kcal;;No Match;126;0;;;;B05BA10;;;69;;;0;0;0;0;0;B;;;;1;;;0;5;;
+FRAXIPARINE 1 ml Injektionslösung i.e.Fertigspr. | (Nadroparin calcium);;No Match;126;1;nadroparin calcium;;;L04AA10;L01BB02;;71;61.0;;0;0;0;0;0;L;;;;0;0;;B01AB06;5;;
+ENALAPRIL ratiopharm 10 mg Tabletten | (Enalapril);;No Match;126;1;enalapril;;;C09AA02;;;96;;;0;0;0;0;0;C;;;;1;;;0;5;;
+SANDIMMUN Optoral Weichkapseln | (Ciclosporin, mikroemulgiert);;No Match;126;1;ciclosporin, mikroemulgiert;L04AD01;;L04AD01;;;87;;;0;0;1;0;0;L;;1;;1;;;0;5;;
+ORFIRIL long 150 mg Retardkapseln | (Valproinsäure);;No Match;125;1;valproinsäure;N03AG01;N03AG01;N03AG01;;;100;;;1;1;1;1;0;N;;1;1;1;;;0;5;;
+Xipamid 10 mg;;No Match;125;0;;;;L01XX35;C03BA10;;72;70.0;;0;0;0;0;0;L;;;;0;1;;0;5;;
+GRANOCYTE 34 5 Tr.Subst.+5 wasservorgef.Fertigspr. | (Lenograstim);;No Match;125;1;lenograstim;L03AA10;;L03AA10;;;92;;;0;0;1;0;0;L;;1;;1;;;0;5;;
+SURVIMED OPD Easy Bag | (Aminosäuren, essentiell, Isoleucin, Leucin, Lysin, Methionin);;No Match;125;1;aminosäuren, essentiell, isoleucin, leucin, lysin, methionin;;;V06DB50;D02AE01;;83;50.0;;0;0;0;0;0;V;;;;0;0;;nomed;nomed;ATC Code V06DB50 korrekt?;Diätetikum no med
+Diazepam;;No Match;124;0;;;N05BA01;N05BA01;;;100;;;0;0;0;1;0;N;;;1;1;;;0;5;;
+D) restliche 1500 ml des 3 Liter-Beutels NaCl 0,45% + Glucose 2,5%;;No Match;124;0;;;;V03AH01;A11CC05;;62;61.0;;0;0;0;0;0;V;;;;0;0;;B05BB02;5;Welcher ATC Code?;B05BB02
+CAPTOHEXAL 12,5 Cor Tabletten | (Captopril);;No Match;124;1;captopril;C09AA01;;C09AA01;;;80;;;0;0;1;0;0;C;;1;;1;;;0;5;;
+Rocephin / Ceftriaxon in [g];;No Match;124;0;;;;J01DD04;D11AX01;;69;55.0;;0;0;0;0;0;J;;;;1;0;;0;5;;
+"ANE: PDK - Periduralkatheter; Siehe USC Visitenprotokoll";;No Match;123;0;;;;R03AK05;D10AF54;A01AD11;53;50.0;50.0;0;0;0;0;0;R;;;;0;0;0;nomed;nomed;no_med?;no med
+Valsartan;;No Match;123;0;;;;C09CA03;;;100;;;0;0;0;0;0;C;;;;1;;;0;5;;
+C) FENISTIL 1 Ampulle als Bolus | (Dimetinden);;No Match;123;1;dimetinden;;;D04AA13;R06AB03;;100;80.0;;0;0;0;0;0;D;;;;0;1;;0;5;ATC R06AB03 korrekt?;R06AB03
+RAMIPRIL ratiopharm Tabletten | (Ramipril);;No Match;123;1;ramipril;;;C09AA05;;;90;;;0;0;0;0;0;C;;;;1;;;0;5;;
+LEPONEX;;No Match;122;0;;;N05AH02;N05AH02;S01BA14;J07CA02;100;57.0;57.0;0;0;0;1;0;N;;;1;1;0;0;0;5;;
+"Ern. ent: Sonde normokalorisch 1kcal/ml, ballaststoffhaltig; 1000kcal";;No Match;122;0;;;;J07BC01;G04BD04;;55;54.0;;0;0;0;0;0;J;;;;0;0;;nomed;nomed;;no med, Ernährung, Fresubin original fibre Easybag 1000ml 1000.00 ml, 
+Spironolacton 50 mg;;No Match;122;0;;;;C03DA01;R03CC13;;91;69.0;;0;0;0;0;0;C;;;;1;0;;0;5;;
+FUROSEMID ratiopharm 20 mg Tabletten | (Furosemid);;No Match;122;1;furosemid;C03CA01;;C03CA01;;;96;;;0;0;1;0;0;C;;1;;1;;;0;5;;
+Xipamid;;No Match;122;0;;;C03BA10;C03BA10;N02AC06;;100;56.0;;0;0;0;1;0;C;;;1;1;0;;0;5;;
+ACC long Brausetbl.;;No Match;121;0;;;;R05CB01;N02AX02;;73;53.0;;0;0;0;0;0;R;;;;1;0;;0;5;;
+LEVEMIR FlexPen Fertigspritzen | (Insulin detemir);;No Match;121;1;insulin detemir;A10AE05;;A10AE05;;;71;;;0;0;1;0;0;A;;1;;1;;;0;5;;
+INFECTOCILLIN parenteral 5 Mega Durchstechflaschen | (Benzylpenicillin, Natrium-Ion);;No Match;121;1;benzylpenicillin, natrium-ion;;;J01CE02;J01CE10;J01FA01;87;67.0;60.0;0;0;0;0;0;J;;;;0;0;0;J01CE01;5;ATC Code J01CE01 korrekt?;J01CE01
+0 WMB III (NaCl 0,9 % 2000 ml, G 5 % 1000 ml, KCl 1 M 60 ml, 5g Mesna);;No Match;121;0;;;;B01AB02;J05AF05;;55;52.0;;0;0;0;0;0;B;;;;0;0;;nomed;nomed;Welcher ATC Code?;Wässerungsmischbeutel, no med
+LEPONEX 100 Tabletten | (Clozapin);;No Match;121;1;clozapin;N05AH02;;N05AH02;;;74;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+TILIDIN comp. STADA 100 mg/8 mg Retardtabletten | (Tilidin hydrochlorid);;No Match;121;1;tilidin hydrochlorid;N02AX51;N02AX51;N02AX51;;;100;;;1;1;1;1;0;N;;1;1;1;;;0;5;;
+ZOPICLON HEXAL Filmtabletten | (Zopiclon);;No Match;121;1;zopiclon;N05CF01;;N05CF01;;;53;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+Ibuprofen (p.o.) 20 mg/mL Suspension;;No Match;120;0;;;;M01AE01;;;75;;;0;0;0;0;0;M;;;;1;;;0;5;;
+KLACID i.v. 500 mg Pulver Trockensub.o.Lös.-M. | (Clarithromycin);;No Match;120;1;clarithromycin;J01FA09;;J01FA09;;;60;;;0;0;1;0;0;J;;1;;1;;;0;5;;
+KLACID 500 mg;;No Match;120;0;;;;J01FA09;A12AA04;;63;59.0;;0;0;0;0;0;J;;;;1;0;;0;5;;
+MIMPARA 30 mg Filmtabletten | (Cinacalcet);;No Match;120;1;cinacalcet;H05BX01;;H05BX01;;;96;;;0;0;1;0;0;H;;1;;1;;;0;5;;
+Prednisolon 40 mg;;No Match;120;0;;;;S01CA53;H02AB06;;79;79.0;;0;0;0;0;0;S;;;;0;1;;0;5;;
+1 Ifosfamid 2000 mg/m² über 22h;;No Match;120;0;;;;B02BD04;B02BD32;J04AC01;58;58.0;57.0;0;0;0;0;0;B;;;;0;0;0;L01AA02;5;;
+Xeracalm A.D. Creme ans Bett - ges. Integument;;No Match;120;0;;;;D06BB10;B05CB01;;62;56.0;;0;0;0;0;0;D;;;;0;0;;nomed;nomed;Welcher ATC Code?;no med, Körperpflege
+Novalgin 1g;;No Match;119;0;;;;N02BB02;L01AA01;G03CD01;84;67.0;64.0;0;0;0;0;0;N;;;;1;0;0;0;5;;
+Ramipril 5mg;;No Match;119;0;;;;C09AA05;;;100;;;0;0;0;0;0;C;;;;1;;;0;5;;
+Laxoberal;;No Match;118;0;;;;D07AD01;;;63;;;0;0;0;0;0;D;;;;0;;;A06AB08;5;;
+Ibuprofen (p.o.) 600 mg Tbl.;;No Match;118;0;;;;M01AE01;;;79;;;0;0;0;0;0;M;;;;1;;;0;5;;
+Tazobac;;No Match;118;0;;;J01CR05;S02BA56;J01DC02;J07CA06;59;57.0;53.0;0;0;0;0;0;S;;;1;0;0;0;0;5;Welcher ATC Code?;J01CR05
+Dipidolor;;No Match;118;0;;;;A07FA01;D07XC01;;78;53.0;;0;0;0;0;0;A;;;;0;0;;N02AC03;5;;
+CIPRALEX Filmtabletten | (Escitalopram);;No Match;118;1;escitalopram;N06AB10;;N06AB10;;;76;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+CIPRALEX 10 mg Filmtabletten | (Escitalopram);;No Match;118;1;escitalopram;N06AB10;;N06AB10;;;96;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+LAMOTRIGIN Desitin Quadro Tabletten | (Lamotrigin);;No Match;118;1;lamotrigin;N03AX09;N03AX09;N03AX09;;;100;;;1;1;1;1;0;N;;1;1;1;;;0;5;;
+1 Epirubicin 45 mg/m² über 1h;;No Match;118;0;;;;L01DB03;J01GB01;L04AA18;80;61.0;55.0;0;0;0;0;0;L;;;;1;0;0;0;5;;
+1 ADVAGRAF Hartkapseln retardiert | (Tacrolimus);;No Match;117;1;tacrolimus;;;L04AD02;;;80;;;0;0;0;0;0;L;;;;1;;;0;5;;
+Tavor (Lorazepam);;No Match;117;0;;;;N05BA06;;;75;;;0;0;0;0;0;N;;;;1;;;0;5;;
+PIPERACILLIN Tazobactam Kabi 4g/0,5g in 50ml NaCL0,9% über 2 h;;No Match;117;0;;;;J01CR05;;;100;;;0;0;0;0;0;J;;;;1;;;0;5;;
+Sedaplus;N05CM27;Fuzzy Match;117;0;;;N05CM27;N05CM27;A03DB04;;100;57.0;;0;0;0;1;1;N;N;;1;1;0;;N05CM27;5;Welcher ATC Code?;N05CM27
+Rifaximin 550 mg;;No Match;117;0;;;;A07AA11;A16AX04;A12CD51;76;67.0;67.0;0;0;0;0;0;A;;;;1;0;0;0;5;ATC Code A07AA11 korrekt, in der Verordnung steht doch nur der Wirkstoff oder?;A07AA11
+NOVAMINSULFON ratioph.1 g/2 ml Inj.Lsg. Ampullen |;;No Match;117;1;;;;N02BB02;;;81;;;0;0;0;0;0;N;;;;1;;;0;5;;
+SMOFKABIVEN zentral Infusionslösung | (Lysin, Gesamt-Aminosäuren, Gesamt-Stickstoff);;No Match;117;1;lysin, gesamt-aminosäuren, gesamt-stickstoff;;;B05BA10;;;86;;;0;0;0;0;0;B;;;;1;;;0;5;;
+CANDESARTAN-ratiopharm 8 mg Tabletten | (Candesartan);;No Match;117;1;candesartan;;;C09CA06;;;98;;;0;0;0;0;0;C;;;;1;;;0;5;;
+0 Granisetron 3 mg;;No Match;117;0;;;;A04AA02;;;85;;;0;0;0;0;0;A;;;;1;;;0;5;;
+Emend 125 mg;;No Match;116;0;;;;A04AD12;A06AH03;N06DA03;59;59.0;56.0;0;0;0;0;0;A;;;;1;0;0;0;5;;
+Jurnista;;No Match;116;0;;;N02AA03;N02AA03;;;100;;;0;0;0;1;0;N;;;1;1;;;0;5;;
+Jurnista 4 mg;;No Match;116;0;;;;N02AA03;;;96;;;0;0;0;0;0;N;;;;1;;;0;5;;
+Lasix 20mg;;No Match;116;0;;;;D01BA02;N06BA12;B01AC04;78;73.0;73.0;0;0;0;0;0;D;;;;0;0;0;C03CA01;5;;
+HCT;;No Match;115;0;;;;C09DX01;C03AA03;;100;100.0;;0;0;0;0;0;C;;;;0;1;;0;5;ATC Code C03AA03 korrekt?;C03AA03
+VITAMIN B Komplex ratiopharm Kapseln | (Thiamin);;No Match;115;1;thiamin;;;N07XB52;A11HA02;;69;65.0;;0;0;0;0;0;N;;;;0;0;;A11DB03;5;Welcher ATC Code?;A11DB03
+E153 1000 ml;;No Match;115;0;;;;C01CA24;B02BD32;V03AF03;74;59.0;57.0;0;0;0;0;0;C;;;;0;0;0;B05BB01;5;;
+Clindamycin 600 mg;;No Match;115;0;;;;J01FF01;J01FA01;;63;62.0;;0;0;0;0;0;J;;;;1;0;;0;5;;
+"[Prednisolon Stoß Rejektion]NATRIUMCHLORID Inf.Lsg.154 über 1h";;No Match;114;0;;;;D07AA03;S01CA53;H02AB06;63;61.0;61.0;0;0;0;0;0;D;;;;0;0;1;0;5;ATC Code H02AB06 korrekt?; H02AB06
+ORFIRIL long 500 mg Retard-Minitabletten im Beutel | (Valproinsäure);;No Match;114;1;valproinsäure;N03AG01;N03AG01;N03AG01;;;88;;;1;1;1;1;0;N;;1;1;1;;;0;5;;
+Novalgin 500 mg;;No Match;114;0;;;;N02BB02;J01DC04;;88;71.0;;0;0;0;0;0;N;;;;1;0;;0;5;;
+Ibuprofen 600mg;;No Match;114;0;;;;M01AE01;;;100;;;0;0;0;0;0;M;;;;1;;;0;5;;
+CITALOPRAM-ratiopharm 10 mg Filmtabletten | (Citalopram);;No Match;114;1;citalopram;N06AB04;;N06AB04;;;85;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+MOVICOL® Junior aromafrei (p.o.) 6,9 g Lösung LM: Wasser;;No Match;114;0;;;;A06AD65;V06DB50;;100;60.0;;0;0;0;0;0;A;;;;1;0;;0;5;;
+Naropin per DIK;;No Match;114;0;;;;N01BB09;S01FA01;V06CX50;64;60.0;59.0;0;0;0;0;0;N;;;;1;0;0;0;5;;
+"Clexane; gewichtsadaptiert ( <40kg KG = 20mg; 40-90kg KG = 40mg; >90kg KG = 60mg)";;No Match;114;0;;;;A01AD11;V06DB52;B02BC02;52;50.0;50.0;0;0;0;0;0;A;;;;0;0;0;B01AB05;5;;
+Tavor Tbl.;;No Match;113;0;;;;N05BA06;;;71;;;0;0;0;0;0;N;;;;1;;;0;5;;
+"[3 - Prä Thymoglobulin, Fenistil]NATRIUMCHLORID Inf.Lsg.154";;No Match;113;0;;;;J05AF05;H05BX01;C09CA04;50;50.0;47.0;0;0;0;0;0;J;;;;0;0;0;R06AB03;5;zwei Medis?;R06AB03
+GLUCOSE Inf.-Lösung 5 PE-Flaschen | (Glucose, wasserfrei zur parenteralen Anwendung);;No Match;113;1;glucose, wasserfrei zur parenteralen anwendung;;;V07AB10;B05BB02;;67;64.0;;0;0;0;0;0;V;;;;1;0;;0;5;ATC Code V07AB10 korrekt?;V07AB10
+NIFEDIPIN ratiopharm 10 mg Weichkapseln | (Nifedipin);;No Match;113;1;nifedipin;C08CA05;;C08CA05;;;93;;;0;0;1;0;0;C;;1;;1;;;0;5;;
+Clexane 40 mg;;No Match;113;0;;;;B01AB05;;;70;;;0;0;0;0;0;B;;;;1;;;0;5;;
+Monoembolex;;No Match;113;0;;;;G04BD10;C02DC01;;52;52.0;;0;0;0;0;0;G;;;;0;0;;B01AB13;5;;
+Dekristol 20000 IE;;No Match;113;0;;;;A11CC05;;;92;;;0;0;0;0;0;A;;;;1;;;0;5;;
+[4 - Prä Thymoglobulin] PARACETAMOL ratiopharm 500 mg Tabletten | (Paracetamol);;No Match;112;1;paracetamol;N02BE01;;N02BE01;;;22;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+Lercanidipin 10 mg;;No Match;112;0;;;;C08CA05;A12CC02;N06DX18;67;59.0;58.0;0;0;0;0;0;C;;;;0;0;0;C08CA13;5;;
+TOREM 5 Tabletten | (Torasemid);;No Match;112;1;torasemid;C03CA04;;C03CA04;;;71;;;0;0;1;0;0;C;;1;;1;;;0;5;;
+2 RAMIPRIL HEXAL 5 mg Tabletten | (Ramipril);;No Match;112;1;ramipril;;;C09AA05;C09BA25;;100;100.0;;0;0;0;0;0;C;;;;1;0;;0;5;;
+Pantozol 40;;No Match;112;0;;;;A02BC02;;;67;;;0;0;0;0;0;A;;;;1;;;0;5;;
+L-THYROXIN 175 Henning Tabletten | (Levothyroxin);;No Match;112;1;levothyroxin;;;H03AA01;;;100;;;0;0;0;0;0;H;;;;1;;;0;5;;
+MIRTAZAPIN STADA Filmtabletten | (Mirtazapin);;No Match;112;1;mirtazapin;N06AX11;;N06AX11;;;86;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+PREDNISOLON 50 mg Jenapharm Tabletten | (Prednisolon);;No Match;111;1;prednisolon;;;H02AB06;;;79;;;0;0;0;0;0;H;;;;1;;;0;5;;
+VENLAFAXIN neuraxpharm retard Kapseln | (Venlafaxin);;No Match;111;1;venlafaxin;N06AX16;;N06AX16;;;90;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+SIMVAHEXAL Filmtabletten | (Simvastatin);;No Match;111;1;simvastatin;C10AA01;;C10AA01;;;83;;;0;0;1;0;0;C;;1;;1;;;0;5;;
+Prograf mg;;No Match;111;0;;;;L04AD02;;;95;;;0;0;0;0;0;L;;;;1;;;0;5;;
+UROL METHIN Filmtabletten | (Methionin);;No Match;111;1;methionin;G04BA04;;G04BA04;;;44;;;0;0;1;0;0;G;;1;;1;;;0;5;ATC Code G04BA04 oder V03AB26?;G04BA04
+Novalgin 30 gtt;;No Match;111;0;;;;N02BB02;C01AA02;;70;60.0;;0;0;0;0;0;N;;;;1;0;;0;5;;
+OLIMEL Peri 2,5%E Emulsion zur Infusion | (Gesamt-Fett, Lysin, Gesamt-Aminosäuren);;No Match;110;1;gesamt-fett, lysin, gesamt-aminosäuren;;;B05BA10;;;100;;;0;0;0;0;0;B;;;;1;;;0;5;;
+Serasept® Desinfektion 20min - behaarter Bereich;;No Match;110;0;;;;D08AC05;;;89;;;0;0;0;0;0;D;;;;1;;;0;5;;
+Studienmedikation;;No Match;110;0;;;;V06DB50;A11GA01;V07AV;55;53.0;52.0;0;0;0;0;0;V;;;;0;0;0;nomed;nomed;no_med;no med
+"PREDNISOLON 50 mg Jenapharm Tabletten | (Prednisolon)[Stoß Rejektion]";;No Match;110;1;prednisolon) [stoß rejektion;;;H02AB06;;;82;;;0;0;0;0;0;H;;;;1;;;0;5;;
+CETIRIZIN-ratiopharm bei Allergien 10 mg Filmtabl. | (Cetirizin);;No Match;110;1;cetirizin;R06AE07;;R06AE07;;;88;;;0;0;1;0;0;R;;1;;1;;;0;5;;
+ZOLEDRONSÄURE Tillomed 4 mg/5 ml Konz.z.H.e.Inf.L. | (Zoledronsäure);;No Match;110;1;zoledronsäure;M05BA08;;M05BA08;;;72;;;0;0;1;0;0;M;;1;;1;;;0;5;;
+"[5 - Thymoglobulin]NATRIUMCHLORID Inf.Lsg.154 über 8h";;No Match;110;0;;;;J04AB04;B01AC21;;53;53.0;;0;0;0;0;0;J;;;;0;0;;L04AA04;5;ATC Code L04AA04 korrekt?;L04AA04
+QUETIAPIN Filmtabletten | (Quetiapin);;No Match;110;1;quetiapin;N05AH04;;N05AH04;;;62;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+PALLADON retard Kapseln | (Hydromorphon);;No Match;110;1;hydromorphon;N02AA03;;N02AA03;;;88;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+Allopurinol;;No Match;110;0;;;;M04AA51;M04AA01;;100;100.0;;0;0;0;0;0;M;;;;0;1;;0;5;;
+BRICANYL 0,5 mg Injektionslösung | (Terbutalin);;No Match;109;1;terbutalin;R03CC03;;R03CC03;;;97;;;0;0;1;0;0;R;;1;;1;;;0;5;;
+ASS 100mg;;No Match;109;0;;;;B01AC06;L01XX05;;100;76.0;;0;0;0;0;0;B;;;;1;0;;0;5;;
+Metoprolol 47,5 mg;;No Match;109;0;;;;C07AB02;D06BX01;;71;58.0;;0;0;0;0;0;C;;;;1;0;;0;5;;
+LASIX XX mg Inj.-Lsg. Ampullen | (Furosemid);;No Match;109;1;furosemid;C03CA01;;C03CA01;;;69;;;0;0;1;0;0;C;;1;;1;;;0;5;;
+DEKRISTOL 400 I.E. Tabletten | (Colecalciferol);;No Match;109;1;colecalciferol;;;A11CC05;;;94;;;0;0;0;0;0;A;;;;1;;;0;5;;
+CLEXANE 4.000 I.E. 40 mg/ 0,4ml (Enoxaparin natrium);;No Match;109;0;;;;B01AB05;;;79;;;0;0;0;0;0;B;;;;1;;;0;5;;
+KOCHSALZLÖSUNG 0,9% Injektionslösung | (Natrium-Ion, Chlorid-Ion);;No Match;109;1;natrium-ion, chlorid-ion;;;N03AA02;C03CA04;G02AB01;79;77.0;75.0;0;0;0;0;0;N;;;;0;0;0;B05BB11;5;;
+IBUHEXAL retard 800 mg Tabl. | (Ibuprofen);;No Match;109;1;ibuprofen;;;M01AE01;;;56;;;0;0;0;0;0;M;;;;1;;;0;5;;
+Loratadin 10 mg;;No Match;109;0;;;;R06AX13;C09CA01;C10AA02;75;61.0;60.0;0;0;0;0;0;R;;;;1;0;0;0;5;;
+ARA-C;;No Match;108;0;;;L01BC01;L01BC01;;;75;;;0;0;0;1;0;L;;;1;1;;;0;5;;
+DUODOPA-Pumpe 20mg/ml | (Levodopa, Carbidopa) - Morgenbolus;;No Match;108;1;levodopa, carbidopa) - morgenbolu;;;N04BA10;N02AA01;;83;67.0;;0;0;0;0;0;N;;;;1;0;;0;5;ATC Code N04BA10 korrekt?;N04BA10
+Torem 5 mg;;No Match;108;0;;;;C03CA04;M05BA07;;71;67.0;;0;0;0;0;0;C;;;;1;0;;0;5;;
+UNACID 3 g z. Infusion Trockensubst.in 100ml NaCl über 1h| (AmpicillinSulbactam) GFR>50;;No Match;107;1;ampicillinsulbactam) gfr>5;;;J01CR01;;;75;;;0;0;0;0;0;J;;;;1;;;0;5;;
+2 AMLODIPIN HEXAL 5 mg Tabletten | (Amlodipin);;No Match;107;1;amlodipin;;;C08CA01;;;94;;;0;0;0;0;0;C;;;;1;;;0;5;;
+Dimenhydrinat (i.v.) 62 mg/10 mL Inf. 30min TL:NaCl 0,9%;;No Match;107;0;;;;A04AB02;B02BD02;;92;56.0;;0;0;0;0;0;A;;;;1;0;;0;5;;
+Morphin 2,5 mg;;No Match;107;0;;;;N02AA01;N02CC05;;78;69.0;;0;0;0;0;0;N;;;;1;0;;0;5;;
+Valsartan 160mg;;No Match;107;0;;;;C09CA03;C09DA23;;100;100.0;;0;0;0;0;0;C;;;;1;0;;0;5;;
+Melphalan;;No Match;107;0;;;L01AA03;L01AA03;S01XA12;G03AD02;100;70.0;57.0;0;0;0;1;0;L;;;1;1;0;0;0;5;;
+Vitamin B1 100 mg;;No Match;106;0;;;;A11DA01;N07XB52;A11CC05;83;79.0;67.0;0;0;0;0;0;A;;;;1;0;0;0;5;;
+PREGABALIN-ratiopharm 100 mg Hartkapseln | (Pregabalin);;No Match;106;1;pregabalin;N03AX16;;N03AX16;;;98;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+URSOFALK 250 mg Kapseln | (Ursodeoxycholsäure);;No Match;106;1;ursodeoxycholsäure;A05AA02;;A05AA02;;;97;;;0;0;1;0;0;A;;1;;1;;;0;5;;
+L-THYROXIN Tabletten | (Levothyroxin);;No Match;106;1;levothyroxin;;;H03AA01;;;67;;;0;0;0;0;0;H;;;;1;;;0;5;;
+F) Carboplatin (AUC2) als KI;;No Match;106;0;;;;N01BB01;N04AA01;;55;53.0;;0;0;0;0;0;N;;;;0;0;;L01XA02;5;ATC Code L01XA02 korrekt?;L01XA02
+NACL 0,9% Isotonische Kochsalzlösung 50ml;;No Match;106;0;;;;B05BB11;V07AB02;;86;86.0;;0;0;0;0;0;B;;;;1;0;;0;5;;
+ELEKTROLYT Inf.-Lsg. 154 PE-Flasche | (Natrium-Ion, Kalium-Ion, Calcium-Ion, Chlorid-Ion);;No Match;106;1;natrium-ion, kalium-ion, calcium-ion, chlorid-ion;;;B05BB02;B05BB01;;62;62.0;;0;0;0;0;0;B;;;;1;0;;0;5;ATC Code B05BB1 korrekt?;B05BB02
+Naropin;;No Match;105;0;;;N01BB09;N01BB09;L02BG06;R05DA14;100;67.0;67.0;0;0;0;1;0;N;;;1;1;0;0;0;5;;
+Risperdal;;No Match;105;0;;;N05AX08;N05AX08;G02CB05;;100;71.0;;0;0;0;1;0;N;;;1;1;0;;0;5;;
+Circadin 2mg;N05CH01;Fuzzy Match;105;0;;;N05CH01;N05CH01;N06AB04;C09CA07;100;72.0;72.0;0;0;0;1;1;N;N;;1;1;0;0;0;5;;
+INHIXA 4.000 I.E. 40 mg/0,4 ml  (Pat. < 90kg);;No Match;105;0;;;;B02BD09;B02BD36;;69;69.0;;0;0;0;0;0;B;;;;0;0;;B01AB05;5;;
+ELEKTROLYT Inf.-Lsg. 153 PE-Flasche 500ml;;No Match;105;0;;;;B05BB01;;;78;;;0;0;0;0;0;B;;;;1;;;0;5;;
+VOMEX A Dragees N | (Dimenhydrinat);;No Match;105;1;dimenhydrinat;A04AB02;A04AB02;A04AB02;;;100;;;1;1;1;1;0;A;;1;1;1;;;0;5;;
+HEPARIN NATRIUM 5.000 ratiopharm Fertigspritzen | (Heparin natrium (Schwein));;No Match;105;1;heparin natrium (schwein);;;B01AB01;;;83;;;0;0;0;0;0;B;;;;1;;;0;5;;
+LYRICA 300 mg Hartkapseln | (Pregabalin);;No Match;104;1;pregabalin;N03AX16;;N03AX16;;;88;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+SEROQUEL Filmtabletten | (Quetiapin);;No Match;104;1;quetiapin;N05AH04;;N05AH04;;;56;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+MIRTAZAPIN HEXAL 45 mg Filmtabletten | (Mirtazapin);;No Match;104;1;mirtazapin;N06AX11;N06AX11;N06AX11;;;95;;;1;1;1;1;0;N;;1;1;1;;;0;5;;
+CALCIUMFOLINAT Kabi 10 mg/ml 50mg Inj.-/Inf.-Lsg. | (Folinsäure);;No Match;104;1;folinsäure;V03AF03;V03AF03;V03AF03;;;93;;;1;1;1;1;0;V;;1;1;1;;;0;5;;
+Monoembolex 3000;;No Match;104;0;;;;B02BD04;J01XX01;;62;60.0;;0;0;0;0;0;B;;;;0;0;;B01AB13;5;;
+FUROSEMID-ratiopharm Inj.-Lsg. Ampullen | (Furosemid);;No Match;103;1;furosemid;C03CA01;;C03CA01;;;89;;;0;0;1;0;0;C;;1;;1;;;0;5;;
+Vitamin D3 (p.o.) 20.000 IE/mL Lösung;;No Match;103;0;;;;A11CC05;N07XB52;A11DA01;83;67.0;67.0;0;0;0;0;0;A;;;;1;0;0;0;5;;
+Granisetron;;No Match;103;0;;;A04AA02;A04AA02;;;100;;;0;0;0;1;0;A;;;1;1;;;0;5;;
+Rocephin 2 g;;No Match;103;0;;;;L01DC03;G01AA10;R05CB02;70;62.0;59.0;0;0;0;0;0;L;;;;0;0;0;J01DD04;5;;
+HALDOL Janssen Tabletten | (Haloperidol);;No Match;102;1;haloperidol;N05AD01;;N05AD01;;;88;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+Pantozol 20mg;;No Match;102;0;;;;A02BC02;N06AF04;;74;69.0;;0;0;0;0;0;A;;;;1;0;;0;5;;
+RAMIPRIL HEXAL comp. 5 mg/25 mg Tabletten | (Ramipril);;No Match;102;1;ramipril;;C09BA25;C09BA25;;;100;;;0;0;0;1;0;C;;;1;1;;;0;5;;
+DOXAZOSIN ratiopharm 4 mg Retardtabletten | (Doxazosin);;No Match;102;1;doxazosin;C02CA04;;C02CA04;;;96;;;0;0;1;0;0;C;;1;;1;;;0;5;;
+SEROQUEL Prolong 200 mg Retardtabletten | (Quetiapin);;No Match;102;1;quetiapin;N05AH04;;N05AH04;;;89;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+Obsidan 25 mg;;No Match;102;0;;;;C07AA05;;;96;;;0;0;0;0;0;C;;;;1;;;0;5;;
+Aciclovir AS;;No Match;102;0;;;;J05AB01;;;86;;;0;0;0;0;0;J;;;;0;;;S01AD03;5;könnte auch Augensalbe sein, wegen AS, dann wäre der Code D06BB03;S01AD03
+NOVAMINSULFON ratioph.1 g/2 ml Inj.Lsg. Ampullen, >53kg und >15Jahre| (Metamizol);;No Match;101;1;metamizol;N02BB02;;N02BB02;;;81;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+1 URBASON 4 mg Tabletten | (Methylprednisolon);;No Match;101;1;methylprednisolon;;;H02AB04;;;82;;;0;0;0;0;0;H;;;;1;;;0;5;;
+Antra 40mg;;No Match;101;0;;;;L01EX13;A02BC01;L01EG02;73;72.0;70.0;0;0;0;0;0;L;;;;0;1;0;0;5;;
+PARACETAMOL B.Braun 10mg/ml 500mg Infusionslsg. |(>10 bis 50kg 15mg/kg KG pro Anwendung);;No Match;101;1;>10 bis 50kg 15mg/kg kg pro anwendung;;;N02BE01;;;100;;;0;0;0;0;0;N;;;;1;;;0;5;;
+ULTIBRO Breezhaler 85 µg/43 µg Hartk.m.Plv.z.Inh. | (Indacaterol, Glycopyrronium-Kation);;No Match;101;1;indacaterol, glycopyrronium-kation;;R03AL04;R03AL04;R03BA02;R03AC18;100;65.0;65.0;0;0;0;1;0;R;;;1;1;0;0;0;5;;
+DEXAMETHASON JENAPHARM Tabletten | (Dexamethason);;No Match;101;1;dexamethason;;;H02AB02;;;92;;;0;0;0;0;0;H;;;;1;;;0;5;;
+E153 500 ml;;No Match;100;0;;;;N07XX04;A06AX01;L01XC40;64;60.0;56.0;0;0;0;0;0;N;;;;0;0;0;B05BB01;5;;
+URBASON solubile forte 1000 mg Tr.-Subst. | (Methylprednisolon);;No Match;100;1;methylprednisolon;;;H02AB04;;;78;;;0;0;0;0;0;H;;;;1;;;0;5;;
+MTX;;No Match;100;0;;;;L01BA01;M01CX01;;100;100.0;;0;0;0;0;0;L;;;;1;0;;0;5;ATC Code eindeutig? M01CX01 oder L01BA01;L01BA01
+"[4 - Cyclophosphamid Euro-Lupus Schema]NATRIUMCHLORID Inf.Lsg.154 über 2h";;No Match;100;0;;;;L01AA01;D01AE14;J05AB01;94;55.0;51.0;0;0;0;0;0;L;;;;1;0;0;0;5;;
+MonoEmbolex 3000;;No Match;100;0;;;;B02BD04;J01XX01;;62;60.0;;0;0;0;0;0;B;;;;0;0;;B01AB13;5;;
+KIOVIG 100 mg/ml Infusionslösung | (Immunglobulin G vom Menschen);;No Match;100;1;immunglobulin g vom menschen;;;J06BA02;;;72;;;0;0;0;0;0;J;;;;1;;;0;5;;
+TINCTURA OPII normata PhEur Opiumtinktur | (Morphin, Codein, Thebain);;No Match;99;1;morphin, codein, thebain;;;D08AE56;N05CP01;J07BD54;51;48.0;47.0;0;0;0;0;0;D;;;;0;0;0;A07DA02;5;Neuer Handelsname? Opiumtinktur? ATC Code A07DA02 korrekt?;A07DA02
+SOLIAN Tabletten | (Amisulprid);;No Match;99;1;amisulprid;N05AL05;;N05AL05;;;67;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+HEPA MERZ GRANULAT 3000 | (Ornithin);;No Match;99;1;ornithin;A05BA17;;A05BA17;;;100;;;0;0;1;0;0;A;;1;;1;;;0;5;;
+Torasemid 10mg;;No Match;98;0;;;;C03CA04;;;100;;;0;0;0;0;0;C;;;;1;;;0;5;;
+GABAPENTIN HEXAL 100 mg Hartkapseln | (Gabapentin);;No Match;98;1;gabapentin;N03AX12;N03AX12;N03AX12;;;95;;;1;1;1;1;0;N;;1;1;1;;;0;5;;
+Calcitriol 0,25 µg;;No Match;98;0;;;;A11CC04;N05CD05;;94;65.0;;0;0;0;0;0;A;;;;1;0;;0;5;;
+MORPHIN;;No Match;98;0;;;;N02AA01;;;100;;;0;0;0;0;0;N;;;;1;;;0;5;;
+MILAX 1,0 Suppositorien | (Glycerol 85%);;No Match;98;1;glycerol 85%;A06AX01;;A06AX01;;;100;;;0;0;1;0;0;A;;1;;1;;;0;5;;
+TAVOR 0,5 mg Tabletten | (Lorazepam);;No Match;98;1;lorazepam;N05BA06;;N05BA06;;;96;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+Heparininfusionszusatz;;No Match;98;0;;;;L01CE01;L01XC03;L01XC26;57;54.0;53.0;0;0;0;0;0;L;;;;0;0;0;unspec;unspec;ATC Code B01AB01 korrekt?;nicht eindeutig
+0 Dexamethason 8 mg (1 xtgl vor CTx);;No Match;97;0;;;;H02AB02;;;93;;;0;0;0;0;0;H;;;;1;;;0;5;;
+CYMBALTA magensaftresistente Kapseln | (Duloxetin);;No Match;97;1;duloxetin;;;N06AX21;G04BX18;;76;33.0;;0;0;0;0;0;N;;;;1;0;;0;5;;
+LOSARTAN HEXAL 50mg Filmtabletten | (Losartan);;No Match;97;1;losartan;;C09CA01;C09DA21;C09CA01;;100;100.0;;0;0;0;0;0;C;;;1;0;1;;0;5;;
+[4 - Rtx low dose] PARACETAMOL ratiopharm 500 mg Tabletten | (Paracetamol);;No Match;97;1;paracetamol;N02BE01;;N02BE01;;;21;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+"PREDNISOLON 20 mg Jenapharm Tabletten | (Prednisolon)[Stoß Vaskulitis]";;No Match;97;1;prednisolon) [stoß vaskulitis;;;H02AB06;S01CA53;;82;79.0;;0;0;0;0;0;H;;;;1;0;;0;5;;
+Rifaximin 550mg;;No Match;97;0;;;;A07AA11;A16AX04;G04BA04;79;69.0;67.0;0;0;0;0;0;A;;;;1;0;0;0;5;ist A07AA11 korrekt, in der Verordnung steht doch nur der Wirkstoff oder?;A07AA11
+PRAMIPEXOL HEXAL 0,7 mg Tabletten | (Pramipexol);;No Match;96;1;pramipexol;N04BC05;;N04BC05;;;89;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+Clopidogrel 75mg;;No Match;96;0;;;;B01AC04;S01EA03;C09CA04;77;65.0;64.0;0;0;0;0;0;B;;;;1;0;0;0;5;;
+Dekristol;;No Match;96;0;;;A11CC05;A11CC05;;;100;;;0;0;0;1;0;A;;;1;1;;;0;5;;
+QUETIAPIN HEXAL mg Filmtabletten | (Quetiapin);;No Match;96;1;quetiapin;N05AH04;;N05AH04;;;95;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+LEPONEX 50 Tabletten | (Clozapin);;No Match;96;1;clozapin;N05AH02;;N05AH02;;;74;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+ZYPREXA VELOTAB  Schmelztabletten | (Olanzapin);;No Match;96;1;olanzapin;N05AH03;;N05AH03;;;88;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+TIAPRIDEX Tabletten | (Tiaprid);;No Match;96;1;tiaprid;N05AL03;;N05AL03;;;53;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+Mannitol 15%;;No Match;95;0;;;;B05BC01;;;100;;;0;0;0;0;0;B;;;;1;;;0;5;;
+PREDNISOLUT 100 mg L Trockensubst.m.Lösungsm. | (Prednisolon 21-hydrogensuccinat);;No Match;95;1;prednisolon 21-hydrogensuccinat;H02AB06;;H02AB06;;;94;;;0;0;1;0;0;H;;1;;1;;;0;5;;
+PREDNISOLON 60 mg Jenapharm Tabletten | (Prednisolon);;No Match;95;1;prednisolon;;;H02AB06;;;79;;;0;0;0;0;0;H;;;;1;;;0;5;;
+"Ern. ent: Sonde normokalorisch 1kcal/ml, ballaststoffhaltig; 500kcal";;No Match;95;0;;;;J07BC01;G04BD04;;55;54.0;;0;0;0;0;0;J;;;;0;0;;nomed;nomed;;Ernährung, no med
+MORPHIN hameln 10 mg Inj.Lösung Ampullen | (Morphin);;No Match;95;1;morphin;;;N02AA01;;;90;;;0;0;0;0;0;N;;;;1;;;0;5;;
+"[Trägerlösung Inhalation SULTANOL + ATROVENT]NACL 0,9% | (Natrium-Ion, Chlorid-Ion)";R03AC02;Fuzzy Match;95;1;natrium-ion, chlorid-ion;;;R03AC02;;;100;;;0;0;0;0;1;R;R;;;1;;;0;5;;
+Magnesium;;No Match;95;0;;;;A12CC05;A12CC11;A12CC14;100;100.0;100.0;0;0;0;0;0;A;;;;0;0;0;unspec;unspec;???;nicht eindeutig
+Jurnista 4mg;N02AA03;Fuzzy Match;95;0;;;N02AA03;N02AA03;;;100;;;0;0;0;1;1;N;N;;1;1;;;0;5;;
+RANITIC 300 Filmtabletten | (Ranitidin);;No Match;95;1;ranitidin;;;N03AG01;;;77;;;0;0;0;0;0;N;;;;0;;;A02BA02;5;;
+Tavor 0,5 mg;;No Match;95;0;;;;N05BA06;G04CB02;;96;80.0;;0;0;0;0;0;N;;;;1;0;;0;5;;
+Prednisolon 100 mg;;No Match;94;0;;;;H02AB06;;;83;;;0;0;0;0;0;H;;;;1;;;0;5;;
+ZYPREXA mg überzogene Tabletten | (Olanzapin);;No Match;94;1;olanzapin;N05AH03;;N05AH03;;;78;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+Vincristin;L01CA02;Fuzzy Match;94;0;;;L01CA02;G02AD02;G03AA07;S01XC07;61;60.0;59.0;0;0;0;0;2;G;L;;1;0;0;0;0;5;ATC Code L01CA02 korrekt?;L01CA02
+BISOPROLOL ratiopharm 10 mg Tabletten | (Bisoprolol);;No Match;94;1;bisoprolol;;;C07AB07;;;96;;;0;0;0;0;0;C;;;;1;;;0;5;;
+"[1 - Prä Thymoglobulin, Prednisolon]NATRIUMCHLORID Inf.Lsg.154";;No Match;94;0;;;;N02AA01;A02BC04;L04AD02;53;53.0;53.0;0;0;0;0;0;N;;;;0;0;0;H02AB06;5;mehrere Medikamente?;H02AB06
+E153 1000ml;;No Match;94;0;;;;V06DB50;;;71;;;0;0;0;0;0;V;;;;0;;;B05BB01;5;;
+Pantoprazol 40mg;;No Match;93;0;;;;A02BC02;;;100;;;0;0;0;0;0;A;;;;1;;;0;5;;
+Fluconazol;;No Match;93;0;;;J02AC01;J02AC01;;;100;;;0;0;0;1;0;J;;;1;1;;;0;5;;
+Humalog;;No Match;93;0;;;;A10AB04;;;100;;;0;0;0;0;0;A;;;;1;;;0;5;;
+Tryasol;;No Match;93;0;;;;N02AX02;C02DB01;R03AC02;62;53.0;53.0;0;0;0;0;0;N;;;;1;1;1;R05DA04;5;ATC code R05DA04 korrekt?;R05DA04
+FERINJECT 500 mg;;No Match;93;0;;;;B03AC01;B06AC01;;72;69.0;;0;0;0;0;0;B;;;;1;0;;0;5;;
+"PANTOPRAZOL HEXAL 40 mg magensaftres.Tabletten | (Pantoprazol)[Stoß Vaskulitis]";;No Match;93;1;pantoprazol) [stoß vaskulitis;;A02BC02;A02BC02;;;95;;;0;0;0;1;0;A;;;1;1;;;0;5;;
+Risperidon;;No Match;93;0;;;N05AX08;N05AX08;;;100;;;0;0;0;1;0;N;;;1;1;;;0;5;;
+5-ALA;;No Match;93;0;;;;M05BA08;G02AD05;N07AX01;62;62.0;62.0;0;0;0;0;0;M;;;;0;0;0;L01XD04;5;Was ist das? Gibt es einen ATC Code?;L01XD04
+Folsäure;;No Match;92;0;;;B03BB01;B03BB01;;;100;;;0;0;0;1;0;B;;;1;1;;;0;5;;
+PREDNISOLON  Jenapharm Tabletten | (Prednisolon);;No Match;92;1;prednisolon;;;H02AB06;;;91;;;0;0;0;0;0;H;;;;1;;;0;5;;
+SOLIAN  Tabletten | (Amisulprid);;No Match;92;1;amisulprid;N05AL05;;N05AL05;;;67;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+Esomeprazol 20 mg;;No Match;92;0;;;;A02BC05;A02BC01;D08AX05;79;62.0;61.0;0;0;0;0;0;A;;;;1;0;0;0;5;;
+TOREM 5 mg Tabletten | (Torasemid);;No Match;92;1;torasemid;C03CA04;;C03CA04;;;71;;;0;0;1;0;0;C;;1;;1;;;0;5;;
+CLEXANE 6.000 I.E. 60mg/0,6ml ILO F.Sp.+Sich-Sys. | (Enoxaparin natrium);;No Match;92;1;enoxaparin natrium;B01AB05;;B01AB05;;;79;;;0;0;1;0;0;B;;1;;1;;;0;5;;
+NITROLINGUAL akut Spray (23,2 Vol.%-Alkohlg.) | (Glyceroltrinitrat);;No Match;92;1;glyceroltrinitrat;C01DA02;C01DA02;C01DA02;;;100;;;1;1;1;1;0;C;;1;1;1;;;0;5;;
+PREDNISOLON ... mg Jenapharm Tabletten | (Prednisolon);;No Match;92;1;prednisolon;;;H02AB06;;;88;;;0;0;0;0;0;H;;;;1;;;0;5;;
+Torem 10;;No Match;92;0;;;;C03CA04;L04AC16;;82;67.0;;0;0;0;0;0;C;;;;1;0;;0;5;;
+Inf. E153 + Glucose 5% (i.v.) 500 mL (2. Schenkel o. Zugang);;No Match;92;0;;;;N04BC05;G04BX21;L04AA44;57;53.0;53.0;0;0;0;0;0;N;;;;0;0;0;B05BB01;5;;
+RISPERIDON HEXAL  Filmtabletten | (Risperidon);;No Match;92;1;risperidon;N05AX08;;N05AX08;;;89;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+ELEKTROLYT Inf.-Lsg. 153 m. Glucose 5 | (Glucose, wasserfrei zur parenteralen Anwendung);;No Match;92;1;glucose, wasserfrei zur parenteralen anwendung;;;B05BB02;;;78;;;0;0;0;0;0;B;;;;0;;;B05BB01;5;;
+"ELEKTROLYT Inf.-Lsg. 153 | (Na, Ka, Ca, Mg)je nach Pat.-Erfordernis, Zieleinfuhr: 2000ml";;No Match;92;1;na, ka, ca, mg) je nach pat.-erfordernis, zieleinfuhr: 2000m;;;B05BB01;;;78;;;0;0;0;0;0;B;;;;1;;;0;5;;
+Seroquel;;No Match;91;0;;;N05AH04;N05AH04;G02CB05;V04CK01;100;62.0;62.0;0;0;0;1;0;N;;;1;1;0;0;0;5;;
+Entresto 24/26;;No Match;91;0;;;;C09DX04;;;88;;;0;0;0;0;0;C;;;;1;;;0;5;;
+SEROQUEL Prolong Retardtabletten | (Quetiapin);;No Match;91;1;quetiapin;N05AH04;;N05AH04;;;86;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+URAPIDIL Stragen i.v. 50 mg Ampullen | (Urapidil);;No Match;91;1;urapidil;C02CA06;C02CA06;C02CA06;;;100;;;1;1;1;1;0;C;;1;1;1;;;0;5;;
+"[Prednisolon Stoß Vaskulitis]NATRIUMCHLORID Inf.Lsg.154 über 1h";;No Match;91;0;;;;H02AB06;S01CA53;;61;59.0;;0;0;0;0;0;H;;;;1;0;;0;5;check, da sind doch zwei Verordnungen oder?;H02AB06
+HALOPERIDOL ratiopharm 2 mg/ml Lösung zum Einn. | (Haloperidol);;No Match;91;1;haloperidol;N05AD01;;N05AD01;;;96;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+"[2 - Prä Thymoglobulin, Ranitidin]NATRIUMCHLORID Inf.Lsg.154";;No Match;91;0;;;;M01AX24;A02BC04;A07DA03;55;53.0;50.0;0;0;0;0;0;M;;;;0;0;0;A02BA02;5;Ist hier das Ranitidin mit A02BA02 der korrekte Code?; A02BA02
+"[4 - Wässerung nach CYP, Furosemid]NATRIUMCHLORID Inf.Lsg.154";;No Match;91;0;;;;A01AB02;B02BC51;;51;48.0;;0;0;0;0;0;A;;;;0;0;;B05BB11;5;;
+INNOHEP 20.000 Anti XA I.E./ml 0,6 ml Fertigspr. | (Tinzaparin natrium);;No Match;91;1;tinzaparin natrium;B01AB10;;B01AB10;;;77;;;0;0;1;0;0;B;;1;;1;;;0;5;;
+Omeprazol 40 mg;;No Match;90;0;;;;A02BC01;A02BC05;L03AX13;75;74.0;65.0;0;0;0;0;0;A;;;;1;0;0;0;5;;
+LEVETIRACETAM HEXAL 1000 mg Filmtabletten | (Levetiracetam);;No Match;90;1;levetiracetam;N03AX14;N03AX14;N03AX14;;;96;;;1;1;1;1;0;N;;1;1;1;;;0;5;;
+Lyrica;;No Match;90;0;;;N03AX16;N03AX16;V06DB50;;100;62.0;;0;0;0;1;0;N;;;1;1;0;;0;5;;
+IRENAT Tropfen | (Natriumperchlorat);;No Match;90;1;natriumperchlorat;H03BC02;;H03BC02;;;60;;;0;0;1;0;0;H;;1;;1;;;0;5;;
+Esomeprazol 20mg;;No Match;90;0;;;;A02BC05;N02AA01;A02BC02;81;69.0;68.0;0;0;0;0;0;A;;;;1;0;0;0;5;;
+Tamsulosin 0,4 mg;;No Match;89;0;;;;G04CA02;H02AA02;;83;62.0;;0;0;0;0;0;G;;;;1;0;;0;5;;
+CLINDA-SAAR 600 mg Injektionslsg. Durchstechfl. in 50 ml NaCl über 1 h| (Clindamycin);;No Match;89;1;clindamycin;;;J01FF01;;;97;;;0;0;0;0;0;J;;;;1;;;0;5;;
+Torem 5mg;;No Match;89;0;;;;C03CA04;;;72;;;0;0;0;0;0;C;;;;1;;;0;5;;
+CLINDA-SAAR 600 mg Injektionslsg. Durchstechfl. | (Clindamycin);;No Match;89;1;clindamycin;;;J01FF01;;;97;;;0;0;0;0;0;J;;;;1;;;0;5;;
+RISPERIDON HEXAL mg Filmtabletten | (Risperidon);;No Match;88;1;risperidon;N05AX08;;N05AX08;;;97;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+TEMGESIC sublingual 0,2 mg Sublingualtabletten | (Buprenorphin);;No Match;88;1;buprenorphin;;N02AE01;N02AE01;;;96;;;0;0;0;1;0;N;;;1;1;;;0;5;;
+Prednisolon 5 mg;;No Match;88;0;;;;S01CA53;H02AB06;;81;81.0;;0;0;0;0;0;S;;;;0;1;;0;5;;
+Etoposid;;No Match;88;0;;;L01CB01;L01CB01;V04CA06;N05CM22;100;62.0;57.0;0;0;0;1;0;L;;;1;1;0;0;0;5;;
+FERINJECT 50 mg Eisen/ml Injektions-/Infusionslsg. | (Eisen(III)-Ion);;No Match;88;1;eisen(iii)-ion;;;B03AC01;B03AC07;;75;52.0;;0;0;0;0;0;B;;;;1;0;;0;5;;
+Bisoprolol 2,5 mg;;No Match;88;0;;;;C07AB07;;;83;;;0;0;0;0;0;C;;;;1;;;0;5;;
+HUMALOG 100 E./ml Injektionslösung | (Insulin lispro);;No Match;88;1;insulin lispro;;;A10AB04;;;93;;;0;0;0;0;0;A;;;;1;;;0;5;;
+TORASEMID 10 mg Tabletten | (Torasemid);;No Match;88;1;torasemid;C03CA04;;C03CA04;;;88;;;0;0;1;0;0;C;;1;;1;;;0;5;;
+LISINOPRIL ratiopharm 10 mg Tabletten | (Lisinopril);;No Match;88;1;lisinopril;C09AA03;;C09AA03;;;96;;;0;0;1;0;0;C;;1;;1;;;0;5;;
+Allopurinol 100 mg;;No Match;88;0;;;;M04AA51;M04AA01;;76;76.0;;0;0;0;0;0;M;;;;0;1;;0;5;;
+VITAMIN B1 ratiopharm 50mg/ml Inj.Lsg. Ampullen | (Thiaminium-Kation);;No Match;88;1;thiaminium-kation;;;A11DA01;N07XB52;;100;55.0;;0;0;0;0;0;A;;;;1;0;;0;5;;
+VALDOXAN Filmtabletten | (Agomelatin);N06AX22;Fuzzy Match;88;1;agomelatin;N06AX22;;N06AX22;;;76;;;0;0;1;0;1;N;N;1;;1;;;0;5;;
+0 Granisetron 3 mg (1xtgl vor CTx);;No Match;87;0;;;;A04AA02;;;85;;;0;0;0;0;0;A;;;;1;;;0;5;;
+DIAZEPAM ratiopharm 10 mg/ml Tropfen zum Einnehmen | (Diazepam);;No Match;87;1;diazepam;N05BA01;;N05BA01;;;93;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+INHIXA 5.000 I.E. 50 mg/0,5 ml ILO F.Sp.+Sich-Sys. | (Enoxaparin natrium);;No Match;87;1;enoxaparin natrium;B01AB05;;B01AB05;;;36;;;0;0;1;0;0;B;;1;;1;;;0;5;;
+AMITRIPTYLIN neuraxpharm 25 mg Filmtabletten | (Amitriptylin);;No Match;87;1;amitriptylin;N06AA09;;N06AA09;;;94;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+LEVOFLOXACIN HEXAL 750 mg Filmtabletten | (Levofloxacin);;No Match;87;1;levofloxacin;J01MA12;;J01MA12;;;91;;;0;0;1;0;0;J;;1;;1;;;0;5;;
+METFORMIN HEXAL 850 mg Filmtabletten | (Metformin);;No Match;87;1;metformin;A10BA02;A10BA02;A10BA02;;;95;;;1;1;1;1;0;A;;1;1;1;;;0;5;;
+E) 5-FU (3000 mg/m² KOF/Woche);;No Match;87;0;;;;B03XA01;B02BD15;;71;71.0;;0;0;0;0;0;B;;;;0;0;;L01BC02;5;Was ist das?;L01BC02
+TREVILOR retard 75 mg Hartkapseln retardiert | (Venlafaxin);;No Match;87;1;venlafaxin;N06AX16;;N06AX16;;;52;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+Vancomycin;;No Match;87;0;;;;A07AA09;;;100;;;0;0;0;0;0;A;;;;0;;;unspec;unspec;Pulver oder Tabletten, haben unterschiedliche ATC Codes, bei Pulver wäre es J01XA01;nicht eindeutig, kann Pulver oder Kps sein, unt ATC codes
+FOSFOMYCIN Aristo 3000 mg Pul.z.Herst.e.Lsg.z.Ein. | (Fosfomycin);;No Match;87;1;fosfomycin;J01XX01;;J01XX01;;;71;;;0;0;1;0;0;J;;1;;1;;;0;5;;
+"[1 - Rtx low dose, Prednisolon]NATRIUMCHLORID Inf.Lsg.154";;No Match;86;0;;;;A11CC02;M01CX01;D08AC05;55;53.0;53.0;0;0;0;0;0;A;;;;0;0;0; H02AB06;5;ATC Code H02AB06 korrekt?; H02AB06
+TRAZODON-neuraxpharm Tabletten | (Trazodon);;No Match;86;1;trazodon;N06AX05;;N06AX05;;;87;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+PANTOPRAZOL HEXAL 40 mg;;No Match;86;0;;;A02BC02;A02BC02;;;95;;;0;0;0;1;0;A;;;1;1;;;0;5;;
+ASS RATIOPHARM TAH Tabletten | (Acetylsalicylsäure);;No Match;86;1;acetylsalicylsäure;;;B01AC06;N02BA01;;100;88.0;;0;0;0;0;0;B;;;;1;0;;0;5;;
+MCP 10 mg;;No Match;86;0;;;;A12CC02;A03FA01;;71;70.0;;0;0;0;0;0;A;;;;0;1;;0;5;;
+Candesartan;;No Match;86;0;;;;C09CA06;;;100;;;0;0;0;0;0;C;;;;1;;;0;5;;
+Esomeprazol 40mg;;No Match;86;0;;;;A02BC05;A02BC02;;100;68.0;;0;0;0;0;0;A;;;;1;0;;0;5;;
+"[3 - Cyclophosphamid n. AUSTIN, Trägerlösung]GLUCOSE Inf.-Lösung 5 über 1h";;No Match;86;0;;;;L01AA01;D01AE14;V03AE17;94;55.0;53.0;0;0;0;0;0;L;;;;1;0;0;0;5;;
+Unacid 3 g;;No Match;85;0;;;;J01CR01;;;75;;;0;0;0;0;0;J;;;;1;;;0;5;;
+Xipamid 20 mg;;No Match;85;0;;;;N06AB04;L01XX35;C03BA10;77;72.0;70.0;0;0;0;0;0;N;;;;0;0;1;0;5;;
+UNIZINK 50 magensaftresistente Tabletten | (Zink-Ion);;No Match;85;1;zink-ion;;;A12CB05;A16AX05;;100;44.0;;0;0;0;0;0;A;;;;1;0;;0;5;;
+KEIMAX 400 mg Kapseln | (Ceftibuten);;No Match;85;1;ceftibuten;;;J01CA08;L01CH01;A12CC02;59;57.0;56.0;0;0;0;0;0;J;;;;0;0;0;J01DD14;5;;
+CYMBALTA 30 mg magensaftresistente Kapseln | (Duloxetin);;No Match;85;1;duloxetin;;;N06AX21;G04BX18;;96;30.0;;0;0;0;0;0;N;;;;1;0;;0;5;;
+LEVETIRACETAM HEXAL 250 mg Filmtabletten | (Levetiracetam);;No Match;85;1;levetiracetam;N03AX14;N03AX14;N03AX14;;;96;;;1;1;1;1;0;N;;1;1;1;;;0;5;;
+Melperon 25mg;;No Match;85;0;;;;N05AD03;;;100;;;0;0;0;0;0;N;;;;1;;;0;5;;
+FALITHROM 3 mg Filmtabletten | (Phenprocoumon);;No Match;85;1;phenprocoumon;B01AA04;;B01AA04;;;96;;;0;0;1;0;0;B;;1;;1;;;0;5;;
+"[3 - Rtx low dose, Fenistil]NATRIUMCHLORID Inf.Lsg.154";;No Match;85;0;;;;N06AG02;M01AH05;C01EB18;50;47.0;47.0;0;0;0;0;0;N;;;;0;0;0;R06AB03;5;Ist das hier Fenistil mit cem ATC Code R06AB03? ;R06AB03
+"[3 - Cyclophosphamid n. IMPROVE, Trägerlösung]GLUCOSE Inf.-Lösung 5 über 1h";;No Match;85;0;;;;L01AA01;D01AE14;V03AE17;94;55.0;53.0;0;0;0;0;0;L;;;;1;0;0;0;5;;
+Nalbufin-hydrochlorid (i.v.) 10 mg/mL Inf. 15-20 min LM=TL:NaCl 0,9%;N02AF02;Fuzzy Match;85;0;;;;B05XB01;S01BA02;H02AB09;71;57.0;54.0;0;0;0;0;2;B;N;;;0;0;0;N02AF02;5;;
+"Ern. ent: Sonde hochkalorisch 1,5kcal/ml, ballaststoffhaltig; 750kcal";;No Match;85;0;;;;J07BC01;G04BD04;;55;54.0;;0;0;0;0;0;J;;;;0;0;;nomed;nomed;;Ernährung, no med, Fresubin energy fibre Easybag 500ml 500.00 ml, 
+BGA unter aktuellem Flow;;No Match;84;0;;;;S01XC07;D03AP01;;50;49.0;;0;0;0;0;0;S;;;;0;0;;nomed;nomed;;
+LASIX 250 mg Infusionslösung in einer Ampulle | (Furosemid);;No Match;84;1;furosemid;C03CA01;;C03CA01;;;67;;;0;0;1;0;0;C;;1;;1;;;0;5;;
+RISPERDAL Quicklet 1 mg Schmelztabletten | (Risperidon);;No Match;84;1;risperidon;N05AX08;;N05AX08;;;82;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+TIMONIL retard Tabl. | (Carbamazepin);;No Match;84;1;carbamazepin;N03AF01;;N03AF01;;;88;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+CETIRIZIN HEXAL Filmtabl. b. Allergien | (Cetirizin);;No Match;84;1;cetirizin;R06AE07;;R06AE07;;;77;;;0;0;1;0;0;R;;1;;1;;;0;5;;
+Memantin 20 mg;;No Match;84;0;;;;L01XA03;D07AC18;;63;60.0;;0;0;0;0;0;L;;;;0;0;;N06DX01;5;;
+Spironolacton 25 mg;;No Match;83;0;;;;C03DA01;R03CC13;;84;63.0;;0;0;0;0;0;C;;;;1;0;;0;5;;
+NITREPRESS 20 Tabletten | (Nitrendipin);;No Match;83;1;nitrendipin;C08CA08;;C08CA08;;;44;;;0;0;1;0;0;C;;1;;1;;;0;5;;
+MIRTAZAPIN STADA 45 mg Filmtabletten | (Mirtazapin);;No Match;83;1;mirtazapin;N06AX11;;N06AX11;;;91;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+Folverlan 5 mg;;No Match;83;0;;;;B03BB01;N02AB02;;96;53.0;;0;0;0;0;0;B;;;;1;0;;0;5;;
+MORPHIN hameln Inj.Lösung Ampullen | (Morphin);;No Match;83;1;morphin;;;N02AA01;;;78;;;0;0;0;0;0;N;;;;1;;;0;5;;
+Jatrosom;;No Match;83;0;;;N06AF04;N06AF04;;;100;;;0;0;0;1;0;N;;;1;1;;;0;5;;
+"PARACETAMOL 10 mg/ml 1000 mg | (Paracetamol)d1-d3; Prämed. Alemtuzumab, Kurzinfusion";;No Match;83;1;"paracetamol) d1-d3; prämed. alemtuzumab, kurzinfusio";;;N02BE01;;;82;;;0;0;0;0;0;N;;;;1;;;0;5;;
+Heparin 7500 IE;;No Match;83;0;;;;B01AB01;B01AD12;B06AC01;89;71.0;65.0;0;0;0;0;0;B;;;;1;0;0;0;5;ATC Code B01AB01 korrekt?;B01AB01
+Clozapin;;No Match;83;0;;;N05AH02;N05AH02;;;100;;;0;0;0;1;0;N;;;1;1;;;0;5;;
+TORASEMID STADA Tabletten | (Torasemid);;No Match;83;1;torasemid;C03CA04;;C03CA04;;;88;;;0;0;1;0;0;C;;1;;1;;;0;5;;
+Ern. i.v: zentral SMOFKABIVEN 1600 kcal - 24h;;No Match;83;0;;;;B05BA10;;;64;;;0;0;0;0;0;B;;;;1;;;0;5;;
+Furosemid in mg i.v.;;No Match;82;0;;;;C03CA01;;;75;;;0;0;0;0;0;C;;;;1;;;0;5;;
+Candesartan 16 mg;;No Match;82;0;;;;C09CA06;;;79;;;0;0;0;0;0;C;;;;1;;;0;5;;
+"ALEMTUZUMAB 12mg in 112ml NaCl | (Alemtuzumab)d1-d3; Fertiglsg. durch APO; Dauer mind. 4h";L04AA34;Fuzzy Match;82;1;"alemtuzumab) d1-d3; fertiglsg. durch apo; dauer mind. 4";;;L04AA34;L01AA03;N02CC05;62;60.0;59.0;0;0;0;0;1;L;L;;;1;0;0;0;5;ATC Code L04AA34 korrekt?;L04AA34
+"ANE: PCA- Piritramid; Basalrate, Sperrzeit, Bolus Siehe USC Visitenprotokoll";;No Match;81;0;;;;N02AC03;C03CA04;;71;53.0;;0;0;0;0;0;N;;;;1;0;;0;5;Geht es hier nur um das Piritramid? Oder was sind das noch für Einträge? Dann ATC code N02AC03 korrekt?;N02AC03
+Vitamin B1 300 mg;;No Match;81;0;;;;A11DA01;N07XB52;A11CC05;83;73.0;67.0;0;0;0;0;0;A;;;;1;0;0;0;5;;
+HYDROCORTISON 10 mg Jenapharm Tabletten | (Hydrocortison);;No Match;81;1;hydrocortison;;;S01BA02;H02AB09;;81;81.0;;0;0;0;0;0;S;;;;0;1;;0;5;;
+"[2 - Rtx low dose, Ranitidin]NATRIUMCHLORID Inf.Lsg.154";;No Match;81;0;;;;D08AC05;A02BC04;;53;50.0;;0;0;0;0;0;D;;;;0;0;;A02BA02;5;ATC Code A02BA02 korrekt?;A02BA02
+Metformin;;No Match;81;0;;;A10BA02;A10BA02;;;100;;;0;0;0;1;0;A;;;1;1;;;0;5;;
+ABILIFY 5 mg Tabletten | (Aripiprazol);;No Match;81;1;aripiprazol;N05AX12;;N05AX12;;;96;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+RIOPAN Magen Gel Stick-Pack | (Magaldrat);A02AD02;Fuzzy Match;81;1;magaldrat;A02AD02;A02AD02;A02AD02;;;100;;;1;1;1;1;1;A;A;1;1;1;;;0;5;;
+"[4 - Wässerung nach CYP, Furosemid]E 153 (Vollelektrolytlösung) über 1 h";;No Match;81;0;;;;A01AB02;B02BC51;;51;48.0;;0;0;0;0;0;A;;;;0;0;;B05BB01;5;;
+Dipidolor 7,5 mg;;No Match;81;0;;;;A07FA01;N05CD08;M01AE01;56;53.0;52.0;0;0;0;0;0;A;;;;0;0;0;N02AC03;5;ATC Code N02AC03 korrekt?;N02AC03
+Prednisolon 100mg;;No Match;81;0;;;;H02AB06;;;86;;;0;0;0;0;0;H;;;;1;;;0;5;;
+Lantus IE;;No Match;81;0;;;;A10AE04;A06AB02;;80;56.0;;0;0;0;0;0;A;;;;1;0;;0;5;;
+Thiamin 100 mg;;No Match;80;0;;;;N02CC01;N06AA06;A12CD51;74;71.0;71.0;0;0;0;0;0;N;;;;0;0;0;A11DA01;5;ATC Code A11DA01 korrekt?;A11DA01
+Novalgin gtt;;No Match;80;0;;;;N02BB02;G03CA03;G01AD03;80;56.0;56.0;0;0;0;0;0;N;;;;1;0;0;0;5;;
+PROCORALAN 7,5 mg Filmtabletten | (Ivabradin);;No Match;80;1;ivabradin;C01EB17;;C01EB17;;;47;;;0;0;1;0;0;C;;1;;1;;;0;5;;
+KCl-Infusionszusatz;;No Match;80;0;;;;N04BB01;L01XC14;;63;59.0;;0;0;0;0;0;N;;;;0;0;;B05XA01;5;Was wäre hier korrekt für ATC?;B05XA01
+CEFTRIAXON 2,0 g Plv.z.Herst.Inf. Lsg in 50 ml NaCl über 30 min| (Ceftriaxon, Natrium-Ion);;No Match;80;1;ceftriaxon, natrium-ion;;;J01DD04;L04AA18;;77;65.0;;0;0;0;0;0;J;;;;1;0;;0;5;;
+FOSFOMYCIN Eberth 3 g Granulat z.Her.e.Lsg.z.Einn. | (Fosfomycin);;No Match;80;1;fosfomycin;J01XX01;J01XX01;J01XX01;;;97;;;1;1;1;1;0;J;;1;1;1;;;0;5;;
+ELEKTROLYT Inf.-Lsg. 154;;No Match;80;0;;;;B05BB02;B05BB01;;62;62.0;;0;0;0;0;0;B;;;;1;0;;0;5;ATC Code B05BB1 korrekt?;B05BB02
+CEFUROXIM 1500 mg Plv.Inf.-Lsg.-Herst. in 50ml NaCl über 1h (Cefuroxim) bei GFR >50;;No Match;80;0;;;;J01DC02;;;84;;;0;0;0;0;0;J;;;;1;;;0;5;;
+Bifiteral 20 ml;;No Match;80;0;;;;A06AD11;A11CA01;;77;67.0;;0;0;0;0;0;A;;;;1;0;;0;5;;
+2 DTIC 400 mg/m²;;No Match;80;0;;;;L01AX04;J05AB01;;64;60.0;;0;0;0;0;0;L;;;;1;0;;0;5;ATC Code L01AX04 korrekt?;L01AX04
+Loratadin 10mg;;No Match;80;0;;;;R06AX13;N06BA04;;100;77.0;;0;0;0;0;0;R;;;;1;0;;0;5;;
+Klacid 500 mg;;No Match;80;0;;;;J01FA09;A12AA04;;63;59.0;;0;0;0;0;0;J;;;;1;0;;0;5;;
+Telfast 180 mg;;No Match;80;0;;;;R06AX22;C09BB06;J04AB02;69;67.0;67.0;0;0;0;0;0;R;;;;0;0;0;R06AX26;5;;
+ACC 600;;No Match;79;0;;;;J05AB01;;;71;;;0;0;0;0;0;J;;;;0;;;R05CB01;5;;
+BEZAFIBRAT HEXAL 400 mg retard Tabl. | (Bezafibrat);;No Match;79;1;bezafibrat;C10AB02;;C10AB02;;;86;;;0;0;1;0;0;C;;1;;1;;;0;5;;
+BISOPROLOL ratiopharm 1,25 mg Filmtabletten | (Bisoprolol);;No Match;79;1;bisoprolol;;;C07AB07;;;96;;;0;0;0;0;0;C;;;;1;;;0;5;;
+CLEXANE 7.000 I.E. 70mg/0,7ml ILO F.Sp.+Sich-Sys. | (Enoxaparin natrium);;No Match;79;1;enoxaparin natrium;B01AB05;;B01AB05;;;79;;;0;0;1;0;0;B;;1;;1;;;0;5;;
+PREGABALIN-ratiopharm Hartkapseln | (Pregabalin);;No Match;79;1;pregabalin;N03AX16;;N03AX16;;;89;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+FALITHROM 3mg Filmtabletten | (Phenprocoumon);;No Match;79;1;phenprocoumon;B01AA04;;B01AA04;;;100;;;0;0;1;0;0;B;;1;;1;;;0;5;;
+MCP;;No Match;79;0;;;A03FA01;A03FA01;;;100;;;0;0;0;1;0;A;;;1;1;;;0;5;;
+Metoprolol 95 mg;;No Match;79;0;;;;C07AB02;V04CD01;;77;58.0;;0;0;0;0;0;C;;;;1;0;;0;5;;
+Lasix 40mg;;No Match;79;0;;;;N06BA12;B01AC04;C03CA01;73;73.0;72.0;0;0;0;0;0;N;;;;0;0;1;0;5;;
+FOLVERLAN Tabletten | (Folsäure);;No Match;79;1;folsäure;B03BB01;;B03BB01;;;82;;;0;0;1;0;0;B;;1;;1;;;0;5;;
+Novamin 500 mg;;No Match;79;0;;;;N02BB02;G04BA04;B02BD04;77;69.0;69.0;0;0;0;0;0;N;;;;1;0;0;0;5;;
+THIAMAZOL 5 mg Henning Filmtabletten | (Thiamazol);;No Match;79;1;thiamazol;H03BB02;;H03BB02;;;78;;;0;0;1;0;0;H;;1;;1;;;0;5;;
+TELMISARTAN HEXAL 40 mg Tabletten | (Telmisartan);;No Match;79;1;telmisartan;C09CA07;C09CA07;C09CA07;;;95;;;1;1;1;1;0;C;;1;1;1;;;0;5;;
+Trazodon Tabletten;;No Match;78;0;;;;N05BB01;C01EP01;A16AA05;67;67.0;67.0;0;0;0;0;0;N;;;;0;0;0;N06AX05;5;;
+ZYPREXA 5 mg überzogene Tabletten | (Olanzapin);;No Match;78;1;olanzapin;N05AH03;;N05AH03;;;96;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+LITHIUM APOGEPHA Tabletten | (Lithium-Ion, Lithium-Ion);;No Match;78;1;lithium-ion, lithium-ion;;;G03CA04;N05BB01;N02AJ06;62;60.0;59.0;0;0;0;0;0;G;;;;0;0;0;N05AN01;5;ATC Code?;N05AN01
+HALDOL Janssen Tropfen zum Einnehmen | (Haloperidol);;No Match;78;1;haloperidol;N05AD01;;N05AD01;;;88;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+MIRTAZAPIN Filmtabletten | (Mirtazapin);;No Match;78;1;mirtazapin;N06AX11;;N06AX11;;;65;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+Esomeprazol 40 mg;;No Match;78;0;;;;A02BC05;D08AX05;A02BC01;80;61.0;58.0;0;0;0;0;0;A;;;;1;0;0;0;5;;
+Reducto spezial;;No Match;78;0;;;;G04BC50;M01AB05;;100;50.0;;0;0;0;0;0;G;;;;1;0;;0;5;;
+FEXOFENADERM 180 mg Filmtabletten | (Fexofenadin);R06AX26;Fuzzy Match;78;1;fexofenadin;R06AX26;;R06AX26;;;62;;;0;0;1;0;1;R;R;1;;1;;;0;5;;
+SMOFKABIVEN zentral 2200 kcal;;No Match;78;0;;;;B05BA10;;;88;;;0;0;0;0;0;B;;;;1;;;0;5;;
+Granocyte 34;;No Match;78;0;;;L03AA10;L03AA10;C01DX12;;100;53.0;;0;0;0;1;0;L;;;1;1;0;;0;5;;
+CARVEDILOL HEXAL 25 mg Tabletten | (Carvedilol);;No Match;78;1;carvedilol;C07AG02;C07AG02;C07AG02;;;95;;;1;1;1;1;0;C;;1;1;1;;;0;5;;
+Dexamethason 8mg;;No Match;78;0;;;H02AB02;H02AB02;;;100;;;0;0;0;1;0;H;;;1;1;;;0;5;;
+TOREM 200 Tabletten | (Torasemid);;No Match;78;1;torasemid;C03CA04;;C03CA04;;;100;;;0;0;1;0;0;C;;1;;1;;;0;5;;
+D) RANITIDIN  1 Ampulle als Bolus | (Ranitidin);;No Match;78;1;ranitidin;;;A12CD51;N06BA04;C08CA05;59;58.0;57.0;0;0;0;0;0;A;;;;0;0;0;A02BA02;5;ATC Code A02BA02 korrekt?;A02BA02
+"[ACC vor KM Applikation]NATRIUMCHLORID Inf.Lsg.154 über 10h";;No Match;77;0;;;;R05CB01;N05BA06;V04CA03;58;57.0;54.0;0;0;0;0;0;R;;;;1;0;0;0;5;Geht es hier um das ACC als Wirkstoff? Wäre dann ja R05CB01 oder?; R05CB01
+METFORMIN HEXAL Filmtabletten | (Metformin);;No Match;77;1;metformin;A10BA02;;A10BA02;;;83;;;0;0;1;0;0;A;;1;;1;;;0;5;;
+Schwedentabletten;;No Match;77;0;;;;N02AJ06;V03AX10;;62;57.0;;0;0;0;0;0;N;;;;0;0;;V06XX02;5;Welcher ATC Code?;V06XX02
+Antabus;;No Match;77;0;;;;A09AA57;A02BC01;V04BA01;57;55.0;53.0;0;0;0;0;0;A;;;;0;0;0;N07BB01;5;ATC Code N07BB01 korrekt?;N07BB01
+Inhalation mit Sole;;No Match;77;0;;;;R03AC02;R04AX01;R07AX01;64;59.0;59.0;0;0;0;0;0;R;;;;0;0;0;B05BB11;5;was ist das?;B05BB11 
+DIAZEPAM 10 mg ROTEXMEDICA Injektionslösung | (Diazepam);;No Match;77;1;diazepam;N05BA01;;N05BA01;;;73;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+INEGY 10 mg/10 mg Tabletten | (Ezetimib);;No Match;77;1;ezetimib;;;C10BA02;C10AX09;;85;33.0;;0;0;0;0;0;C;;;;1;0;;0;5;;
+LISINOPRIL Teva 2,5 mg Tabletten | (Lisinopril);;No Match;77;1;lisinopril;C09AA03;;C09AA03;;;83;;;0;0;1;0;0;C;;1;;1;;;0;5;;
+FINASTERID STADA 5 mg Filmtabletten | (Finasterid);;No Match;77;1;finasterid;G04CB01;G04CB01;G04CB01;;;95;;;1;1;1;1;0;G;;1;1;1;;;0;5;;
+CANDESARTAN HEXAL Tabletten | (Candesartan);;No Match;77;1;candesartan;;;C09CA06;;;89;;;0;0;0;0;0;C;;;;1;;;0;5;;
+"[Prednisolon]NATRIUMCHLORID Inf.Lsg.154 | (Natrium-Ion, Chlorid-Ion)";;No Match;77;1;natrium-ion, chlorid-ion;;;B05BB11;B05XA03;;70;68.0;;0;0;0;0;0;B;;;;1;0;;0;5;;
+"[Inhalation - Trägerlösung für Atrovent]NACL 0,9%";;No Match;77;0;;;;R04AX01;R03AC02;R03AL01;70;65.0;61.0;0;0;0;0;0;R;;;;0;0;0;unspec;unspec;ATC Code möglich?;Atrovent wäre R03BB01, aber nicht eindeutig
+OLIMEL Peripher 2,5% 700 kcal;;No Match;76;0;;;;B05BA10;;;69;;;0;0;0;0;0;B;;;;1;;;0;5;;
+SEVREDOL 10 mg Filmtabletten | (Morphin);;No Match;76;1;morphin;;;N02AA01;;;96;;;0;0;0;0;0;N;;;;1;;;0;5;;
+Moxonidin;;No Match;76;0;;;C02AC05;C02AC05;;;100;;;0;0;0;1;0;C;;;1;1;;;0;5;;
+Zolpidem 10mg;N05CF02;Fuzzy Match;76;0;;;;N05CF02;D11AH04;S01EC04;100;71.0;69.0;0;0;0;0;1;N;N;;;1;0;0;0;5;;
+LEVODOPA ratioph.comp.200mg/50mg Retardtabletten | (Carbidopa);;No Match;76;1;carbidopa;;;N04BA10;;;75;;;0;0;0;0;0;N;;;;1;;;0;5;;
+Entresto 24/26mg;;No Match;76;0;;;;C09DX04;;;94;;;0;0;0;0;0;C;;;;1;;;0;5;;
+"[5 - Rtx low dose] Rituximab inNATRIUMCHLORID Inf.Lsg.154 über 10h";;No Match;76;0;;;;A10BK01;M01CX01;L01EX10;50;50.0;50.0;0;0;0;0;0;A;;;;0;0;0;L01XC02;5;Ist der ATC Code L01XC02 für Rituximab korrekt?;L01FA01
+PANTOPRAZOL;;No Match;76;0;;;A02BC02;A02BC02;;;100;;;0;0;0;1;0;A;;;1;1;;;0;5;;
+Lactulose;;No Match;76;0;;;;A07FA01;C03DA01;;62;57.0;;0;0;0;0;0;A;;;;0;0;;A06AD11;5;;
+TOREM 10 mg;;No Match;76;0;;;;L04AC16;N05BA06;C03CA04;75;73.0;71.0;0;0;0;0;0;L;;;;0;0;1;0;5;;
+Metronidazol 500mg;;No Match;76;0;;;;J01XD01;P01AB01;N03AD01;80;80.0;71.0;0;0;0;0;0;J;;;;1;0;0;0;5;;
+Dekristol 20.000IE;;No Match;76;0;;;;A11CC05;;;83;;;0;0;0;0;0;A;;;;1;;;0;5;;
+Simvastatin 20mg;;No Match;76;0;;;;C10BA02;C10AA01;;100;100.0;;0;0;0;0;0;C;;;;0;0;;C10AA01;5;;
+Aciclovir DOSIS_UNTEN_ANPASSEN (5mg/kg KG);;No Match;76;0;;;;N05BE01;J05AB01;;55;54.0;;0;0;0;0;0;N;;;;0;1;;0;5;Tabletten oder Creme? Ist das J05AB01?;J05AB01
+DEXA 8 mg Injekt Jenapharm Ampullen | (Dexamethason 21-dihydrogenphosphat, Dexamethason);;No Match;75;1;dexamethason 21-dihydrogenphosphat, dexamethason;;;S01BA01;H02AB02;;67;62.0;;0;0;0;0;0;S;;;;0;1;;0;5;;
+PARACETAMOL B.Braun 10mg/ml 500mg Infusionslsg. | (Paracetamol);;No Match;75;1;paracetamol;N02BE01;;N02BE01;;;100;;;0;0;1;0;0;N;;1;;1;;;0;5;;
+NaCl 0.9%;;No Match;75;0;;;;B05CB01;H01BA02;;100;57.0;;0;0;0;0;0;B;;;;0;0;;B05BB11;5;ATC Code B05CD01 korrekt?;B05BB11 
+FENISTIL Dragees | (Dimetinden);;No Match;75;1;dimetinden;;;R06AB03;D04AA13;;100;100.0;;0;0;0;0;0;R;;;;1;0;;0;5;;
+HUMAN ALBUMIN;;No Match;75;0;;;B05AA01;B05AA01;;;100;;;0;0;0;1;0;B;;;1;1;;;0;5;;
+U-Status;;No Match;75;0;;;;G04CP06;N05CM21;G04BC01;55;50.0;50.0;0;0;0;0;0;G;;;;0;0;0;nomed;nomed;no_med?;no med
+FLUVASTATIN HEXAL 80 mg Retardtabletten | (Fluvastatin);;No Match;75;1;fluvastatin;C10AA04;;C10AA04;;;92;;;0;0;1;0;0;C;;1;;1;;;0;5;;
+Meropenem (Meronem) i.v. in [g];;No Match;75;0;;;;J01DH02;J04AB02;;65;53.0;;0;0;0;0;0;J;;;;1;0;;0;5;;
+CLEXANE 4.000 I.E. 40 mg / 40ml (Enoxaparin natrium);;No Match;75;0;;;;B01AB05;;;79;;;0;0;0;0;0;B;;;;1;;;0;5;;

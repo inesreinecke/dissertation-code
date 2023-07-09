@@ -1,0 +1,51 @@
+,concept_id_atc,code_atc,name_atc,ATC - RxNorm pr lat,ATC - RxNorm pr up,ATC - RxNorm sec lat,ATC - RxNorm sec up,Maps to
+388,1123745,P01BX02,arterolane and piperaquine; oral,,,3,,1
+2294,21602475,G03AA02,quingestanol and ethinylestradiol; systemic,,,2,,1
+2366,21602572,G03FA05,methylnortestosterone and estrogen; systemic,,,10,,1
+2377,21602583,G03FA16,"trimegestone and estrogen; systemic (progestogens and estrogens, fixed comb.)",,,10,,1
+2389,21602596,G03FB11,"trimegestone and estrogen; systemic (progestogens and estrogens, sequential prep.)",,,10,,1
+2769,21603118,J04AM04,thioacetazone and isoniazid; systemic,,,1,,1
+2825,21603194,J05AX08,[U] raltegravir; oral,,,,,1
+3281,21603772,L01XE01,[U] imatinib; oral,,,,,1
+3282,21603773,L01XE02,[U] gefitinib; oral,,,,,1
+3283,21603774,L01XE03,[U] erlotinib; oral,,,,,1
+3284,21603775,L01XE04,[U] sunitinib; oral,,,,,1
+3285,21603776,L01XE05,[U] sorafenib; oral,,,,,1
+3286,21603777,L01XE06,[U] dasatinib; systemic,,,,,1
+3287,21603778,L01XE07,[U] lapatinib; oral,,,,,1
+3288,21603779,L01XE08,[U] nilotinib; oral,,,,,1
+3289,21603780,L01XE09,[U] temsirolimus; parenteral,,,,,1
+3290,21603781,L01XE10,[U] everolimus; oral,,,,,1
+3291,21603782,L01XE11,[U] pazopanib; oral,,,,,1
+3299,21603793,L01XX14,[U] tretinoin; systemic,,,,,1
+3301,21603795,L01XX17,[U] topotecan; systemic,,,,,1
+3302,21603797,L01XX19,[U] irinotecan; parenteral,,,,,1
+3303,21603798,L01XX22,"[U] alitretinoin; oral, topical",,,,,1
+3306,21603801,L01XX25,"[U] bexarotene; oral, topical",,,,,1
+3309,21603804,L01XX32,[U] bortezomib; parenteral,,,,,1
+3312,21603809,L01XX38,[U] vorinostat; oral,,,,,1
+3313,21603810,L01XX39,[U] romidepsin; parenteral,,,,,1
+4141,21604924,P01CX01,pentamidine isethionate; parenteral,,,,,1
+4222,21605053,R01AD12,fluticasone furoate; nasal,,,,,1
+4547,40253394,L01XE12,[U] vandetanib; oral,,,,,1
+4548,40253395,L01XE13,[U] afatinib; oral,,,,,1
+4549,40253396,L01XE14,[U] bosutinib; oral,,,,,1
+4550,40253397,L01XE15,[U] vemurafenib; oral,,,,,1
+4551,40253398,L01XE16,[U] crizotinib; oral,,,,,1
+4552,40253399,L01XE17,[U] axitinib; oral,,,,,1
+4553,40253400,L01XE18,[U] ruxolitinib; oral,,,,,1
+4556,40253431,L01XX42,[U] panobinostat; oral,,,,,1
+4672,43534800,J05AX11,[U] elvitegravir; systemic,,,,,1
+4673,43534801,J05AX12,[U] dolutegravir; oral,,,,,1
+4679,43534810,L01XE21,[U] regorafenib; oral,,,,,1
+4680,43534812,L01XE23,[U] dabrafenib; oral,,,,,1
+4681,43534813,L01XE24,[U] ponatinib; oral,,,,,1
+4682,43534814,L01XE25,[U] trametinib; oral,,,,,1
+4683,43534815,L01XX43,[U] vismodegib; oral,,,,,1
+4685,43534817,L01XX45,[U] carfilzomib; parenteral,,,,,1
+4743,45893189,L01XE28,[U] ceritinib; oral,,,,,1
+4763,45893461,L01XE27,[U] ibrutinib; oral,,,,,1
+4789,45893489,L01XX46,[U] olaparib; oral,,,,,1
+4795,45893496,R03BA09,fluticasone furoate; inhalant,,,,,1
+4796,45893497,L01XE26,[U] cabozantinib; oral,,,,,1
+4797,45893498,L01XX47,[U] idelalisib; oral,,,,,1
