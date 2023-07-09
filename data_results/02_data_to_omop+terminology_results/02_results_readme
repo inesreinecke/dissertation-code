@@ -1,2 +1,4 @@
 Hier werden alle Ergebnisse des Transfers der Medikationsverordnungen abgelegt (Schritt 1 und Schritt 2) 
 Außerdem wird für Schritt 3 der Überführung der Medikationsverordnungen auch das Hinzufügen der RxNorm Codes, wenn ein explizites Mapping verfügbar ist, durchgeführt.
+
+Die entsprechenden CSV Dateien mit den Medikationsverordnungen sind aber in diesem GitRepo nicht enthalten, können aber durch die Skripte generiert werden. 
